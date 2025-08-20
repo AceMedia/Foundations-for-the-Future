@@ -85,15 +85,15 @@ A rebalanced, fair, and beautiful housing system would reduce costs for governme
 
 ## References
 
-1. Vienna City Administration. *Vienna Housing Strategy* (2021).  
+1. [Vienna City Administration. *Vienna Housing Strategy* (2021)](https://www.wien.gv.at/english/administration/housing/)  
 2. Phang, S.Y. *The Singapore Model of Housing and the Welfare State* (World Scientific, 2018).  
-3. The Local Germany. “Why Berlin’s rent cap was overturned by Germany’s Constitutional Court” (2021).  
+3. [The Local Germany. “Why Berlin’s rent cap was overturned by Germany’s Constitutional Court” (2021)](https://www.thelocal.de/20210415/why-berlins-rent-cap-was-overturned-by-germanys-constitutional-court/)  
 4. Turner, B. *Social Housing in Sweden* (Urban Studies, 2017).  
-5. UK Ministry of Housing, Communities and Local Government. *Housing Supply: Indicators of New Supply, England 2023*.  
-6. Office for National Statistics (ONS). *UK Housing and Tenure Trends* (2021).  
-7. House of Commons Library. *Housing Conditions in the Private Rented Sector* (2022).  
-8. ONS. *House Price to Workplace-Based Earnings Ratio* (2022).  
-9. Royal Institute of British Architects (RIBA). *The Case for Beautiful Homes* (2020).  
-10. Institute for Government. *Net Zero and the Future of UK Housing* (2021).  
-11. Government of Canada. *Resettlement Assistance Program* (2022).  
-12. Public Health England. *The Cost of Poor Housing to the NHS* (2019).  
+5. [UK Ministry of Housing, Communities and Local Government. *Housing Supply: Indicators of New Supply, England 2023*](https://www.gov.uk/government/collections/housing-supply-statistics)  
+6. [Office for National Statistics (ONS). *UK Housing and Tenure Trends* (2021)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing)  
+7. [House of Commons Library. *Housing Conditions in the Private Rented Sector* (2022)](https://researchbriefings.files.parliament.uk/documents/CBP-9437/CBP-9437.pdf)  
+8. [ONS. *House Price to Workplace-Based Earnings Ratio* (2022)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2022)  
+9. [Royal Institute of British Architects (RIBA). *The Case for Beautiful Homes* (2020)](https://www.architecture.com/knowledge-and-resources/resources-landing-page/the-case-for-beautiful-homes)  
+10. [Institute for Government. *Net Zero and the Future of UK Housing* (2021)](https://www.instituteforgovernment.org.uk/publications/net-zero-and-future-uk-housing)  
+11. [Government of Canada. *Resettlement Assistance Program* (2022)](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/help-within-canada/government-assisted-refugee-program/resettlement-assistance-program.html)  
+12. [Public Health England. *The Cost of Poor Housing to the NHS* (2019)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/831882/Cost-of-Poor-Housing-Briefing.pdf)  
