@@ -2,7 +2,7 @@
 
 Seasonal worker programmes represent a practical solution to UK labour shortages while supporting controlled, beneficial migration. When designed properly, they can strengthen food security, support regional economies, and provide pathways for integration — moving beyond the current ad hoc arrangements that often exploit workers and undermine local wages.
 
-The UK's agricultural and hospitality sectors face chronic labour shortages that seasonal migration can address effectively. The welfare system's proposed bulk food procurement programmes create additional opportunities for managed seasonal work in food processing and distribution. Meanwhile, coastal and rural communities struggling with economic decline could benefit significantly from well-managed seasonal programmes that bring workers, spending, and skills to areas that need them most.
+The UK's farms and coastal towns need workers during peak seasons. The [bulk food procurement programmes outlined in welfare reform](../welfare/welfare-and-wellbeing-reform.md) create additional opportunities for managed seasonal work. Meanwhile, coastal and rural communities struggling with economic decline could benefit significantly from well-managed programmes that bring workers, spending, and skills to areas that need them most.
 
 ---
 

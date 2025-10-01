@@ -70,15 +70,17 @@ Current enforcement focuses disproportionately on prosecuting migrants themselve
 
 ### 4. Remove incentives for irregular work through smart enforcement
 
-Illegal employment remains a key pull factor. Home Office data shows over 60% of asylum seekers eventually work in the grey economy while awaiting decisions (Migration Observatory, 2023). Smart enforcement targets exploitative employers while protecting workers.
+If people can easily find illegal work, they will keep coming illegally. The solution is targeting bad employers, not creating more bureaucracy for everyone else.
+
+Illegal employment remains a key pull factor. Over 60% of asylum seekers eventually work in the grey economy while awaiting decisions. Smart enforcement targets exploitative employers while protecting workers.
 
 **Immediate actions:**
 - Strengthen voluntary digital verification systems for migrant work authorisation only
 - Increase employer fines to £50,000 per illegal worker for serious offences
 - Protect migrant workers who report exploitation from immigration enforcement
-- Create seasonal worker visas for agriculture and hospitality sectors, supporting the bulk food procurement systems outlined in welfare reform and contributing to regional economic renewal during peak farming and tourism seasons
+- Create seasonal worker visas for agriculture and hospitality sectors, supporting the [bulk food procurement systems outlined in welfare reform](../welfare/welfare-and-wellbeing-reform.md) and contributing to regional economic renewal during peak farming and tourism seasons
 
-**International evidence:** The Netherlands' employer sanctions regime reduced illegal employment by an estimated 30% between 2018-2022 while improving workplace conditions, focusing enforcement on exploitative employers rather than expanding checks on legal workers (Dutch Labour Inspectorate, 2023).
+The Netherlands reduced illegal employment by 30% between 2018-2022 by focusing enforcement on exploitative employers rather than expanding checks on legal workers.
 
 ---
 
