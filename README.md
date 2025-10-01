@@ -22,7 +22,8 @@ Stop spending £23 billion/year on Housing Benefit that flows to private landlor
 
 ### **💷 Welfare: Investment in People, Not Crisis Management**  
 Replace cash-and-hope with direct provision: guaranteed housing, bulk food procurement, covered utilities, and well-being budgets for dignity and growth. Countries like Finland show this works better and costs less.
-→ *[Read the welfare reform](welfare/welfare-and-wellbeing-reform.md)*
+→ *[Read the welfare reform](welfare/welfare-and-wellbeing-reform.md)*  
+→ *[Read about bulk food procurement systems](welfare/bulk-food-procurement.md)*
 
 ### **🚢 Immigration: Legal Routes, Fast Decisions, Smart Enforcement**
 End the Channel crossing crisis with four simple principles: expand safe, legal routes; process asylum claims in months not years; target smuggling networks; remove incentives for illegal work. Australia, Canada, and Germany show this approach works.
