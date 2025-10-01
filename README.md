@@ -4,30 +4,72 @@
 
 ---
 
-## About  
+## The Big Picture
 
-*Foundations for the Future* is a collection of essays and policy chapters written in Markdown.  
-It explores how the UK could rethink welfare, well-being, and economic renewal in order to build a fairer, healthier, and more resilient society.  
+Britain faces interconnected crises: unaffordable housing, broken welfare, stagnant regions, dangerous Channel crossings, and an NHS under pressure. This isn't about left vs right — it's about what works.
 
-This project is not a finished manifesto. It is a **living document**, a working draft intended for discussion and iteration. By putting these ideas in the open, the aim is to invite constructive feedback, critique, and collaboration.  
+*Foundations for the Future* is an evidence-based policy framework showing how Britain can build prosperity, security, and dignity for everyone. Every proposal is backed by international examples, detailed costings, and a clear implementation plan.
 
----
-
-## Contents  
-
-- `welfare-and-wellbeing-reform.md`  
-  Rethinking the UK’s welfare system as an investment in people: housing, food, nutrition, well-being budgets, and personal development.  
-
-*(More chapters to come, including entrepreneurship, regional development, and economic renewal.)*  
+This is a **living document** — a working draft for discussion, not a finished manifesto.
 
 ---
 
-## Goals  
+## What We're Proposing
 
-- Provide **practical, evidence-backed ideas** for reform.  
-- Create a space for **peer feedback and open discussion**.  
-- Encourage thinking that goes beyond austerity or cash transfers — towards **foundations of stability and growth**.  
-- Contribute to a wider conversation about **how to fix the UK for the long term**.  
+### **🏠 Housing: Guaranteed Homes, Not Landlord Subsidies**
+Stop spending £23 billion/year on Housing Benefit that flows to private landlords. Build council housing instead. Give people secure homes, cut homelessness costs (£1.6 billion/year on temporary accommodation), and prevent the next cladding scandal.
+→ *[Read the housing policy](housing/housing-policy.md)*
+
+### **💷 Welfare: Investment in People, Not Crisis Management**  
+Replace cash-and-hope with direct provision: guaranteed housing, bulk food procurement, covered utilities, and well-being budgets for dignity and growth. Countries like Finland show this works better and costs less.
+→ *[Read the welfare reform](welfare/welfare-and-wellbeing-reform.md)*
+
+### **🚢 Immigration: Legal Routes, Fast Decisions, Smart Enforcement**
+End the Channel crossing crisis with four simple principles: expand safe, legal routes; process asylum claims in months not years; target smuggling networks; remove incentives for illegal work. Australia, Canada, and Germany show this approach works.
+→ *[Read the immigration framework](immigration/immigration.md)*  
+→ *[Read about seasonal worker programmes](immigration/seasonal-migration.md)*
+
+### **🏭 Economy: Entrepreneurs Everywhere, Not Just London**
+Britain has too few entrepreneurs and too much London dependence. Create regional venture funds, infrastructure investment, tax incentives for risk-taking, and green entrepreneurship to spread prosperity nationwide.
+→ *[Read the economic renewal plan](economy/entrepreneurship-and-renewal.md)*
+
+### **🩺 Health: Prevention, Not Just Treatment**
+Treat drugs as a health issue (like Portugal), expand bulk healthy food provision, and stop trying to control what adults do in their spare time. Focus NHS resources on care, not policing lifestyle choices.
+→ *[Read the health policy](health/nhs-and-public-health.md)*
+
+### **🎓 Education: Skills for Jobs, Parents for Children**
+Match education to real jobs — coding, engineering, green technology. Follow Germany's apprenticeship model. Keep parents responsible for children's online safety, not government as digital nanny.
+→ *[Read the education framework](education/education-and-skills.md)*
+
+### **🗳️ Governance: Local Power, Digital Efficiency, Free Speech**
+Move power from Westminster to regions. Merge overlapping agencies, digitise services (learn from Estonia), and protect free speech by making insults civil matters, not criminal ones.
+→ *[Read the democracy reforms](governance/democracy-and-reform.md)*
+
+---
+
+## The Numbers: £3-6 Billion in Annual Savings
+
+These reforms don't cost money — they save it:
+
+- **Housing**: £1-2 billion/year from redirecting Housing Benefit into social housing and ending costly temporary accommodation
+- **Health**: £0.5-1 billion/year from healthier homes and better nutrition preventing NHS demand  
+- **Welfare**: £0.2-0.5 billion/year from ending bureaucratic churn and crisis interventions
+- **Skills**: £0.8-1.5 billion/year from reducing NEETs and boosting productivity
+- **Government**: £0.6-1.2 billion/year from merging agencies and digital transformation
+
+**Total: £3-6 billion annually in direct savings, before counting dynamic growth effects.**
+
+→ *[See the full budget analysis](budget/summary-of-savings.md)*
+
+---
+
+## Why This Matters
+
+Britain isn't broken beyond repair. We've done bold reform before — the post-war welfare state, council housing, the NHS. We can do it again.
+
+But we need to be honest about trade-offs and learn from what works elsewhere. That means Vienna's social housing, Canada's refugee sponsorship, Germany's skills training, Portugal's drug policy, and Estonia's digital government.
+
+This framework shows those lessons can work in Britain too.
 
 ---
 
