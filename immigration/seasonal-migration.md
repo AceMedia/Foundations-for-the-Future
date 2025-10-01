@@ -24,11 +24,16 @@ These models demonstrate that seasonal migration can work when properly regulate
 
 The UK's agricultural sector faces significant labour gaps. The National Farmers' Union estimates that 70,000 seasonal workers are needed annually for fruit and vegetable harvesting, with particular shortages in strawberries, apples, and brassicas (NFU, 2023). Brexit ended easy access to EU workers, while domestic workers rarely fill these roles consistently.
 
-Seasonal agricultural visas could address these shortages while supporting the bulk food procurement systems proposed in welfare reform. Workers could participate in:
-- Harvest and processing operations for centrally procured food systems
+Seasonal agricultural visas could address these shortages while supporting the [bulk food procurement systems proposed in welfare reform](../welfare/welfare-and-wellbeing-reform.md). This connects to the broader [immigration policy framework](./immigration.md) by providing legal routes that reduce incentives for dangerous journeys.
+
+Workers could participate in:
+- Harvest and processing for centrally procured food systems
 - Packaging and distribution of bulk provisions for schools, hospitals, and welfare recipients  
-- Quality control and nutritional assessment of food supplies
-- Supporting local food production that reduces import dependency
+- Quality control and nutritional assessment
+- Local food production that reduces import dependency
+- Fair trade partnerships between their home countries and UK procurement systems
+
+*[See comprehensive bulk food procurement framework](../welfare/bulk-food-procurement.md)*
 
 **Budget benefits:** Reliable agricultural labour reduces food costs for bulk procurement programmes. Each seasonal worker generates approximately £3,000 in economic activity during a season, while reducing food import costs and supporting rural communities (Migration Advisory Committee, 2022).
 

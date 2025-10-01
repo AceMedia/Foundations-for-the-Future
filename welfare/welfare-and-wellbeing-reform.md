@@ -28,7 +28,9 @@ Currently, welfare recipients are expected to budget for utilities, often at the
 
 Food insecurity is perhaps the clearest symbol of Britain’s failing welfare model. The rise of food banks — once rare — has become a permanent feature. The Trussell Trust distributed **2.99 million emergency food parcels in 2022/23**, more than double the number in 2015/16 (Trussell Trust, 2023). No wealthy country should tolerate such levels of hunger.  
 
-At the same time, the state already manages vast bulk food systems. Schools, hospitals, prisons, and the armed forces all purchase and distribute food on a daily basis. These systems achieve economies of scale, keeping costs down and quality up. Extending them to households on welfare is a logical next step. Instead of leaving families to shop retail on tight budgets, food could be supplied centrally, using the same procurement systems.  
+At the same time, the state already manages vast bulk food systems. Schools, hospitals, prisons, and the armed forces all purchase and distribute food on a daily basis. These systems achieve economies of scale, keeping costs down and quality up. Extending them to households on welfare is a logical next step. Instead of leaving families to shop retail on tight budgets, food could be supplied centrally, using the same procurement systems.
+
+*[See detailed bulk food procurement framework](./bulk-food-procurement.md)*  
 
 There are precedents abroad. Finland has provided free school meals since 1948, ensuring every child eats one balanced meal per day. The policy is credited with improving educational outcomes and reducing inequality (Simola, 2015). In Sweden, centralised food procurement for public institutions reduces costs and waste while maintaining high nutritional standards.  
 

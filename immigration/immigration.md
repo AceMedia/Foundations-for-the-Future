@@ -78,7 +78,7 @@ Illegal employment remains a key pull factor. Over 60% of asylum seekers eventua
 - Strengthen voluntary digital verification systems for migrant work authorisation only
 - Increase employer fines to £50,000 per illegal worker for serious offences
 - Protect migrant workers who report exploitation from immigration enforcement
-- Create seasonal worker visas for agriculture and hospitality sectors, supporting the [bulk food procurement systems outlined in welfare reform](../welfare/welfare-and-wellbeing-reform.md) and contributing to regional economic renewal during peak farming and tourism seasons
+- Create seasonal worker visas for agriculture and hospitality sectors, supporting the [bulk food procurement systems outlined in welfare reform](../welfare/welfare-and-wellbeing-reform.md) and contributing to regional economic renewal during peak farming and tourism seasons (see [detailed seasonal migration framework](./seasonal-migration.md))
 
 The Netherlands reduced illegal employment by 30% between 2018-2022 by focusing enforcement on exploitative employers rather than expanding checks on legal workers.
 
