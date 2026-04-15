@@ -102,6 +102,8 @@ The fund should be reported in a simple annual statement:
 
 This matters because trust depends on visibility. People are far more likely to accept vice taxation if they can see that it is repairing real damage and building real capacity.
 
+*[See the wider defence and resilience case](../defence/defence-and-aid-resilience.md)*  
+
 ---
 
 ## Licensing and market rules must be strict, clear, and local

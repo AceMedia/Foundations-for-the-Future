@@ -30,6 +30,10 @@ End the Channel crossing crisis with four simple principles: expand safe, legal 
 → *[Read the immigration framework](immigration/immigration.md)*  
 → *[Read about seasonal worker programmes](immigration/seasonal-migration.md)*
 
+### **🛡️ Defence: Capability, Aid, and Resilience**
+Rebuild Britain's defence, logistics, engineering, and aid capacity so the state can deter threats, help allies, respond to emergencies, and intervene upstream instead of paying ever larger downstream failure costs.
+→ *[Read the defence and resilience framework](defence/defence-and-aid-resilience.md)*
+
 ### **🏭 Economy: Entrepreneurs Everywhere, Not Just London**
 Britain has too few entrepreneurs and too much London dependence. Create regional venture funds, infrastructure investment, tax incentives for risk-taking, and green entrepreneurship to spread prosperity nationwide.
 → *[Read the economic renewal plan](economy/entrepreneurship-and-renewal.md)*

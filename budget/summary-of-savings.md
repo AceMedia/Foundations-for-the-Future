@@ -74,6 +74,10 @@ If ministers choose to reinvest a portion of the savings (say **~£3 billion/y
 
 Savings in other areas, especially immigration-system churn, could also justify selective reinvestment rather than tax cuts alone. One candidate is **defence, engineering, and humanitarian-response capacity**: capabilities that help Britain abroad, strengthen resilience at home, and reduce the need to absorb every migration failure only after it reaches UK territory.
 
+That said, immigration savings are only one funding source and only one part of the policy case. The argument for rebuilding defence, aid, and resilience is broader than migration management alone.
+
+See the wider case in **[defence-and-aid-resilience.md](../defence/defence-and-aid-resilience.md)**.
+
 The exact mix would be decided in a full Budget process. As each `budget/*-savings.md` file is fleshed out with data, we will publish a consolidated **Budget Appendix** detailing options and distributional impacts.
 
 ---

@@ -46,6 +46,8 @@ Instead of burning large sums on inland support systems for people who may ultim
 
 This does not mean turning the armed forces into a substitute for diplomacy or development policy. It means recognising that national defence capability has peacetime uses that are often more strategic than simply absorbing downstream failure at home. Britain should be strong enough to help where crises begin, not only where their consequences finally arrive.
 
+*[See the fuller defence, aid, and resilience case](../defence/defence-and-aid-resilience.md)*  
+
 ---
 
 ## A practical policy framework: five pillars working together
@@ -115,6 +117,8 @@ The UK should add a fifth pillar to migration control: using defence, logistics,
 
 **Why this works:** it treats migration pressure as a strategic problem, not just an administrative nuisance. Upstream capacity is often cheaper than years of hotel bills, appeals, detention, dispersal, and repeat enforcement. It also strengthens Britain's armed forces in ways that are useful for both national defence and humanitarian response.
 
+This is one application of a broader argument about defence and national resilience, not the whole of it. Migration is part of the case for rebuilding capability, but not the only part.
+
 ---
 
 ## Implementation principles and political realities
@@ -142,6 +146,8 @@ A reformed system could save £1-2 billion annually through:
 - Economic benefits from expanded legal migration: potentially £500 million+ in additional tax revenue
 
 Part of those gains should be reinvested deliberately rather than simply banked. In particular, Britain should use some of the savings from reduced inland accommodation and fewer failed removals to rebuild defence, engineering, logistics, and humanitarian-response capacity. That is a better use of public money than paying for crisis churn inside the UK with little strategic return.
+
+That said, the case for stronger defence and aid capacity does not rest only on immigration savings. It is a wider national priority covering deterrence, alliance credibility, civil resilience, and upstream crisis response.
 
 **Investment required:** Expanding processing capacity requires upfront spending of approximately £200-300 million annually. Expanding resettlement and legal routes costs £100-200 million. The net saving remains substantial.
 

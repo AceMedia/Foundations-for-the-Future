@@ -25,6 +25,8 @@ Government reform is not only about cheaper paperwork. It is also about having r
 
 That applies to migration as well as natural disasters and security threats. If the state can move people, equipment, aid, and specialist teams quickly, it is better able to support allies, stabilise pressure points, and avoid wasting money on repeat crisis management inside Britain. Good governance therefore includes a stronger defence-and-resilience state, not just a slimmer administrative one.
 
+*[See the dedicated defence and resilience framework](../defence/defence-and-aid-resilience.md)*  
+
 ---
 
 ## Bibliography & References
