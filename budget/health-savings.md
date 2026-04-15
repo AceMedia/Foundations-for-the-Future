@@ -12,11 +12,15 @@ This file outlines how upstream reforms (housing, welfare, diet, community) redu
 
 - **Nutrition & food access**  
   Community procurement improves diets, lowers obesity/diabetes spend.  
-  ↳ See: [`../economy/community-and-social-enterprise.md`](../economy/community-and-social-enterprise.md)
+  ↳ See: [`../welfare/bulk-food-procurement.md`](../welfare/bulk-food-procurement.md)
 
 - **Well-being & social connection**  
   Reduces mental health burden and isolation costs.  
   ↳ See: [`../welfare/welfare-and-wellbeing-reform.md`](../welfare/welfare-and-wellbeing-reform.md)
+
+- **Earlier treatment and safer regulated vice markets**  
+  Reducing stigma, improving product safety, and making recovery easier to access can lower crisis presentations and some avoidable harms.  
+  ↳ See: [`../health/vice-taxation-and-betterment.md`](../health/vice-taxation-and-betterment.md)
 
 ---
 
@@ -27,6 +31,7 @@ This file outlines how upstream reforms (housing, welfare, diet, community) redu
 | Cold/damp homes | Respiratory, injury, mental health | £0.3–£0.6bn/yr | Housing policy |
 | Nutrition reform | Diabetes, obesity | £0.2–£0.4bn/yr | Economy |
 | Loneliness reduction | MH services, GP visits | £0.1–£0.2bn/yr | Welfare |
+| Earlier recovery engagement | Crisis care, untreated dependency, delayed intervention | TBD | Vice framework |
 
 ---
 
@@ -34,3 +39,5 @@ This file outlines how upstream reforms (housing, welfare, diet, community) redu
 
 - Link ONS/King’s Fund data on housing-health link.  
 - Build ROI case for retrofit/food interventions.
+- Model health-system effects of earlier treatment uptake and safer regulated access pathways.
+- Model savings if prescribed cannabis or similar regulated relief reduces reliance on heavier painkillers for some patients.

@@ -8,15 +8,15 @@ Focus: **back-office efficiency and duplication reduction** across government an
 
 - **Agency consolidation**  
   Merge overlapping quangos and back-office units.  
-  ↳ See: [`../governance/governance-reform.md`](../governance/governance-reform.md)
+  ↳ See: [`../governance/democracy-and-reform.md`](../governance/democracy-and-reform.md)
 
 - **Digital transformation**  
   Automate transactional services → lower admin headcount.  
-  ↳ See: [`../economy/digital-and-innovation.md`](../economy/digital-and-innovation.md)
+  ↳ See: [`../governance/democracy-and-reform.md`](../governance/democracy-and-reform.md)
 
 - **Smarter procurement**  
   Centralised frameworks, bulk buying.  
-  ↳ See: [`../economy/community-and-social-enterprise.md`](../economy/community-and-social-enterprise.md)
+  ↳ See: [`../welfare/bulk-food-procurement.md`](../welfare/bulk-food-procurement.md)
 
 ---
 

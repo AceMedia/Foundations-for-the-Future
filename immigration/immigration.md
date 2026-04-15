@@ -30,7 +30,25 @@ Countries that have reduced dangerous migration typically combine expanded legal
 
 ---
 
-## A practical policy framework: four pillars working together
+## Britain should invest upstream, not just pay downstream failure costs
+
+One of the great weaknesses of current policy is that Britain spends heavily once people are already inland, in hotels, emergency accommodation, legal backlogs, and repeated removal attempts, but invests too little in upstream stabilisation and practical assistance near the source of displacement. That is the wrong balance. It is expensive, politically corrosive, and strategically weak.
+
+Britain should rebuild defence and civil-resilience capacity partly for this reason. A stronger military is not only about warfighting. It is also about logistics, engineering, field medicine, airlift, sealift, communications, and rapid deployment. Those are exactly the capabilities that matter in refugee crises, natural disasters, regional collapses, and fragile-border emergencies.
+
+Instead of burning large sums on inland support systems for people who may ultimately have no right to remain, Britain should use more of its national capacity earlier and closer to the point of crisis:
+
+- deploy military logistics and engineering units to support camps, shelters, sanitation, and temporary infrastructure in partner countries;
+- use airlift and sealift capability for humanitarian delivery, evacuation support, and rapid-response aid;
+- support allied governments and trusted agencies with planning, communications, and medical assistance in crisis zones;
+- help create safer regional processing, sponsorship, and humanitarian routes closer to source countries;
+- strengthen intelligence and maritime cooperation to disrupt smuggling before criminal routes harden.
+
+This does not mean turning the armed forces into a substitute for diplomacy or development policy. It means recognising that national defence capability has peacetime uses that are often more strategic than simply absorbing downstream failure at home. Britain should be strong enough to help where crises begin, not only where their consequences finally arrive.
+
+---
+
+## A practical policy framework: five pillars working together
 
 ### 1. Expand safe, legal routes and scale them quickly
 
@@ -84,6 +102,21 @@ The Netherlands reduced illegal employment by 30% between 2018-2022 by focusing 
 
 ---
 
+## A fifth pillar: defence-led humanitarian capacity and regional stabilisation
+
+The UK should add a fifth pillar to migration control: using defence, logistics, and aid capacity to reduce displacement pressure and strengthen regional handling before people reach the Channel.
+
+**Immediate actions:**
+- expand military engineering, field-hospital, logistics, and rapid-deployment capacity as part of a broader defence rebuild;
+- create standing joint units linking the armed forces, FCDO, Border Force, and humanitarian partners for crisis response;
+- fund forward humanitarian support in partner states where displacement surges are predictable;
+- use defence transport and logistics to support safe resettlement routes, emergency relief, and regional camp standards where Britain is already committed diplomatically;
+- publish a cost comparison between upstream intervention, inland accommodation, and repeated failed removals.
+
+**Why this works:** it treats migration pressure as a strategic problem, not just an administrative nuisance. Upstream capacity is often cheaper than years of hotel bills, appeals, detention, dispersal, and repeat enforcement. It also strengthens Britain's armed forces in ways that are useful for both national defence and humanitarian response.
+
+---
+
 ## Implementation principles and political realities
 
 **Speed and fairness must work together.** Fast decisions save money and reduce uncertainty, but rushed processes create legal vulnerabilities. Germany's investment in training and technology shows both are achievable (BAMF, 2022).
@@ -93,6 +126,8 @@ The Netherlands reduced illegal employment by 30% between 2018-2022 by focusing 
 **Public support requires transparency and local investment.** Successful integration requires community buy-in. The Syrian resettlement programme worked because it was voluntary, well-funded, and transparent about numbers and locations (British Red Cross, 2022).
 
 **International cooperation is essential but requires compromise.** The UK cannot solve Channel crossings alone. French cooperation requires sustained diplomacy, intelligence sharing, and sometimes accepting responsibility for processing claims that might otherwise be rejected.
+
+**Defence investment should have domestic and external value.** Rebuilding the armed forces is easier to justify politically when voters can see that the same logistics, engineering, and medical capabilities also support disaster response, humanitarian action, and migration prevention closer to source regions.
 
 ---
 
@@ -106,6 +141,8 @@ A reformed system could save £1-2 billion annually through:
 - Reduced enforcement costs from targeting smugglers not migrants: £100-200 million
 - Economic benefits from expanded legal migration: potentially £500 million+ in additional tax revenue
 
+Part of those gains should be reinvested deliberately rather than simply banked. In particular, Britain should use some of the savings from reduced inland accommodation and fewer failed removals to rebuild defence, engineering, logistics, and humanitarian-response capacity. That is a better use of public money than paying for crisis churn inside the UK with little strategic return.
+
 **Investment required:** Expanding processing capacity requires upfront spending of approximately £200-300 million annually. Expanding resettlement and legal routes costs £100-200 million. The net saving remains substantial.
 
 ---
@@ -117,6 +154,7 @@ Effective immigration policy produces measurable results within 2-3 years:
 - Asylum backlog eliminated within 24 months through increased capacity
 - Integration outcomes improve through community sponsorship and targeted support
 - Public confidence in the system increases through transparency and fair enforcement
+- Defence and humanitarian logistics capacity becomes more usable, visible, and strategically justified
 
 **Countries achieving these outcomes** include Canada (high resettlement, public support), Australia (reduced irregular arrivals), and Germany (rapid processing at scale).
 
@@ -138,7 +176,7 @@ Immigration challenges cannot be solved through rhetoric or symbolic gestures. T
 
 The evidence from comparable countries shows that a mixed approach works: expand legal routes, process claims quickly and fairly, target criminal networks, and remove incentives for irregular migration. This is neither "open borders" nor "fortress Britain" — it is practical policy that prioritises human dignity while maintaining public support.
 
-The UK has the resources and expertise to implement such a system. What it needs is the political will to choose evidence over ideology and long-term solutions over short-term headlines.
+The UK has the resources and expertise to implement such a system. What it needs is the political will to choose evidence over ideology and long-term solutions over short-term headlines. That includes rebuilding defence and aid capacity so Britain is stronger abroad, not just more expensive at home.
 
 ---
 

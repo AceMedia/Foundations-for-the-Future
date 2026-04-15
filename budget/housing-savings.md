@@ -12,10 +12,10 @@ This file collects **housing-related fiscal savings and avoided liabilities**. I
 - **Shift Housing Benefit leakage** – Move spend from PRS subsidies into bricks-and-mortar social stock.
 
 - **Prevent safety failures** – Enforce strong standards to avoid future cladding-style bills.  
-  ↳ See: [`../housing/building-standards.md`](../housing/building-standards.md)
+  ↳ See: [`../housing/housing-policy.md`](../housing/housing-policy.md)
 
 - **Healthy homes → NHS savings** – Retrofit damp/cold homes to cut NHS costs.  
-  ↳ See: [`../health/public-health-and-prevention.md`](../health/public-health-and-prevention.md)
+  ↳ See: [`../health/nhs-and-public-health.md`](../health/nhs-and-public-health.md)
 
 ---
 

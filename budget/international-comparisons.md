@@ -23,14 +23,17 @@ This file benchmarks UK reform/saving potential against peers.
 ## Health
 
 - **New Zealand:** well-being budgets track fiscal dividends of prevention.  
-  ↳ Link: [`../health/public-health-and-prevention.md`](../health/public-health-and-prevention.md)
+  ↳ Link: [`../health/nhs-and-public-health.md`](../health/nhs-and-public-health.md)
+
+- **Portugal / Canada:** decriminalisation and regulated cannabis models show alternatives to criminal-first drug policy.  
+  ↳ Link: [`../health/vice-taxation-and-betterment.md`](../health/vice-taxation-and-betterment.md)
 
 ---
 
 ## Governance
 
 - **Estonia:** digital government reduces admin headcount.  
-  ↳ Link: [`../governance/governance-reform.md`](../governance/governance-reform.md)
+  ↳ Link: [`../governance/democracy-and-reform.md`](../governance/democracy-and-reform.md)
 
 ---
 

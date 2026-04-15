@@ -50,6 +50,10 @@ This is not charity; it is investment. Countries that take well-being seriously 
 
 Some will argue this risks misuse. That is true of any system. But accountability mechanisms can be built in: persistent misuse of funds in ways that damage health — such as excessive junk food consumption despite medical advice — could lead to adjustments in future allocations. The goal is not punishment but positive reinforcement: nudging choices that build better lives.  
 
+This connects to a broader principle elsewhere in this framework: adults will always seek comfort, especially in hard times. Government should not answer that fact with hypocrisy or futile prohibition. It should answer it with honesty. Regulated taxes on vices such as alcohol, tobacco, gambling, cannabis, and other legal recreational markets can help fund the healthier alternatives people also need: sports clubs, community spaces, counselling, arts access, local leisure, and well-being budgets. In other words, if vice carries a social cost, part of its price should be used to expand dignity, connection, and opportunity elsewhere.
+
+*[See the detailed vice taxation and betterment framework](../health/vice-taxation-and-betterment.md)*  
+
 ---
 
 ## People must be supported to develop themselves, not left to stagnate  
@@ -59,6 +63,27 @@ The current welfare system too often treats people as potential fraudsters rathe
 We must reverse this mindset. Welfare should encourage **personal development**: training courses, apprenticeships, volunteering, and community projects. Councils and charities could administer placements tailored to individual needs. For those unable to work due to illness or disability, support should focus on improving quality of life, not humiliating reassessments.  
 
 Evidence shows this approach works. In Denmark, unemployed people are offered personalised training and coaching rather than blanket sanctions. The OECD (2018) found this model more effective in moving people into work while maintaining dignity. Britain could learn much from such examples.  
+
+---
+
+## Recovery and medical relief must be easy to access, not morally rationed
+
+Welfare policy also needs to be honest about how people actually cope. Some people use substances destructively and need structured recovery support. Others use things like cannabis for pain, sleep, nausea, or anxiety and are pushed into secrecy because the legal and social environment treats all use as suspect. In both cases, stigma makes people less safe.
+
+That is why recovery support should be built into welfare as a normal part of health and stability. Asking for help with dependency should not trigger humiliation, panic, or automatic suspicion. Councils, GPs, and community services should be able to direct people into treatment early, before housing, employment, or family life collapses.
+
+The same principle should apply to medical relief. If a person is clinically prescribed regulated cannabis or related products, they should not be priced like a leisure consumer. Recreational vice duties can help subsidise medical access, especially for people who are already ill, financially stretched, or partly out of work. It makes little sense to price safer or more manageable relief out of reach, only to leave people dependent on stronger painkillers or too impaired to function.
+
+In practice, that means welfare reform should include:
+
+- confidential, non-punitive routes into addiction treatment and recovery;
+- community-based support that treats relapse as a health setback, not a moral failure;
+- lower-cost access for prescribed patients where regulated products are medically justified;
+- better coordination between welfare services, GPs, pain management, mental health, and community recovery programmes.
+
+For prescribed cannabis in particular, the principle should be explicit: clinical users should face low or zero vice duty, capped prices where possible, and additional support if low income or unable to work consistently. Recreational markets can carry the fuller tax burden. Patients should not.
+
+This is what a serious welfare state should do. It should not force people to choose between untreated pain, hidden dependence, and public shame.
 
 ---
 

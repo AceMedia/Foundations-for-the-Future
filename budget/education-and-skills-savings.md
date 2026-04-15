@@ -12,7 +12,7 @@ Focus: **efficiency and long-run fiscal dividends** from better skills policy.
 
 - **Vocational/apprenticeships efficiency**  
   Streamlined programmes vs fragmented providers.  
-  ↳ See: [`../economy/regional-and-industrial-strategy.md`](../economy/regional-and-industrial-strategy.md)
+  ↳ See: [`../education/education-and-skills.md`](../education/education-and-skills.md)
 
 - **Reduce NEET costs**  
   Early support reduces unemployment benefits burden.

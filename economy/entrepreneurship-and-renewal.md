@@ -61,6 +61,7 @@ Britain must change course. Economic renewal depends on unleashing entrepreneurs
 - **Infrastructure investment:** Modern transport, 5G broadband, green energy grids, and affordable housing to support enterprise in every region.  
 - **Education and skills:** A national entrepreneurship curriculum, combined with expanded apprenticeships, coding bootcamps, and business mentoring.  
 - **Export support:** Grants, tax credits, and trade missions to help SMEs rebuild lost markets abroad.  
+- **New regulated growth sectors:** Back lawful domestic industries — from green manufacturing to tightly regulated medical and adult-use supply chains — where Britain can create jobs, standards, and export value.  
 
 ---
 
@@ -81,6 +82,18 @@ Culture matters. In Britain, failure is stigmatised. In the United States, faile
 This requires reform of bankruptcy laws to make them less punitive, and better access to “second chance” finance for entrepreneurs who try again. Education can play a role by teaching resilience and the value of experimentation.  
 
 Only by shifting culture can Britain move from cautious preservation of wealth to active investment in new ventures.  
+
+---
+
+## Regulated cultivation and life-sciences could create a new rural industry
+
+Economic renewal is not only about software, finance, or city-based start-ups. Britain should also be building new lawful industries in agriculture, controlled-environment horticulture, laboratory processing, and regulated consumer markets. If substances such as medical cannabis, licensed adult-use cannabis, psilocybin products, or other tightly controlled psychoactive inputs are brought into legal supply chains, the UK should aim to grow, process, test, and package as much of that value domestically as possible.
+
+This would give farmers and rural businesses a genuine diversification route at a time when margins are tight and traditional models are under pressure. Greenhouses, mushroom growers, rural labs, secure logistics, specialist packaging firms, and export-focused manufacturers could all benefit. Done properly, this is not a fringe idea. It is exactly the kind of mid-skill, high-standard industry Britain should want more of: rooted locally, science-linked, and capable of producing trusted goods for both domestic use and export.
+
+This also fits the broader argument of this repo. Welfare reform should support people better. Health policy should regulate adult vice honestly. Economic policy should make sure the jobs, production, and tax base created by those reforms stay in Britain rather than leaking abroad or into criminal markets.
+
+*[See the detailed vice taxation and betterment framework](../health/vice-taxation-and-betterment.md)*  
 
 ---
 

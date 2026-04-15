@@ -15,11 +15,15 @@ This file captures **efficiency gains and avoided costs** within the welfare sys
 
 - **Bulk procurement & distribution**  
   Community-scale food programmes can lower cost vs emergency/crisis spend.  
-  ↳ See: [`../economy/community-and-social-enterprise.md`](../economy/community-and-social-enterprise.md)
+  ↳ See: [`../welfare/bulk-food-procurement.md`](../welfare/bulk-food-procurement.md)
 
 - **Loneliness/productivity impact**  
   Well-being initiatives reduce isolation → improved productivity/tax base.  
   ↳ See: [`../welfare/welfare-and-wellbeing-reform.md`](../welfare/welfare-and-wellbeing-reform.md)
+
+- **Recovery without stigma / medical relief affordability**  
+  Easier treatment access and lower-cost prescribed relief can reduce crisis spend, debt, and labour-market exit.  
+  ↳ See: [`../health/vice-taxation-and-betterment.md`](../health/vice-taxation-and-betterment.md)
 
 ---
 
@@ -31,6 +35,7 @@ This file captures **efficiency gains and avoided costs** within the welfare sys
 | Crisis interventions (food/energy) | LA emergency budgets | £0.05–£0.1bn/yr | Welfare + Economy |
 | Sanctions churn | Higher long-term costs | £0.1–£0.2bn/yr | Welfare reform |
 | Productivity drag | Employer losses | £0.2–£0.4bn/yr | Economy |
+| Delayed treatment / unmanaged pain | Crisis support, instability, work loss | TBD | Welfare + Health |
 
 ---
 
@@ -39,3 +44,5 @@ This file captures **efficiency gains and avoided costs** within the welfare sys
 - Model cost of tribunal/appeals system vs simplified admin.  
 - Quantify local authority savings if food/energy hardship drops.  
 - Estimate productivity gains from reduced loneliness.
+- Estimate savings from earlier recovery engagement and improved affordability for prescribed relief.
+- Test how low- or zero-duty prescribed cannabis could reduce pain-related worklessness or crisis support in some cases.

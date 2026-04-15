@@ -26,7 +26,7 @@ Replace cash-and-hope with direct provision: guaranteed housing, bulk food procu
 → *[Read about bulk food procurement systems](welfare/bulk-food-procurement.md)*
 
 ### **🚢 Immigration: Legal Routes, Fast Decisions, Smart Enforcement**
-End the Channel crossing crisis with four simple principles: expand safe, legal routes; process asylum claims in months not years; target smuggling networks; remove incentives for illegal work. Australia, Canada, and Germany show this approach works.
+End the Channel crossing crisis with four simple principles: expand safe, legal routes; process asylum claims in months not years; target smuggling networks; remove incentives for illegal work. Rebuild defence and logistics capacity so Britain helps upstream in crisis regions instead of spending fortunes on inland accommodation and repeat removals. Australia, Canada, and Germany show parts of this approach work.
 → *[Read the immigration framework](immigration/immigration.md)*  
 → *[Read about seasonal worker programmes](immigration/seasonal-migration.md)*
 
@@ -35,8 +35,9 @@ Britain has too few entrepreneurs and too much London dependence. Create regiona
 → *[Read the economic renewal plan](economy/entrepreneurship-and-renewal.md)*
 
 ### **🩺 Health: Prevention, Not Just Treatment**
-Treat drugs as a health issue (like Portugal), expand bulk healthy food provision, and stop trying to control what adults do in their spare time. Focus NHS resources on care, not policing lifestyle choices.
+Treat drugs as a health issue (like Portugal), expand bulk healthy food provision, and stop trying to control what adults do in their spare time. Focus NHS resources on care, not policing lifestyle choices. Where adults do use regulated vices, tax them and recycle that money into treatment, welfare, defence, and community renewal.
 → *[Read the health policy](health/nhs-and-public-health.md)*
+→ *[Read the vice taxation and betterment framework](health/vice-taxation-and-betterment.md)*
 
 ### **🎓 Education: Skills for Jobs, Parents for Children**
 Match education to real jobs — coding, engineering, green technology. Follow Germany's apprenticeship model. Keep parents responsible for children's online safety, not government as digital nanny.
@@ -58,7 +59,7 @@ These reforms don't cost money — they save it:
 - **Skills**: £0.8-1.5 billion/year from reducing NEETs and boosting productivity
 - **Government**: £0.6-1.2 billion/year from merging agencies and digital transformation
 
-**Total: £3-6 billion annually in direct savings, before counting dynamic growth effects.**
+**Total: £3-6 billion annually in direct savings, before counting dynamic growth effects or any earmarked revenue from regulated vice taxation.**
 
 → *[See the full budget analysis](budget/summary-of-savings.md)*
 
