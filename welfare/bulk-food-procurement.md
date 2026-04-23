@@ -46,6 +46,10 @@ Britain already has the foundations for national food distribution:
 
 **NHS nutritionist expertise** could design food packages that prevent rather than treat diet-related illness, saving money across government departments.
 
+**Rehabilitation work pathways** could support food growing, packing, kitchens, logistics, recycling, and redistribution where risk-assessed people in custody or on community sentences are suitable. This should be supervised, accredited, and designed as a route into lawful work, not cheap labour.
+
+*[See the rehabilitation through public service framework](../justice/rehabilitation-through-public-service.md)*  
+
 ### Start with universal basics, expand based on need
 
 **Phase 1: Emergency replacement**  
@@ -56,6 +60,21 @@ Offer basic food packages (grains, pulses, oils, tinned goods) to all households
 
 **Phase 3: Full nutrition programmes**  
 Expand to fresh produce, meat, dairy, and specialist dietary requirements. Integrate with health services to provide targeted nutrition for medical conditions.
+
+### Segment food support by age, illness, and household need
+
+Food procurement should not become one generic ration box. It should use bulk purchasing for efficiency while tailoring packages to predictable needs.
+
+Suggested segments:
+
+- **early years and children:** high-quality school meals, breakfast clubs, infant nutrition, and family basics;
+- **working-age adults:** affordable staples, fresh produce, and meals that support work, training, and recovery;
+- **older people:** softer foods, smaller portions, hydration support, fortified meals, and easy-prep options;
+- **end-of-life and frailty:** dietitian-designed soft, fortified, culturally familiar, and carer-inclusive meal packages;
+- **medical diets:** diabetic, renal, low-salt, allergy-safe, texture-modified, and recovery diets where clinically needed;
+- **mental health and addiction recovery:** stable, nutritious meals linked to routine, community kitchens, and support services.
+
+This lets the state plan demand over time: children, adults, older people, and illness groups have different needs, but the procurement backbone can still be shared.
 
 ### Fair trade partnerships with origin countries
 

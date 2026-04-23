@@ -16,7 +16,7 @@ Where Britain legalises or regularises vice markets, governance must be clear. T
 
 That means a national licensing framework with room for local judgment. Westminster should set core rules on age limits, product testing, labelling, tax collection, and sanctions for breach. Councils and mayors should decide how many premises an area can support, where they should sit, and what conditions they must meet to remain licensed. Local government is better placed than Whitehall to judge whether a high street needs another premises, a community venue grant, or tighter conditions.
 
-The same principle should govern the proposed Betterment and Resilience Fund. Vice-tax receipts should not disappear into the Treasury and then be redistributed by whim. A published formula should split money between national health and recovery, local betterment, and national resilience. That would strengthen accountability, reduce waste, and let communities see that regulation produces tangible civic benefit.
+The same principle should govern the proposed Health and Care Betterment Fund. Vice-tax receipts should not disappear into the Treasury and then be redistributed by whim. A published formula should direct money into national health, recovery, social care, end-of-life dignity, and local community health. That would strengthen accountability, reduce waste, and let communities see that regulation produces tangible civic benefit.
 
 *[See the linked vice taxation framework](../health/vice-taxation-and-betterment.md)*  
 

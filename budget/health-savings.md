@@ -22,6 +22,10 @@ This file outlines how upstream reforms (housing, welfare, diet, community) redu
   Reducing stigma, improving product safety, and making recovery easier to access can lower crisis presentations and some avoidable harms.  
   ↳ See: [`../health/vice-taxation-and-betterment.md`](../health/vice-taxation-and-betterment.md)
 
+- **End-of-life care closer to home**  
+  Hospice-at-home, palliative support, food/warmth packages, and rapid adaptations can reduce avoidable hospital admissions and delayed discharge.  
+  ↳ See: [`../health/end-of-life-and-dementia-care.md`](../health/end-of-life-and-dementia-care.md) and [`./social-care-and-end-of-life-savings.md`](./social-care-and-end-of-life-savings.md)
+
 ---
 
 ## Indicative saving categories
@@ -32,6 +36,7 @@ This file outlines how upstream reforms (housing, welfare, diet, community) redu
 | Nutrition reform | Diabetes, obesity | £0.2–£0.4bn/yr | Economy |
 | Loneliness reduction | MH services, GP visits | £0.1–£0.2bn/yr | Welfare |
 | Earlier recovery engagement | Crisis care, untreated dependency, delayed intervention | TBD | Vice framework |
+| End-of-life home support | Emergency admissions, delayed discharge, crisis social care | TBD | Dementia/end-of-life costings |
 
 ---
 
@@ -41,3 +46,4 @@ This file outlines how upstream reforms (housing, welfare, diet, community) redu
 - Build ROI case for retrofit/food interventions.
 - Model health-system effects of earlier treatment uptake and safer regulated access pathways.
 - Model savings if prescribed cannabis or similar regulated relief reduces reliance on heavier painkillers for some patients.
+- Model avoided emergency admissions and delayed discharge from hospice-at-home, food/warmth support, and rapid adaptations.

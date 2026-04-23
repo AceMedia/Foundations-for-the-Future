@@ -19,9 +19,11 @@ This file consolidates **headline, order‑of‑magnitude savings** implied by p
 | **Building safety failures** *(future liabilities)* | “Do it right first time”: non‑combustible materials; independent inspections; developer accountability | £5+ billion in cladding/remediation costs post-Grenfell            | **£0.3–£0.6 billion/yr** *(avoided)*       | See **[housing-savings.md](./housing-savings.md)** |
 | **Poor housing conditions → NHS costs** | Set minimum quality standards; retrofit insulation, ventilation, mould fixes | ~**£1.4 billion/yr** in health costs from cold, damp, unsafe homes     | **£0.3–£0.6 billion/yr**                   | See **[health-savings.md](./health-savings.md)** |
 | **Poor diet & obesity**               | Expand bulk healthy food programs; community nutrition initiatives          | Diet-related diseases (e.g. obesity, diabetes) cost the NHS **tens of £billions** annually | **£0.2–£0.4 billion/yr**                   | See **[health-savings.md](./health-savings.md)** |
+| **End-of-life care and dementia costs** | Dementia supplement, care cap, hospice-at-home, food/warmth/adaptations, support passport | Care home fees can exceed £60k/yr; dementia and end-of-life costs fall heavily on families and hospitals | **TBD** *(separate fairness package; possible avoided costs)* | See **[social-care-and-end-of-life-savings.md](./social-care-and-end-of-life-savings.md)** |
 | **Welfare admin & crisis churn**       | Simplify benefits; end sanction cycles; guarantee housing/food/utilities    | DWP admin & tribunals overhead; council emergency support costs for homelessness/food crises | **£0.2–£0.5 billion/yr**                   | See **[welfare-savings.md](./welfare-savings.md)** |
 | **Loneliness & social isolation**      | Fund well‑being activities; design communities for connection               | ~**£2.5 billion/yr** in lost economic productivity from loneliness (plus mental health impacts) | **£0.2–£0.4 billion/yr** *(economy‑wide)*  | See **[welfare-savings.md](./welfare-savings.md)** |
 | **Skills gap & NEET youth**           | Invest in lifelong skills and apprenticeships; early support to reduce NEETs | Lost tax revenue from low skills; welfare costs for ~800k NEET youths             | **£0.8–£1.5 billion/yr** *(direct + dynamic)* | See **[education-and-skills-savings.md](./education-and-skills-savings.md)** |
+| **Reoffending and prison churn**       | Public-service rehabilitation pathways; paid work, skills, and earned compliance incentives for low-risk offenders | Custody costs exceed £50k per prisoner per year; weak employment after release drives reoffending | **TBD** *(potentially material, model cautiously)* | See **[justice-savings.md](./justice-savings.md)** |
 | **Government inefficiency & duplication** | Merge overlapping agencies; digitalize services; centralize procurement      | Multi‑£billion spent on duplicative admin and siloed systems across government    | **£0.6–£1.2 billion/yr**                   | See **[governance-and-admin-savings.md](./governance-and-admin-savings.md)** |
 | **Planning delays & housing under‑supply** | Speed up planning; enable mid‑rise development where appropriate            | Lost economic output from housing shortfall (*e.g.* 70k delayed homes ≈ **£1.9 billion/yr** GVA lost | **TBD** *(likely multi‑£billion/yr)*       | See housing/economy chapters                 |
 
@@ -41,26 +43,31 @@ The guiding principle is simple: if adults legally consume products or services 
 - regulated cannabis markets;
 - any future legal recreational drug markets brought under strict public-health regulation.
 
-This revenue should be ring-fenced into a **betterment and resilience fund**, with published allocations for:
+This revenue should be ring-fenced into a **Health and Care Betterment Fund**, with published allocations for:
 
 - addiction treatment, public health, and recovery services;
 - welfare and well-being programmes;
-- neighbourhood renewal, youth provision, sport, and culture;
-- civil resilience and defence preparedness.
+- dementia, end-of-life care, and older people's dignity support;
+- neighbourhood health, youth provision, sport, culture, and community kitchens.
 
 An illustrative split would be:
 
-- **50%** to national health, treatment, and recovery functions;
-- **30%** to local authorities and combined authorities for visible neighbourhood betterment;
-- **20%** to civil resilience and defence preparedness.
+- **40%** to national health, treatment, and recovery functions;
+- **25%** to social care and end-of-life dignity;
+- **20%** to local authorities and combined authorities for visible community health betterment;
+- **15%** to prevention, prescribed medical relief, and early intervention.
 
-This approach avoids two bad models at once: moralistic prohibition that fails in practice, and laissez-faire commercialisation that privatises profit while socialising harm. The state should regulate tightly, tax transparently, and use the proceeds to offset the downstream costs and improve national capacity elsewhere.
+This approach avoids two bad models at once: moralistic prohibition that fails in practice, and laissez-faire commercialisation that privatises profit while socialising harm. The state should regulate tightly, tax transparently, and use the proceeds to offset health and care costs created or worsened by social harm.
 
 For medical products such as prescribed cannabis, the tax system should be clearly differentiated. Recreational consumers should carry the fuller vice-duty burden. Prescribed patients should face low or zero vice duty, with scope for capped prices or subsidy where domestic regulated supply lowers costs.
+
+The same logic applies to older people's care. A visible share of betterment receipts could help fund a dedicated **Older People's Dignity Fund**, reducing dementia premiums and catastrophic care costs without folding the policy into opaque general spending.
 
 > **Budget treatment:** until legal design and tax rates are specified, these revenues are best shown as **TBD earmarked receipts**, not counted inside the core **£3–6 billion** annual savings range above.
 
 See the detailed policy outline in **[vice-taxation-and-betterment.md](../health/vice-taxation-and-betterment.md)**.
+See the detailed revenue appendix in **[health-and-care-betterment-revenue.md](./health-and-care-betterment-revenue.md)**.
+See the end-of-life and dementia care proposal in **[end-of-life-and-dementia-care.md](../health/end-of-life-and-dementia-care.md)**.
 
 ---
 
@@ -87,6 +94,9 @@ The exact mix would be decided in a full Budget process. As each `budget/*-savin
 - **[Housing-savings.md](./housing-savings.md)** – Refine with local authority case studies (temporary accommodation costs), Housing Benefit reallocation models, retrofit ROI analysis, and building safety risk projections.  
 - **[Welfare-savings.md](./welfare-savings.md)** – Quantify administrative cost reductions (DWP processing, tribunals) and savings from bulk purchasing of essentials; analyze sanction vs. support outcomes.  
 - **[Health-savings.md](./health-savings.md)** – Incorporate NHS data on costs of poor housing and diet-related illness; strengthen the case for preventive interventions (retrofit, nutrition) with ROI figures.  
+- **[Health-and-care-betterment-revenue.md](./health-and-care-betterment-revenue.md)** – Maintain current receipt baselines, earmark scenarios, allocation rules, and any future regulated-market scoring separately from savings.  
+- **[Social-care-and-end-of-life-savings.md](./social-care-and-end-of-life-savings.md)** – Maintain and deepen cohort sizing, care-cap distributional effects, hospital-offset cashability tests, and nation-level splits.  
+- **[Justice-savings.md](./justice-savings.md)** – Model prisoner work pathways, wage levies, reoffending reductions, custody days avoided, and employment outcomes.  
 - **[Governance-and-admin-savings.md](./governance-and-admin-savings.md)** – Add examples of agency mergers and digital service rollouts (e.g. lessons from Estonia’s e-government) to estimate efficiency gains.  
 - **[Education-and-skills-savings.md](./education-and-skills-savings.md)** – Integrate Treasury data on NEET costs; model long-term tax revenue gains from upskilling the workforce.  
 - Continue to quantify **dynamic growth effects** (entrepreneurship, regional development, etc.) as the **Economy** chapter expands.

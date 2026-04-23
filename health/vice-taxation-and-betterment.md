@@ -2,7 +2,7 @@
 
 Britain's vice policy is stuck between two failed instincts: moral panic and quiet hypocrisy. People drink, smoke, gamble, and use recreational drugs whether politicians approve or not. In hard times especially, many people seek comfort, relief, stimulation, ritual, or escape. Pretending this can be abolished by disapproval does not remove demand. It merely changes who profits and where the harms land.
 
-A practical state should start from reality. Adults should be free to make imperfect choices, but those choices should take place in regulated markets rather than criminal ones. And where vice creates social costs, part of the price should be recycled into public repair: treatment, mental health, welfare, community life, and national resilience.
+A practical state should start from reality. Adults should be free to make imperfect choices, but those choices should take place in regulated markets rather than criminal ones. And where vice creates social costs, part of the price should be recycled into public repair: treatment, mental health, social care, end-of-life dignity, and community health.
 
 This is not a case for celebrating unhealthy habits. It is a case for governing them honestly.
 
@@ -66,18 +66,19 @@ Reducing prejudice does not mean pretending every vice is harmless. It means rec
 
 ## A betterment fund, not a blank cheque
 
-Revenue from vice taxation should be ring-fenced into a **Betterment and Resilience Fund**, published annually with clear allocations. The purpose is to show the public that this is not a cynical cash grab. It is an offset model: if vice carries costs, vice should help pay for the repair.
+Revenue from vice taxation should be ring-fenced into a **Health and Care Betterment Fund**, published annually with clear allocations. The purpose is to show the public that this is not a cynical cash grab. It is an offset model: if vice carries costs, vice should help pay for the health and care repair.
 
 Illustrative allocations:
 
 - addiction treatment and recovery services;
 - NHS mental health and crisis support;
-- youth clubs, sport, music, arts, and cultural spaces;
-- local authority well-being budgets and community grants;
-- civil resilience, emergency preparedness, and defence-related readiness;
-- hospitality and high-street renewal where regulated social venues reduce antisocial spillover.
+- social care and end-of-life dignity support;
+- local authority community health, prevention, and recovery programmes;
+- prescribed medical access, pain-management alternatives, and early intervention.
 
 This has two advantages. First, it is fairer. Second, it is politically durable. People will tolerate vice taxation more easily when they can see where the money goes.
+
+Detailed revenue scenarios sit in [../budget/health-and-care-betterment-revenue.md](../budget/health-and-care-betterment-revenue.md).
 
 ---
 
@@ -85,24 +86,25 @@ This has two advantages. First, it is fairer. Second, it is politically durable.
 
 Ring-fencing only works if the public can see the formula. The fund should therefore be allocated by published rules rather than annual horse-trading inside Whitehall.
 
-An illustrative split would be:
+For this framework, vice-tax receipts should be treated first as a **Health and Care Betterment Fund**. National resilience remains important, but it should be funded through defence and resilience budgets rather than taking the first call on vice receipts.
 
-- **50% national health and recovery funding** for addiction services, mental health, prescribing support, pain management alternatives, and NHS prevention work;
-- **30% local betterment funding** for councils and combined authorities, distributed partly by population and partly by local harm indicators, to support youth clubs, sport, culture, safer streets, and community venues such as pubs and social clubs;
-- **20% national resilience funding** for civil defence, emergency preparedness, and other resilience functions that reduce wider social vulnerability.
+An illustrative health-and-care split would be:
 
-Within the local share, at least part should be visibly neighbourhood-facing. If a town hosts regulated vice sales, that town should see some return in the form of cleaner high streets, stronger services, and better social infrastructure.
+- **40% national health and recovery funding** for addiction services, mental health, prescribing support, pain management alternatives, and NHS prevention work;
+- **25% social care and end-of-life dignity funding** for dementia premiums, palliative care, hospice-at-home, care caps, and Personal Dignity Allowances;
+- **20% local community health funding** for councils and combined authorities, distributed partly by population and partly by local harm indicators, to support youth clubs, sport, culture, recovery spaces, community kitchens, and healthier social venues;
+- **15% prevention and medical access funding** for prescribed medical relief, smoking cessation, alcohol treatment, pain management, and early intervention.
+
+Within the local share, at least part should be visibly neighbourhood-facing. If a town hosts regulated vice sales, that town should see some return in the form of stronger health, care, recovery, and community infrastructure.
 
 The fund should be reported in a simple annual statement:
 
 - how much was raised by each vice category;
-- how much went to health, welfare, local government, and resilience;
+- how much went to health, social care, end-of-life care, prevention, and local community health;
 - which local authorities received support;
 - what measurable outcomes were achieved.
 
-This matters because trust depends on visibility. People are far more likely to accept vice taxation if they can see that it is repairing real damage and building real capacity.
-
-*[See the wider defence and resilience case](../defence/defence-and-aid-resilience.md)*  
+This matters because trust depends on visibility. People are far more likely to accept vice taxation if they can see that it is repairing real damage in health and care.
 
 ---
 
@@ -361,7 +363,7 @@ Vice reform should be rolled out in phases. That reduces political panic, gives 
 
 In year one, government should:
 
-- pass the enabling legislation for the Betterment and Resilience Fund;
+- pass the enabling legislation for the Health and Care Betterment Fund;
 - create the national licensing rulebook and testing standards;
 - set local authority powers on density, conditions, and venue approval;
 - establish the medical-cannabis access framework with low or zero vice duty for prescribed patients;

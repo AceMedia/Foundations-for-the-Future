@@ -34,14 +34,19 @@ End the Channel crossing crisis with four simple principles: expand safe, legal 
 Rebuild Britain's defence, logistics, engineering, and aid capacity so the state can deter threats, help allies, respond to emergencies, and intervene upstream instead of paying ever larger downstream failure costs.
 → *[Read the defence and resilience framework](defence/defence-and-aid-resilience.md)*
 
+### **⚖️ Justice: Rehabilitation That Pays Back**
+Low-risk offenders should repair public value, gain qualifications, and leave custody with real routes into work. Build public-service work pathways in food production, care support, retrofit, logistics, and community repair, with strict safeguards and sentence incentives tied to compliance.
+→ *[Read the rehabilitation through public service framework](justice/rehabilitation-through-public-service.md)*
+
 ### **🏭 Economy: Entrepreneurs Everywhere, Not Just London**
 Britain has too few entrepreneurs and too much London dependence. Create regional venture funds, infrastructure investment, tax incentives for risk-taking, and green entrepreneurship to spread prosperity nationwide.
 → *[Read the economic renewal plan](economy/entrepreneurship-and-renewal.md)*
 
 ### **🩺 Health: Prevention, Not Just Treatment**
-Treat drugs as a health issue (like Portugal), expand bulk healthy food provision, and stop trying to control what adults do in their spare time. Focus NHS resources on care, not policing lifestyle choices. Where adults do use regulated vices, tax them and recycle that money into treatment, welfare, defence, and community renewal.
+Treat drugs as a health issue (like Portugal), expand bulk healthy food provision, and stop trying to control what adults do in their spare time. Focus NHS resources on care, not policing lifestyle choices. Where adults do use regulated vices, tax them and recycle that money into treatment, recovery, social care, end-of-life dignity, and community health.
 → *[Read the health policy](health/nhs-and-public-health.md)*
 → *[Read the vice taxation and betterment framework](health/vice-taxation-and-betterment.md)*
+→ *[Read the end-of-life and dementia care framework](health/end-of-life-and-dementia-care.md)*
 
 ### **🎓 Education: Skills for Jobs, Parents for Children**
 Match education to real jobs — coding, engineering, green technology. Follow Germany's apprenticeship model. Keep parents responsible for children's online safety, not government as digital nanny.

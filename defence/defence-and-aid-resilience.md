@@ -136,7 +136,7 @@ This chapter connects to several other parts of the framework:
   ↳ See [`../immigration/immigration.md`](../immigration/immigration.md)
 - **Governance:** resilience requires real capability, local coordination, and clearer state structures.  
   ↳ See [`../governance/democracy-and-reform.md`](../governance/democracy-and-reform.md)
-- **Vice taxation:** part of regulated vice revenue can help fund civil resilience and emergency preparedness.  
+- **Vice taxation:** this framework now treats regulated vice revenue as primarily health-and-care funding; defence and civil resilience should be funded through dedicated resilience budgets rather than relying on vice receipts.  
   ↳ See [`../health/vice-taxation-and-betterment.md`](../health/vice-taxation-and-betterment.md)
 - **Economy:** defence procurement and resilience investment should strengthen domestic industry and regional jobs.  
   ↳ See [`../economy/entrepreneurship-and-renewal.md`](../economy/entrepreneurship-and-renewal.md)

@@ -16,7 +16,7 @@ Revenue from these taxes should be ring-fenced into a national betterment fund w
 - welfare and well-being budgets that give people healthier forms of relief and community;
 - national resilience, including civil defence and emergency preparedness.
 
-This approach is fairer than blanket bans. Adults keep their freedom, harmful markets lose some of their criminal premium, and society gets something back in return. If vice exists anyway, it should at least help fund recovery, resilience, and dignity.
+This approach is fairer than blanket bans. Adults keep their freedom, harmful markets lose some of their criminal premium, and society gets something back in return. If vice exists anyway, it should at least help fund treatment, recovery, social care, and dignity.
 
 *[Read the detailed vice taxation and betterment framework](./vice-taxation-and-betterment.md)*  
 
@@ -25,6 +25,11 @@ We can reduce NHS demand through better nutrition. Government already purchases 
 
 ## Well-being, Not Over-Control
 Moderate drinking and smoking in adulthood is not the government’s business. Health advice should remain strong, but fun and freedom are part of life. Public health succeeds when it educates, not when it controls.
+
+## Dementia and End-of-Life Care
+Public health is also about how people are treated at the end of life. Dementia patients and older people should not be forced to exhaust ordinary savings before receiving dignified support. A better system should publicly fund the dementia premium, improve hospice-at-home and palliative care, and use a visible share of betterment funding to reduce catastrophic care costs.
+
+*[Read the end-of-life and dementia care framework](./end-of-life-and-dementia-care.md)*  
 
 ---
 
