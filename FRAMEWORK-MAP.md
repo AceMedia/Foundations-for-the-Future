@@ -136,124 +136,24 @@ Next improvement: refine [budget/immigration-savings.md](./budget/immigration-sa
 
 ---
 
-## Gaps and Suggested Cross-References
+## Current priorities
 
-| Gap | Why it matters | Suggested action |
-|---|---|---|
-| Social care costings can still be deepened | The appendix now has cohort ranges and hospital-offset scenarios, but later versions could add nation-level splits and stronger cashability tests | Maintain `budget/social-care-and-end-of-life-savings.md` as data improves |
-| Justice savings need refinement | The appendix now exists, but cohort sizes and evaluated effect sizes need deeper work | Refine `budget/justice-savings.md` with target cohorts and pilot assumptions |
-| Delivery plan needs refinement | The implementation plan now exists, but needs department-by-department milestones and legislation mapping | Refine `implementation/phasing-and-delivery.md` |
-| Housing chapter does not yet link strongly to end-of-life adaptations | Housing is central to discharge, falls, cold homes, and dementia safety | Add a section on accessible homes, rapid adaptations, and end-of-life discharge |
-| Welfare chapter does not yet link strongly to carers | Carer burnout is a major end-of-life and disability cost driver | Add a carer stability section |
-| Workforce budget modelling is still light | The workforce chapter now exists, but vacancy, churn, and interview-to-employment effects are not yet well modelled | Refine `budget/education-and-skills-savings.md` |
-| Budget summary still says £3-6bn without newly added justice/end-of-life modelling | New chapters are not yet reflected in the headline range | Keep current range, but add TBD annexes before revising totals |
-| International comparisons is underdeveloped | It can strengthen credibility across the repo | Add Germany/Japan long-term care, Norway prison rehabilitation, Canada sponsorship, Estonia digital state, Vienna housing |
-| Governance chapter needs delivery machinery | Many policies need local commissioning, licensing, and data sharing | Add local delivery boards, digital passport systems, and published fund formulas |
+The framework is now a complete first-draft Green Paper: every policy area has a chapter in the command-paper template, the inherited chapters have been converted, and the major figures are verified and sourced. The remaining work is depth, not coverage, and is tracked as the project's flesh-out backlog.
 
----
+The highest-leverage items:
 
-## Recommended Next Additions
+1. **A consolidated cost side.** The budget tallies savings and earmarked vice revenue but not the framework's full spending commitments (the £5-7bn care guarantee, new nuclear, water buyback, defence, childcare, transport). A net-position annex is the top priority.
+2. **Model the load-bearing savings.** `budget/housing-savings.md` carries half the headline and needs a build-rate and time-profile model; the welfare direct-provision cost and the tax-reform revenue are central levers with no budget representation yet.
+3. **Reconcile the betterment fund** across the NHS, mental health, social care, and end-of-life chapters, which all draw on the same ~£2.4-3.6bn earmark.
+4. **Depth in the thinner chapters** (policing, courts, mental health, foreign policy) and the missing flagship sub-topics (assisted dying, primary care and dentistry, a wealth-tax position, the Mental Health Act).
+5. **Decisions for consultation** that unblock several chapters: assisted dying, wealth and inheritance tax, the social-care funding model, the aid level, and the voting system.
 
-### 1. Refine the Justice Savings Appendix
-
-**Update:** `budget/justice-savings.md`
-
-The social-care appendix is now materially stronger. The next best addition is to tighten the justice numbers so the rehabilitation chapter carries the same fiscal weight.
-
-It should include:
-
-- cost per prison place;
-- target cohorts for low-risk work pathways;
-- wage levy receipts;
-- victim-support contributions;
-- custody days avoided;
-- reoffending reductions;
-- employment after release;
-- costs of training, supervision, transport, and safeguarding.
-
-Why first: the justice proposal is practical and politically useful, but it still needs tighter numbers to avoid overclaiming.
-
-### 2. Refine the Delivery and Phasing Plan
-
-**Update:** `implementation/phasing-and-delivery.md`
-
-It should show what happens in:
-
-- first 100 days;
-- year 1 pilots;
-- years 2-3 scale-up;
-- years 4-5 national rollout;
-- which department owns each reform;
-- what legislation is needed;
-- which reforms are pilots, which are national, which are budget-only.
-
-Why second: the repo is becoming a system, and delivery detail is now the main execution gap.
-
-### 3. Refine the Workforce Costings and Outcomes
-
-**Update:** `budget/education-and-skills-savings.md`
-
-It should quantify:
-
-- vacancy and churn effects in care and logistics;
-- conversion rates from short certificates to apprenticeships;
-- guaranteed-interview effects on hiring;
-- prison-leaver employment outcomes;
-- agency-spend reductions and avoided delivery bottlenecks.
-
-Why third: the workforce architecture is now clear; the next step is to quantify how much pressure it can actually remove.
-
-### 4. Refine the Betterment Revenue Appendix Over Time
-
-**Update:** `budget/health-and-care-betterment-revenue.md`
-
-It should keep pace with:
-
-- updated OBR receipt forecasts and outturns;
-- any changes to alcohol, tobacco, or gambling tax policy;
-- any new legal-market consultation on cannabis or other adult-use products;
-- local distribution formulas and reporting requirements.
-
-Why fourth: the structure now exists; it should be maintained as policy changes, not treated as finished forever.
-
-### 5. Deepen the Social Care Appendix Further Over Time
-
-**Update:** `budget/social-care-and-end-of-life-savings.md`
-
-It should later add:
-
-- nation-by-nation cohort splits;
-- stronger cashability tests for hospital offsets;
-- better links between homecare expansion and discharge pressure;
-- fuller treatment of surviving spouses and modest-asset households.
-
-Why fifth: the file is now usable, but still worth revisiting as better data appears.
+The strongest budget files (justice, social care, betterment revenue) are the template the thinner ones should reach.
 
 ---
 
-## Best Immediate Edit
+## Outstanding cross-links to add
 
-The single highest-value next commit would be:
-
-> Refine `budget/justice-savings.md` with target cohorts, custody-day assumptions, and employment effects.
-
-Reason: the social-care and funding appendices now exist. The justice chapter is the next big proposal that needs the same numerical discipline.
-
----
-
-## Cross-Reference Maintenance Rules
-
-When adding a new policy chapter:
-
-- link it from [README.md](./README.md);
-- add its fiscal impact or TBD modelling need to [budget/summary-of-savings.md](./budget/summary-of-savings.md);
-- add at least one link from a related topic chapter;
-- add evidence sources directly in the chapter;
-- add a corresponding budget file if the proposal includes headline savings or costs.
-
-When adding a new budget chapter:
-
-- link back to every narrative chapter that supplies the mechanism;
-- separate direct savings from avoided costs and earmarked revenue;
-- mark uncertain figures as **TBD** until modelled;
-- avoid counting the same saving twice across files.
+- Housing to end-of-life adaptations (accessible homes, rapid adaptations, discharge).
+- Welfare to carers (a carer-stability section).
+- Tax, local government, pensions, and housing into a single property-tax and council-funding loop.
