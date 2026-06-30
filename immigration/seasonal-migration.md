@@ -21,7 +21,9 @@ Britain's farms and coastal towns need workers during peak seasons, and the curr
 them badly.
 
 **Ad hoc and exploitative.** Arrangements are patchy and too often exploit workers and undermine local
-wages, moving from crisis to crisis rather than being properly managed.
+wages, moving from crisis to crisis rather than being properly managed. The UK's own Seasonal Worker
+visa has been dogged by reports of debt bondage, excessive recruitment fees, and operator failures,
+which is exactly what proper protections must fix.[^swv]
 
 **Labour gaps in food and hospitality.** Agriculture needs tens of thousands of seasonal workers a
 year, with shortages in fruit, vegetables, and harvest work, and tourism areas struggle to staff peak
@@ -61,6 +63,10 @@ workers coming here are exactly what we would want for our own people working ab
   health insurance, and accommodation standards.[^canada] *Transferable* as a long-running model.
 - **Germany's seasonal arrangements** provide labour protections and wage guarantees with partner
   countries.[^germany] *Transferable* as a standards baseline.
+- **Britons already work seasons abroad.** Tens of thousands of young British people already do ski
+  seasons in the Alps and take Working Holiday and Youth Mobility visas to Australia, New Zealand, and
+  Canada. The outbound leg is not new; it is just not yet organised as a deliberate, reciprocal
+  scheme.[^outbound] *Transferable* as the basis for the two-way design.
 
 ---
 
@@ -82,7 +88,9 @@ reciprocal arrangements with partner countries. **Recommended.**
 ## The proposals (under the lead option)
 
 1. **Run it both ways.** Build reciprocal seasonal arrangements so Britain sends workers abroad as
-   readily as it receives them, with the same protections in both directions.
+   readily as it receives them, with the same protections in both directions, extending the Youth
+   Mobility Schemes Britain already runs with countries such as Australia and Canada so the outbound
+   leg has a real, organised route rather than being left to chance.
 2. **Strong worker protections.** Guaranteed minimum hours, approved accommodation with independent
    inspection, wage guarantees, health cover, and the right to change employers within the sector to
    prevent bonded labour.
@@ -139,6 +147,11 @@ belong in the budget files.
 
 [^nfu]: National Farmers' Union (2023), *Labour Shortages in UK Agriculture*. Tens of thousands of
 seasonal workers are needed each year. (indicative)
+[^swv]: Reports on the UK Seasonal Worker visa (for example the Work Rights Centre and parliamentary
+scrutiny) document debt bondage, excessive recruitment fees, and operator failures.
+[^outbound]: Tens of thousands of young British people work abroad each year through ski-season
+employment in the Alps and through Working Holiday and Youth Mobility visas with Australia, New
+Zealand, and Canada, which is the existing basis for an organised outbound leg.
 [^nz]: New Zealand Immigration (2023), *Recognised Seasonal Employer Scheme Evaluation*. Guaranteed
 hours, approved accommodation, and return rates above 95%.
 [^canada]: Employment and Social Development Canada (2023), *Seasonal Agricultural Worker Program Annual

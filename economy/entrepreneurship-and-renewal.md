@@ -73,8 +73,12 @@ prosperity. *Cons:* needs sustained investment and patience. **Recommended.**
 
 1. **Incentives for risk-taking.** Long-term capital-gains relief for investment in UK start-ups, with
    extra incentives outside London.
-2. **Regional venture funds.** Publicly backed seed capital for entrepreneurs in areas private
-   investors neglect.
+2. **Regional venture funds, properly designed.** Set up publicly backed, evergreen regional venture
+   funds (recycling returns rather than one-off grants), run at arm's length through the British
+   Business Bank with local and private co-investment, and governed to back companies on commercial
+   judgement rather than political favour. The aim is patient capital where private investors will not
+   go, learning from the weaknesses of the old Regional Growth Fund and Local Enterprise Partnerships
+   rather than repeating them.
 3. **Infrastructure.** Modern transport, full broadband, clean-energy grids, and affordable housing in
    every region, in step with [transport](../transport/transport.md) and
    [energy](../energy/energy-and-net-zero.md).
