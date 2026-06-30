@@ -27,8 +27,8 @@ be wished away with soundbites.
 stayed high, following routes controlled by criminal networks that charge £3,000 to £8,000 a person
 and earn an estimated £150 million a year.[^crossings]
 
-**A backlog and a hotel bill.** The asylum backlog reached around 175,000 cases with waits over two
-years, while hotel accommodation cost about £2.4 billion in 2022-23.[^backlog] People are left in
+**A backlog and a hotel bill.** The asylum backlog peaked at around 175,000 cases in 2023 and stood at around 70,000 awaiting an initial decision by mid-2025, with waits still over two
+years, while asylum support now costs around £4 billion a year, with accommodation around £2.7 billion.[^backlog] People are left in
 limbo and taxpayers foot a large bill for failure.
 
 **Legal routes are tiny and complex.** UK resettlement is small by international standards (around
@@ -148,9 +148,10 @@ pass (#21).
 Migration Observatory (2023). Crossings rose from under 300 (2018) to over 45,000 (2022); smuggling
 prices of £3,000-£8,000 a person generate an estimated £150m a year. (Figures to be confirmed in the
 budget-accuracy pass.) https://www.gov.uk/government/collections/immigration-statistics-quarterly-release
-[^backlog]: National Audit Office (2023), *Asylum Accommodation and Support*, and Home Office (2024).
-The backlog reached about 175,000 cases with two-year-plus waits; hotel accommodation cost about
-£2.4bn in 2022-23, roughly £150 a person a day. https://www.nao.org.uk/
+[^backlog]: House of Commons / Migration Observatory (2025), and Home Office statistics. Asylum support
+cost around £4.0bn in 2024-25 (Home Office accommodation around £2.7bn). The backlog awaiting an initial
+decision was around 70,000 by mid-2025, down from a 2023 peak of about 175,000; around 36,300 people
+were in hotels by September 2025, down from a peak near 56,000. https://migrationobservatory.ox.ac.uk/resources/briefings/the-uks-asylum-backlog/
 [^resettle]: UNHCR (2023), *Global Trends*. UK resettlement was around 1,171 in 2022, small by
 international standards. (To be confirmed in the budget-accuracy pass.)
 [^rwanda]: Home Office (2024). The Rwanda scheme cost hundreds of millions while removing very few

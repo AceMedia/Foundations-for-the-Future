@@ -27,8 +27,8 @@ million, with people waiting months for care that gets more expensive the longer
 because the social care to discharge them safely is not there, which is bad for patients and expensive
 for the system, connecting to [adult social care](./adult-social-care.md).
 
-**The workforce is short and burnt out.** Tens of thousands of vacancies across nursing and other
-roles leave staff stretched, which harms care and retention.[^workforce]
+**The workforce is short and burnt out.** Around 100,000 vacancies across nursing and other roles
+leave staff stretched, which harms care and retention.[^workforce]
 
 **It treats illness rather than preventing it.** Too much of the system waits for people to become ill
 rather than stopping them becoming ill in the first place, even though prevention is cheaper and
@@ -136,8 +136,8 @@ the budget-accuracy pass (#21) and the [health-savings file](../budget/health-sa
 
 [^waits]: NHS England, *Referral to Treatment (RTT) Waiting Times*. The England waiting list stands at
 around 7.4 million pathways (about 6.24 million unique patients) in October 2025, with around 100,000 waiting over a year. https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/
-[^workforce]: NHS England workforce statistics report tens of thousands of vacancies across nursing and
-other roles. (To be confirmed in the budget-accuracy pass.)
+[^workforce]: NHS England Vacancy Statistics. The NHS in England had around 100,000 vacancies in
+2025/26 (a vacancy rate of about 6.7%), including roughly 25,000 in nursing. https://digital.nhs.uk/data-and-information/publications/statistical/nhs-vacancies-survey
 [^portugal]: Hughes, C. & Stevens, A. (2010), *What Can We Learn From The Portuguese Decriminalization
 of Illicit Drugs?*, British Journal of Criminology. Decriminalisation with public-health support
 reduced harm, crime, and cost.

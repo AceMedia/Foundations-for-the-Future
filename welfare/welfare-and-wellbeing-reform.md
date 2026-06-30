@@ -29,7 +29,7 @@ dignity and contribute back.
 much of it flowing to the private rental sector for housing the state does not own.[^hb] Since Right
 to Buy, 2.6 million council homes were sold with only a fraction replaced.[^rtb]
 
-**Essentials are insecure.** Around 3.26 million households were in fuel poverty in winter 2022,[^fuel]
+**Essentials are insecure.** About 2.73 million households were in fuel poverty in England in 2024,[^fuel]
 and cold homes cost lives and around £1.3 billion a year in NHS treatment.[^cold]
 
 **Hunger has become normal.** The Trussell Trust handed out 2.99 million emergency food parcels in
@@ -138,11 +138,11 @@ covered. The figures belong in the budget-accuracy pass (#21) and the welfare-sa
 
 [^hb]: Department for Work and Pensions / UK Parliament. Housing Benefit and the Universal Credit
 housing element cost around £30 billion a year (£28.97bn in 2022/23), much of it paid to private
-landlords. (To be confirmed in the budget-accuracy pass.) https://questions-statements.parliament.uk/written-questions/detail/2024-03-04/16827
+landlords. https://questions-statements.parliament.uk/written-questions/detail/2024-03-04/16827
 [^rtb]: House of Commons Library (2023), *Right to Buy: History and Statistics*. 2.6 million council
 homes sold since 1980, only a fraction replaced.
-[^fuel]: Office for National Statistics (2023). Around 3.26 million UK households were in fuel poverty
-in winter 2022. (To be confirmed in the budget-accuracy pass.)
+[^fuel]: Department for Energy Security and Net Zero (2025), *Annual Fuel Poverty Statistics in England,
+2025 (2024 data)*. About 2.73 million households (11.0%) were in fuel poverty in England in 2024. https://www.gov.uk/government/statistics/annual-fuel-poverty-statistics-report-2024
 [^cold]: Marmot Review (2011), *Fair Society, Healthy Lives*; Public Health England (2020). Cold homes
 cost the NHS an estimated £1.3 billion a year. (To be confirmed in the budget-accuracy pass.)
 [^food]: Trussell Trust (2023), *End of Year Statistics 2022/23*. 2.99 million emergency food parcels
