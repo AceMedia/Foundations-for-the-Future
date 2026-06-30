@@ -1,5 +1,18 @@
 # Rehabilitation Through Public Service: Work That Pays Back and Builds Futures
 
+*A forward-looking proposal, judged by what works, not by left or right.*
+
+> **Summary for the reader**
+> - **The problem:** prison too often releases people with no job, qualification, or route into work,
+>   so the public pays twice through reoffending. Only about 19% of leavers are in work six weeks after
+>   release, and reoffending after short sentences runs at around 66%.
+> - **The options:** the status quo, more punishment, or rehabilitation through structured
+>   public-service work.
+> - **Lead option:** a **Public Service Rehabilitation Corps** for low-risk offenders, in food, care
+>   support, retrofit, and community repair, with strict safeguards and earned, capped sentence
+>   incentives. A rehabilitation programme, not a cheap-labour scheme.
+> - **Timeline:** pilots in year 1, national commissioning by year 3.
+
 Prison should protect the public, punish serious wrongdoing, and reduce future crime. At the moment it is too often doing only the first two badly and the third inconsistently. Too many people leave custody with no job, no stable routine, no recognised qualification, and no practical route into lawful work.
 
 That is wasteful. It is also dangerous. If prison releases people with fewer prospects than when they entered, the public pays twice: once for custody, then again through reoffending, homelessness, addiction, court backlogs, victim harm, and further imprisonment.
@@ -33,6 +46,22 @@ Prisoners can already work outside prison on **Release on Temporary Licence** wh
 Community Payback also already exists. Courts in England and Wales can impose unpaid work requirements, usually **40 to 300 hours**, as part of community or suspended sentence orders. Government proposals in the 2025 Sentencing Bill would allow reductions in unpaid work hours as an incentive for sustained compliance and earlier completion.
 
 The missing piece is scale, purpose, and integration. Work exists, but it is not yet treated as a national workforce and rehabilitation pathway tied into food security, social care, health support, and skills policy.
+
+---
+
+## Options appraisal
+
+**Option 1: Status quo.** Custody followed by a cliff edge, with weak work and training. *Pros:* no
+change needed. *Cons:* high reoffending and wasted public money. The do-nothing baseline.
+
+**Option 2: More punishment, less rehabilitation.** Longer sentences, fewer routes out. *Pros:* sounds
+tough. *Cons:* costs more, crowds prisons further, and does nothing about reoffending.
+
+**Option 3: Rehabilitation through public service *(lead option)*.** A Public Service Rehabilitation
+Corps for low-risk offenders, tied to real shortages in food, care support, retrofit, and community
+repair, with strict safeguards and earned incentives. *Pros:* repays society, builds skills, cuts
+reoffending, and helps fill workforce gaps. *Cons:* needs careful safeguarding and must never undercut
+paid workers. **Recommended.**
 
 ---
 
@@ -278,6 +307,15 @@ This repo argues for practical systems that reduce downstream failure. Rehabilit
 Food procurement needs workers and logistics. Social care needs people with patience, routine, and training. Housing retrofit needs practical skills. Prisons need purpose and routes out of reoffending. Communities need visible repair.
 
 A Public Service Rehabilitation Corps connects those needs. It gives punishment a productive shape: repay harm, learn discipline, build skill, earn trust, and leave with a real path into work.
+
+---
+
+## Consultation questions
+
+1. Which offences and risk levels should have access to which pathways?
+2. How should earned sentence incentives be capped and kept proportionate?
+3. What safeguards best prevent prison work from undercutting paid workers?
+4. How do we guarantee a real route into employment, not just training, on release?
 
 ---
 
