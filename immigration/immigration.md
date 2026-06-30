@@ -1,201 +1,169 @@
-# Immigration and Border Policy: A Practical Framework for Managing Migration
+# Immigration and Border Policy
 
-Immigration policy in the United Kingdom has become a political football, swinging between unworkable extremes of rhetoric without addressing the underlying realities. The Channel crossing crisis symbolises this failure: thousands of people continue to risk their lives in dangerous conditions while the government cycles through expensive but ineffective deterrent measures. Meanwhile, legitimate economic and humanitarian needs go unmet.
+*A forward-looking proposal, judged by what works, not by left or right.*
 
-A realistic approach must recognise that migration is driven by powerful economic and political forces that cannot be wished away through soundbites or symbolic gestures. The evidence from comparable countries shows that effective migration policy requires a balanced package: expanding safe, legal routes; processing asylum claims quickly and fairly; disrupting criminal smuggling networks; and removing the incentives that drive dangerous journeys.
-
----
-
-## The scale of the challenge and what drives it
-
-Channel crossings rose from fewer than 300 people in 2018 to over 45,000 in 2022, remaining high through 2024-25 (Home Office, 2024). Most arrivals come from a relatively small set of countries experiencing conflict or economic collapse: Afghanistan, Iran, Iraq, Syria, and Albania consistently feature in the top nationalities.
-
-These are not random population movements. They follow established routes controlled by organised criminal networks that profit from human desperation. The Migration Observatory (2023) found that smuggling prices range from £3,000 to £8,000 per person, generating estimated revenues of over £150 million annually for criminal enterprises.
-
-The current system fails everyone. Asylum seekers endure dangerous journeys and years of uncertainty. Taxpayers fund expensive hotel accommodation that reached £2.4 billion in 2022-23 (NAO, 2023). Local communities see services strained without adequate central government support. Meanwhile, legitimate refugees who might qualify for protection remain trapped in camps or dangerous situations abroad.
-
----
-
-## Learning from international approaches that work
-
-Countries that have reduced dangerous migration typically combine expanded legal routes with effective enforcement against smugglers and fair but rapid processing of claims.
-
-**Australia's approach** combined offshore processing with expanded humanitarian resettlement quotas. While controversial, boat arrivals fell from over 20,000 in 2013 to near zero by 2015. However, the human rights costs were significant, and the model required expensive third-country arrangements (Refugee Council of Australia, 2023).
-
-**Canada's private sponsorship model** allows community groups to directly sponsor refugees, creating integration support while expanding resettlement capacity. Over 300,000 refugees have been resettled through this route since 1979, with better employment and integration outcomes than government-assisted refugees (Immigration, Refugees and Citizenship Canada, 2023).
-
-**Germany's approach to Syrian refugees** shows the importance of processing speed. In 2015-16, Germany processed over one million asylum claims while maintaining legal standards. Key factors included massive investment in decision-making capacity, clear criteria, and strong integration programmes (BAMF, 2022).
-
-**France and Italy's experience** demonstrates the limits of purely enforcement-focused approaches. Despite extensive border controls and bilateral agreements, crossings have largely shifted routes rather than eliminated them (European Council on Refugees and Exiles, 2023).
+> **Summary for the reader**
+> - **The problem:** immigration policy swings between unworkable extremes. The Channel crossing
+>   crisis, a huge asylum backlog, and billions spent on hotels show a system that fails asylum
+>   seekers, taxpayers, and communities alike.
+> - **The options:** open borders, fortress Britain, or a balanced, practical package.
+> - **Lead option:** a **points-based, skills-led system managed by need rather than a hard target**,
+>   with expanded safe legal routes, fast and fair processing, enforcement aimed at smugglers and
+>   exploitative employers, and upstream defence-led capacity.
+> - **Timeline:** clear the backlog and stand up routes early; build upstream capacity over a
+>   parliament.
+>
+> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
 
 ---
 
-## Britain should invest upstream, not just pay downstream failure costs
+## The problem
 
-One of the great weaknesses of current policy is that Britain spends heavily once people are already inland, in hotels, emergency accommodation, legal backlogs, and repeated removal attempts, but invests too little in upstream stabilisation and practical assistance near the source of displacement. That is the wrong balance. It is expensive, politically corrosive, and strategically weak.
+Immigration has become a political football, swinging between extremes of rhetoric without
+addressing the realities. Migration is driven by powerful economic and political forces that cannot
+be wished away with soundbites.
 
-Britain should rebuild defence and civil-resilience capacity partly for this reason. A stronger military is not only about warfighting. It is also about logistics, engineering, field medicine, airlift, sealift, communications, and rapid deployment. Those are exactly the capabilities that matter in refugee crises, natural disasters, regional collapses, and fragile-border emergencies.
+**The Channel crisis.** Crossings rose from fewer than 300 in 2018 to over 45,000 in 2022 and
+stayed high, following routes controlled by criminal networks that charge £3,000 to £8,000 a person
+and earn an estimated £150 million a year.[^crossings]
 
-Instead of burning large sums on inland support systems for people who may ultimately have no right to remain, Britain should use more of its national capacity earlier and closer to the point of crisis:
+**A backlog and a hotel bill.** The asylum backlog reached around 175,000 cases with waits over two
+years, while hotel accommodation cost about £2.4 billion in 2022-23.[^backlog] People are left in
+limbo and taxpayers foot a large bill for failure.
 
-- deploy military logistics and engineering units to support camps, shelters, sanitation, and temporary infrastructure in partner countries;
-- use airlift and sealift capability for humanitarian delivery, evacuation support, and rapid-response aid;
-- support allied governments and trusted agencies with planning, communications, and medical assistance in crisis zones;
-- help create safer regional processing, sponsorship, and humanitarian routes closer to source countries;
-- strengthen intelligence and maritime cooperation to disrupt smuggling before criminal routes harden.
+**Legal routes are tiny and complex.** UK resettlement is small by international standards (around
+1,171 people in 2022), and work routes are complex and expensive, which pushes employers toward
+irregular arrangements.[^resettle]
 
-This does not mean turning the armed forces into a substitute for diplomacy or development policy. It means recognising that national defence capability has peacetime uses that are often more strategic than simply absorbing downstream failure at home. Britain should be strong enough to help where crises begin, not only where their consequences finally arrive.
+**Symbolic policy wastes money.** The Rwanda scheme consumed hundreds of millions while removing
+barely a handful of people.[^rwanda] Symbolism satisfies neither humanitarian concern nor the public
+demand for control.
 
-*[See the fuller defence, aid, and resilience case](../defence/defence-and-aid-resilience.md)*  
-
----
-
-## A practical policy framework: five pillars working together
-
-### 1. Expand safe, legal routes and scale them quickly
-
-The UK's resettlement programme remains tiny by international standards: just 1,171 people were resettled in 2022, compared to over 20,000 in Canada (UNHCR, 2023). Legal migration routes for work remain complex and expensive, pushing employers toward irregular arrangements.
-
-**Immediate actions:**
-- Triple the humanitarian resettlement quota to 5,000 annually, prioritising vulnerable cases from regions generating Channel crossings
-- Launch community sponsorship programmes allowing local groups to support refugee integration
-- Create fast-track skilled worker visas for shortage occupations, reducing incentives for irregular work
-- Expand family reunion criteria to match European standards
-
-**Why this works:** When Canada increased resettlement quotas, irregular arrivals at the US border decreased. When Australia expanded skilled migration, temporary overstays fell (Migration Policy Institute, 2022).
-
-### 2. Process asylum claims within months, not years
-
-The UK's asylum backlog reached 175,000 cases by late 2023, with average waiting times over two years (Home Office, 2024). This creates massive costs while leaving people in limbo. Fast, fair decisions reduce both taxpayer expense and human suffering.
-
-**Immediate actions:**
-- Recruit 1,000 additional caseworkers and immigration judges
-- Set statutory targets: initial decision within six months, appeals within three months
-- Invest in digital case management and video hearings to increase capacity
-- Create fast-track processes for claims from countries with high grant rates
-
-**Budget impact:** Each person removed from hotel accommodation saves approximately £150 per day. Processing 50,000 cases faster could save over £500 million annually (NAO, 2023).
-
-### 3. Target smuggling networks, not desperate people
-
-Current enforcement focuses disproportionately on prosecuting migrants themselves rather than the criminal enterprises that exploit them. Effective disruption requires intelligence-led operations targeting organisers, not victims.
-
-**Immediate actions:**
-- Establish joint intelligence unit with French authorities to map smuggling networks
-- Introduce unexplained wealth orders for suspected smuggling assets
-- Focus prosecutions on facilitators and organisers, not migrants
-- Expand maritime cooperation with French coastguard for interdiction before departure
-
-**Evidence base:** The NCA's Operation Symbolical disrupted several major smuggling networks in 2022-23, leading to temporary reductions in crossings. Sustained pressure on organisers is more effective than prosecuting migrants (National Crime Agency, 2023).
-
-### 4. Remove incentives for irregular work through smart enforcement
-
-If people can easily find illegal work, they will keep coming illegally. The solution is targeting bad employers, not creating more bureaucracy for everyone else.
-
-Illegal employment remains a key pull factor. Over 60% of asylum seekers eventually work in the grey economy while awaiting decisions. Smart enforcement targets exploitative employers while protecting workers.
-
-**Immediate actions:**
-- Strengthen voluntary digital verification systems for migrant work authorisation only
-- Increase employer fines to £50,000 per illegal worker for serious offences
-- Protect migrant workers who report exploitation from immigration enforcement
-- Create seasonal worker visas for agriculture and hospitality sectors, supporting the [bulk food procurement systems outlined in welfare reform](../welfare/welfare-and-wellbeing-reform.md) and contributing to regional economic renewal during peak farming and tourism seasons. This should run as a genuine two-way exchange: Britain receives workers when it is short of hands, and helps its own people, including those in coastal towns with quiet winters, work seasons abroad in return, so the benefit and the cultural exchange flow both ways (see [detailed seasonal migration framework](./seasonal-migration.md))
-
-The Netherlands reduced illegal employment by 30% between 2018-2022 by focusing enforcement on exploitative employers rather than expanding checks on legal workers.
+**The do-nothing baseline.** Leave this and dangerous crossings continue, the backlog and hotel
+bills persist, criminal networks profit, and confidence in the whole system keeps falling.
 
 ---
 
-## A fifth pillar: defence-led humanitarian capacity and regional stabilisation
+## Evidence base
 
-The UK should add a fifth pillar to migration control: using defence, logistics, and aid capacity to reduce displacement pressure and strengthen regional handling before people reach the Channel.
-
-**Immediate actions:**
-- expand military engineering, field-hospital, logistics, and rapid-deployment capacity as part of a broader defence rebuild;
-- create standing joint units linking the armed forces, FCDO, Border Force, and humanitarian partners for crisis response;
-- fund forward humanitarian support in partner states where displacement surges are predictable;
-- use defence transport and logistics to support safe resettlement routes, emergency relief, and regional camp standards where Britain is already committed diplomatically;
-- publish a cost comparison between upstream intervention, inland accommodation, and repeated failed removals.
-
-**Why this works:** it treats migration pressure as a strategic problem, not just an administrative nuisance. Upstream capacity is often cheaper than years of hotel bills, appeals, detention, dispersal, and repeat enforcement. It also strengthens Britain's armed forces in ways that are useful for both national defence and humanitarian response.
-
-This is one application of a broader argument about defence and national resilience, not the whole of it. Migration is part of the case for rebuilding capability, but not the only part.
+- **Australia** cut boat arrivals sharply through offshore processing and expanded resettlement, but
+  at high human-rights cost and expense. *Partly transferable:* deterrence only works alongside legal
+  routes.[^australia]
+- **Canada's private sponsorship** has resettled over 300,000 refugees since 1979 with strong
+  integration outcomes. *Directly transferable* as a way to expand safe routes with community
+  support.[^canada]
+- **Germany** processed over a million claims in 2015-16 by investing heavily in decision-making
+  capacity. *Transferable:* speed and fairness are achievable together.[^germany]
+- **France and Italy** show enforcement alone shifts routes rather than ending them. *Relevant* as a
+  warning against an enforcement-only approach.[^ecre]
 
 ---
 
-## Implementation principles and political realities
+## Options appraisal
 
-**Speed and fairness must work together.** Fast decisions save money and reduce uncertainty, but rushed processes create legal vulnerabilities. Germany's investment in training and technology shows both are achievable (BAMF, 2022).
+**Option 1: Open borders.** *Pros:* humane in principle. *Cons:* no public consent and unmanaged
+pressure on services. Not the lead.
 
-**Deterrence works only when combined with alternatives.** Australia's offshore model reduced boat arrivals but required expensive third-country arrangements and caused significant human rights concerns. Deterrence without legal routes simply displaces suffering.
+**Option 2: Fortress Britain.** Enforcement and deterrence alone. *Pros:* sounds tough. *Cons:* the
+evidence shows it displaces suffering and costs a fortune without ending crossings. Not the lead.
 
-**Public support requires transparency and local investment.** Successful integration requires community buy-in. The Syrian resettlement programme worked because it was voluntary, well-funded, and transparent about numbers and locations (British Red Cross, 2022).
-
-**International cooperation is essential but requires compromise.** The UK cannot solve Channel crossings alone. French cooperation requires sustained diplomacy, intelligence sharing, and sometimes accepting responsibility for processing claims that might otherwise be rejected.
-
-**Defence investment should have domestic and external value.** Rebuilding the armed forces is easier to justify politically when voters can see that the same logistics, engineering, and medical capabilities also support disaster response, humanitarian action, and migration prevention closer to source regions.
-
----
-
-## Budget impact and economic effects
-
-The current system's failures are expensive. Hotel accommodation costs £2.4 billion annually. Processing delays cost an estimated £500 per case per month in administrative overhead. Failed removals often require multiple attempts, each costing thousands of pounds (NAO, 2023).
-
-A reformed system could save £1-2 billion annually through:
-- Reduced hotel costs from faster processing: £800 million - £1.2 billion
-- Lower administrative overhead from streamlined procedures: £200-300 million  
-- Reduced enforcement costs from targeting smugglers not migrants: £100-200 million
-- Economic benefits from expanded legal migration: potentially £500 million+ in additional tax revenue
-
-Part of those gains should be reinvested deliberately rather than simply banked. In particular, Britain should use some of the savings from reduced inland accommodation and fewer failed removals to rebuild defence, engineering, logistics, and humanitarian-response capacity. That is a better use of public money than paying for crisis churn inside the UK with little strategic return.
-
-That said, the case for stronger defence and aid capacity does not rest only on immigration savings. It is a wider national priority covering deterrence, alliance credibility, civil resilience, and upstream crisis response.
-
-**Investment required:** Expanding processing capacity requires upfront spending of approximately £200-300 million annually. Expanding resettlement and legal routes costs £100-200 million. The net saving remains substantial.
+**Option 3: A balanced, practical package *(lead option)*.** A points-based, skills-led system for
+legal migration managed by need, with expanded safe routes, fast fair processing, enforcement aimed
+at smugglers and bad employers, and upstream capacity. *Pros:* effective, affordable, and keeps
+public consent. *Cons:* requires patience and consistency rather than headline-chasing.
+**Recommended.**
 
 ---
 
-## What success looks like: measurable outcomes
+## The proposals (under the lead option)
 
-Effective immigration policy produces measurable results within 2-3 years:
-- Channel crossings fall by 60-80% as legal routes expand and processing speeds up
-- Asylum backlog eliminated within 24 months through increased capacity
-- Integration outcomes improve through community sponsorship and targeted support
-- Public confidence in the system increases through transparency and fair enforcement
-- Defence and humanitarian logistics capacity becomes more usable, visible, and strategically justified
-
-**Countries achieving these outcomes** include Canada (high resettlement, public support), Australia (reduced irregular arrivals), and Germany (rapid processing at scale).
-
----
-
-## Political sustainability and public confidence
-
-Immigration policy fails when it promises quick fixes to complex problems. The Rwanda scheme consumed hundreds of millions of pounds while removing fewer than 10 people (Home Office, 2024). Symbolic measures satisfy neither humanitarian concerns nor public demands for effective control.
-
-Sustainable policy requires honest communication about trade-offs. Expanding legal routes may initially increase numbers, but reduces dangerous journeys and improves integration. Fast processing may grant protection to more people, but eliminates the expensive limbo of prolonged uncertainty.
-
-The political reward comes from demonstrable results: fewer dangerous crossings, lower costs, better integration, and restored confidence that the system works fairly and effectively. This requires patience and consistency rather than policy lurches driven by daily headlines.
-
----
-
-## Conclusion: Beyond performance politics to practical solutions
-
-Immigration challenges cannot be solved through rhetoric or symbolic gestures. They require sustained investment in processing capacity, diplomatic cooperation, and balanced policies that address both humanitarian obligations and public concerns about fairness and control.
-
-The evidence from comparable countries shows that a mixed approach works: expand legal routes, process claims quickly and fairly, target criminal networks, and remove incentives for irregular migration. This is neither "open borders" nor "fortress Britain". It is practical policy that prioritises human dignity while maintaining public support.
-
-The UK has the resources and expertise to implement such a system. What it needs is the political will to choose evidence over ideology and long-term solutions over short-term headlines. That includes rebuilding defence and aid capacity so Britain is stronger abroad, not just more expensive at home.
+1. **A points-based, skills-led system, managed by need.** Run legal migration through a points and
+   skills system that lets numbers follow genuine need, rather than a fixed net-migration target that
+   becomes the whole argument and is repeatedly missed. Fast-track shortage occupations to reduce the
+   pull toward irregular work.
+2. **Expand safe, legal routes.** Increase humanitarian resettlement (for example toward 5,000 a
+   year), launch community sponsorship on the Canadian model, and bring family-reunion criteria into
+   line with European norms, so people have alternatives to dangerous journeys.[^canada]
+3. **Process claims in months, not years.** Recruit caseworkers and judges, set statutory targets
+   (initial decision within six months, appeals within three), and use digital case management to
+   clear the backlog. Each person moved out of hotel accommodation saves about £150 a day.[^backlog]
+4. **Target smugglers, not victims.** Use intelligence-led operations and asset seizures against the
+   organisers, with joint work with French authorities, rather than prosecuting desperate people.[^nca]
+5. **Smart enforcement on bad employers.** Target exploitative employers with higher fines, protect
+   workers who report exploitation, and use right-to-work checks for work authorisation only, with no
+   national digital ID, in line with [civil liberties](../governance/civil-liberties.md).
+6. **A genuine two-way seasonal exchange.** Run seasonal migration both ways, receiving workers when
+   we are short of hands and helping British people work seasons abroad, as set out in
+   [seasonal migration](./seasonal-migration.md).
+7. **Upstream, defence-led capacity.** Use defence logistics, engineering, and field medicine to
+   support camps, safer regional processing, and stabilisation near the source, in step with
+   [defence and resilience](../defence/defence-and-aid-resilience.md), because upstream capacity is
+   usually cheaper than years of inland churn.
 
 ---
 
-## Bibliography & References
+## Costs and benefits
 
-- British Red Cross (2022), *Community Sponsorship of Refugees: Five Years On*
-- European Council on Refugees and Exiles (2023), *Border Control and Human Rights in the Mediterranean*
-- Federal Office for Migration and Refugees (BAMF) (2022), *Asylum Statistics Germany 2015-2021*
-- Home Office (2024), *Immigration Statistics: Asylum and Resettlement*
-- Immigration, Refugees and Citizenship Canada (2023), *Private Sponsorship of Refugees Program*
-- Migration Observatory (2023), *Channel Crossings and Asylum Claims*
-- Migration Policy Institute (2022), *Legal Pathways and Irregular Migration: Comparative Analysis*
-- National Audit Office (2023), *Asylum Accommodation and Support*
-- National Crime Agency (2023), *Serious and Organised Crime Assessment*
-- Refugee Council of Australia (2023), *Offshore Processing: Costs and Consequences*
-- UNHCR (2023), *Global Trends: Forced Displacement in 2022*
+A reformed system could save £1-2 billion a year, mainly from faster processing cutting hotel costs,
+streamlined procedures, and enforcement aimed at smugglers rather than migrants, plus tax from
+expanded legal work.[^savings] Part of those savings should be reinvested upstream in defence and
+humanitarian capacity rather than simply banked. The detailed figures belong in the budget-accuracy
+pass (#21).
+
+---
+
+## Delivery and timeline
+
+- **Years 1-2:** recruit caseworkers and clear the backlog; expand legal routes and the
+  points-based system; stand up the joint anti-smuggling unit.
+- **Years 2-4:** embed fast processing and smart employer enforcement; build upstream capacity.
+- **Years 3-5:** dangerous crossings down sharply, backlog cleared, and public confidence restored.
+
+---
+
+## Risks and mitigations
+
+- **Speed undermining fairness.** *Mitigation:* invest in training and technology so fast decisions
+  are also sound, as Germany did.[^germany]
+- **Deterrence without routes.** *Mitigation:* always pair enforcement with safe legal routes.
+- **Pressure for a national digital ID.** *Mitigation:* right-to-work checks for work authorisation
+  only, never a population-wide ID.
+- **Public consent fraying.** *Mitigation:* transparency about numbers and locations, and local
+  investment where people are housed.
+
+---
+
+## Consultation questions
+
+1. How should the points-based system be designed so numbers follow genuine need?
+2. What level of resettlement and which safe routes should we prioritise?
+3. How fast can the backlog realistically be cleared, and how?
+4. How do we enforce against bad employers without drifting toward a national digital ID?
+
+---
+
+## References
+
+[^crossings]: Home Office (2024), *Immigration Statistics: Asylum and Resettlement*, and the
+Migration Observatory (2023). Crossings rose from under 300 (2018) to over 45,000 (2022); smuggling
+prices of £3,000-£8,000 a person generate an estimated £150m a year. (Figures to be confirmed in the
+budget-accuracy pass.) https://www.gov.uk/government/collections/immigration-statistics-quarterly-release
+[^backlog]: National Audit Office (2023), *Asylum Accommodation and Support*, and Home Office (2024).
+The backlog reached about 175,000 cases with two-year-plus waits; hotel accommodation cost about
+£2.4bn in 2022-23, roughly £150 a person a day. https://www.nao.org.uk/
+[^resettle]: UNHCR (2023), *Global Trends*. UK resettlement was around 1,171 in 2022, small by
+international standards. (To be confirmed in the budget-accuracy pass.)
+[^rwanda]: Home Office (2024). The Rwanda scheme cost hundreds of millions while removing very few
+people. (To be confirmed in the budget-accuracy pass.)
+[^australia]: Refugee Council of Australia (2023), *Offshore Processing: Costs and Consequences*.
+[^canada]: Immigration, Refugees and Citizenship Canada (2023), *Private Sponsorship of Refugees
+Program*. Over 300,000 refugees resettled since 1979, with strong integration outcomes.
+[^germany]: Federal Office for Migration and Refugees (BAMF) (2022), *Asylum Statistics Germany
+2015-2021*. Germany processed over a million claims in 2015-16 by investing in capacity.
+[^ecre]: European Council on Refugees and Exiles (2023), *Border Control and Human Rights in the
+Mediterranean*. Enforcement alone shifts routes rather than ending crossings.
+[^nca]: National Crime Agency (2023), *Serious and Organised Crime Assessment*. Sustained pressure on
+organisers is more effective than prosecuting migrants.
+[^savings]: National Audit Office (2023). Indicative reformed-system savings of £1-2bn a year from
+faster processing, streamlined procedures, and targeted enforcement. (To be confirmed in the
+budget-accuracy pass.)

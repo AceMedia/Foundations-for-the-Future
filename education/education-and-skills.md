@@ -1,217 +1,159 @@
 # Education and Skills for a Changing World
 
-Education in Britain is too focused on exams and too little on practical skills.
-
-## Skills for the Future
-
-We need a system that matches education to jobs. Coding, engineering, health sciences, and green technology must be central. Germany's apprenticeship model demonstrates how vocational and academic routes can be equally respected.
-
-But Britain now needs more than a general call for "better skills". Several parts of this framework already depend on a stronger workforce pipeline:
-
-- dementia care, social care, and end-of-life support;
-- retrofit, repairs, and home adaptations;
-- bulk food procurement, public kitchens, and nutrition logistics;
-- prison-leaver rehabilitation and public-service work;
-- regional enterprise, engineering, and technical trades.
-
-The right model is a **national profession with local delivery**. Standards, pay bands, safeguarding rules, qualification ladders, and progression routes should be set nationally, while hiring and day-to-day service delivery remain local through councils, NHS bodies, colleges, care providers, social enterprises, and approved employers.
-
-That avoids two bad models at once:
-
-- fragmented local systems that produce patchy quality and dead-end jobs;
-- over-centralised bureaucracy that treats every place and provider as identical.
-
-This matters most in care. Care work should be treated as skilled national work, not as low-status labour to be improvised locally.
-
-## Care first, but not care only
-
-The workforce chapter should be anchored in care because that is where the current system is most exposed:
-
-- older people need more support;
-- dementia care is complex and labour-intensive;
-- end-of-life care depends on continuity, trust, and home support;
-- unpaid carers are under strain;
-- delayed discharge and avoidable admissions often reflect workforce shortages.
-
-But the answer is not a care-only workforce plan. The same delivery system also needs:
-
-- kitchen and nutrition staff;
-- food logistics and packing teams;
-- housing repair and adaptation workers;
-- technicians for equipment, laundry, maintenance, and mobility support;
-- prison-leaver and community-sentence pathways into lawful work.
-
-So the design principle should be: **care-led, system-wide workforce planning**.
-
-*[See the end-of-life and dementia care framework](../health/end-of-life-and-dementia-care.md)*  
-*[See the bulk food procurement framework](../welfare/bulk-food-procurement.md)*  
-
-## The training ladder: short certificates into apprenticeships
-
-Britain should not force everyone into the same long training route. The best model is a ladder.
-
-### Stage 1: short practical certificates
-
-People should be able to enter quickly through short, recognised certificates in areas such as:
-
-- care basics and dementia awareness;
-- food hygiene, nutrition support, and kitchen operations;
-- manual handling, falls prevention, and home safety;
-- retrofit support, basic repairs, and adaptation installation;
-- logistics, warehousing, delivery coordination, and equipment handling;
-- first aid, safeguarding, and infection control.
-
-This gets people moving fast, especially:
-
-- school leavers;
-- adults changing sector;
-- returners after caring responsibilities;
-- unemployed adults;
-- prison leavers and community-sentence participants where appropriate.
-
-### Stage 2: supervised work and paid placements
-
-Certificates should lead into structured, supervised work:
-
-- care-support assistants;
-- public kitchen and meal-distribution roles;
-- retrofit and adaptation support roles;
-- logistics and supply-chain work;
-- approved rehabilitation placements for low-risk offenders.
-
-### Stage 3: apprenticeships and progression
-
-From there, people should be able to move into apprenticeships and higher roles:
-
-- adult care worker;
-- senior care assistant;
-- dementia specialist support;
-- palliative support worker;
-- retrofit technician;
-- logistics coordinator;
-- facilities and estates technician;
-- nursing associate or other health-science route where suitable.
-
-This ladder works better than a one-step model. It gives fast entry without trapping people at the bottom.
-
-## Guaranteed interviews, not guaranteed jobs
-
-The state should not promise jobs regardless of suitability. That would weaken trust and lower standards.
-
-But it should do more than hand people a certificate and wish them luck.
-
-Approved programmes should therefore carry a **guaranteed interview** with participating employers where the learner:
-
-- completes the required training;
-- has a clean attendance and conduct record;
-- passes any safeguarding or DBS requirements relevant to the role;
-- is recommended by the provider or placement supervisor.
-
-This is especially important for:
-
-- prison leavers;
-- adults returning after long illness or caring;
-- people moving from welfare into work;
-- workers changing sector into care, food, or retrofit.
-
-Guaranteed interviews create a real bridge into employment without forcing unsafe or unsuitable hires.
-
-## Workforce pathways that match the framework
-
-### 1. Care, dementia, and end-of-life support
-
-This should be the anchor pathway.
-
-Roles should include:
-
-- care assistants with progression bands;
-- dementia support workers;
-- hospice-at-home support workers;
-- palliative care coordinators and community support staff;
-- respite and sitting service workers;
-- non-clinical practical support roles such as meals, laundry, transport, and activity setup.
-
-The aim is continuity around the person, not fragmented visits from disconnected services.
-
-### 2. Food, kitchens, and nutrition logistics
-
-Food policy needs a real workforce:
-
-- public kitchen staff;
-- meal-packing and cold-chain staff;
-- delivery and route-planning roles;
-- nutrition support workers;
-- local procurement and distribution coordinators.
-
-This is where bulk food procurement becomes practical rather than theoretical.
-
-### 3. Retrofit, repair, and adaptation
-
-Housing and health policy need workers who can:
-
-- install rails, ramps, and basic safety adaptations;
-- carry out urgent heating and damp repairs;
-- support insulation and retrofit programmes;
-- maintain equipment and mobility aids;
-- make homes safer for frailty, disability, and end-of-life care.
-
-This is one of the clearest ways that skills, housing, and health connect.
-
-### 4. Second-chance skills and public-service rehabilitation
-
-Low-risk offenders should enter the ladder through the fastest and safest routes first:
-
-- food growing, packing, kitchens, and logistics;
-- repair, recycling, grounds, and maintenance;
-- public estate and adaptation support under supervision.
-
-Care-support training can follow later, but only under strict safeguards and normally in non-personal roles first. That is the right order: safer sectors first, care-adjacent routes after proven behaviour and screening.
-
-## Second-Chance Skills
-
-Skills policy should include people leaving custody and those on community sentences where public safety allows. Low-risk offenders should be able to earn recognised qualifications through food production, care support, logistics, retrofit, maintenance, and public-service work. This gives punishment a practical route into employment and reduces the chance of people returning to crime.
-
-*[Read the rehabilitation through public service framework](../justice/rehabilitation-through-public-service.md)*  
-
-## National standards that make care a profession
-
-If care is going to hold the system together, it needs professional structure.
-
-That means:
-
-- national pay bands linked to qualification and responsibility;
-- published career progression;
-- national safeguarding and training standards;
-- portable qualifications that work across regions;
-- local hiring but consistent expectations;
-- clearer routes from care support into nursing, allied health, and management.
-
-Britain should stop treating care work as informal labour that happens to matter. It matters enough to professionalise.
-
-## Local colleges, employers, and public contracts should work as one system
-
-Skills policy should not sit in a silo. Colleges, employers, councils, NHS bodies, housing providers, and approved justice partners should be tied together by local workforce compacts.
-
-Each compact should publish:
-
-- shortage occupations locally;
-- training places by pathway;
-- interview guarantees;
-- apprenticeship numbers;
-- placements for returners and second-chance routes;
-- progression from short certificate to higher qualification.
-
-Public contracts in care, food, housing repair, and logistics should reward providers who train locally and create progression routes.
-
-## Parents, Not Government, First
-
-Children's online safety is first and foremost an at-home issue. Parents must be empowered to set boundaries and educated on digital risks. The government should provide tools and resources, but not act as a digital nanny. Family responsibility cannot be legislated away.
+*A forward-looking proposal, judged by what works, not by left or right.*
+
+> **Summary for the reader**
+> - **The problem:** education is too focused on exams and too little on practical skills, the care
+>   and technical workforce the rest of this framework depends on is thin, and graduates carry heavy
+>   upfront debt while technical routes are underfunded.
+> - **The options:** keep the academic, exam-led status quo, push further toward academia, or build a
+>   skills-led system with vocational parity and fairer higher-education funding.
+> - **Lead option:** a **care-led, system-wide workforce ladder**, a **graduate contribution
+>   replacing upfront tuition fees**, and **funding rebalanced toward technical and vocational
+>   routes**, with parents kept in charge of children's online safety.
+> - **Timeline:** build the workforce ladder early; phase the funding reforms over a parliament.
+>
+> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
 
 ---
 
-## Bibliography & References
+## The problem
 
-- OECD (2020), *Skills Outlook*.  
-- German Federal Ministry of Education (2019), *Dual Vocational Training in Germany*.  
-- Department of Health and Social Care (2025), *Care Workforce Pathway for Adult Social Care*.  
-- Ofsted (2022), *Online Safety in Education*.  
+Education in Britain is too focused on exams and too little on the practical skills the country
+needs. Several parts of this framework already depend on a stronger workforce pipeline: dementia and
+social care, retrofit and home adaptations, bulk food procurement, prison-leaver rehabilitation, and
+regional engineering and technical trades.
+
+**The care workforce is most exposed.** Care work is skilled and essential but treated as low-status
+labour to be improvised locally, so providers cannot recruit or retain staff and delayed discharges
+and avoidable admissions follow.
+
+**Technical routes are undervalued.** Vocational and technical education has long been treated as
+second best to a degree, which leaves skills gaps and dead-end jobs.
+
+**Higher education leaves heavy upfront debt.** Students take on large loans up front, while the
+technical routes many would be better served by are underfunded.
+
+**The do-nothing baseline.** Leave this and the skills gaps widen, care stays in crisis, graduates
+carry debt for routes that do not always pay, and the rest of this framework lacks the workforce to
+deliver it.
+
+---
+
+## Evidence base
+
+- **Germany's dual model works.** Germany shows vocational and academic routes can be equally
+  respected, with strong apprenticeships feeding industry.[^germany] *Transferable* as the model for
+  vocational parity.
+- **A national profession with local delivery raises care quality.** Setting standards, pay bands,
+  and progression nationally while hiring stays local avoids both patchy quality and central
+  bureaucracy.[^carepathway] *Transferable* as the workforce architecture.
+- **Skills investment pays back.** Better skills raise productivity and wages.[^oecd] *Transferable*
+  as long-term value.
+
+---
+
+## Options appraisal
+
+**Option 1: Keep the exam-led status quo.** *Pros:* familiar. *Cons:* leaves skills gaps, a care
+crisis, and graduate debt unaddressed. The do-nothing baseline.
+
+**Option 2: Push further toward academia.** Treat more degrees as the goal. *Pros:* widens
+university access. *Cons:* deepens the neglect of technical routes and the debt problem.
+
+**Option 3: Skills-led, with vocational parity and fairer funding *(lead option)*.** Build a
+care-led, system-wide workforce ladder, give technical routes parity and funding, and replace upfront
+tuition fees with a fairer graduate contribution. *Pros:* matches education to the jobs that exist,
+fixes the care pipeline, and treats students fairly. *Cons:* needs sustained investment and reform.
+**Recommended.**
+
+---
+
+## The proposals (under the lead option)
+
+1. **A national profession with local delivery.** Set standards, pay bands, safeguarding rules,
+   qualification ladders, and progression nationally, while hiring and day-to-day delivery stay local
+   through councils, NHS bodies, colleges, care providers, and approved employers.
+2. **A care-led, system-wide workforce ladder.** Build a training ladder rather than a single long
+   route: short practical certificates (care basics, food hygiene, manual handling, retrofit support,
+   logistics, first aid) leading into supervised paid placements, then into apprenticeships and higher
+   roles (care worker, dementia and palliative support, retrofit technician, logistics coordinator,
+   nursing associate). Fast entry without trapping people at the bottom.
+3. **Guaranteed interviews, not guaranteed jobs.** Approved programmes carry a guaranteed interview
+   with participating employers for learners who complete training, have a clean record, and pass
+   safeguarding, a real bridge into work without forcing unsafe hires. This matters most for prison
+   leavers, returners, and people moving from welfare into work.
+4. **Pathways that match the framework.** Anchor pathways in care, dementia, and end-of-life support,
+   with parallel routes in food and nutrition logistics, retrofit and adaptation, and second-chance
+   public-service work, linking to [end-of-life care](../health/end-of-life-and-dementia-care.md),
+   [bulk food procurement](../welfare/bulk-food-procurement.md), and
+   [rehabilitation](../justice/rehabilitation-through-public-service.md).
+5. **Make care a profession.** National pay bands linked to qualification, published progression,
+   portable qualifications, and clear routes from care support into nursing and allied health, so care
+   is treated as the skilled national work it is.[^carepathway]
+6. **Local workforce compacts.** Tie colleges, employers, councils, NHS bodies, housing providers, and
+   justice partners together in local compacts that publish shortage occupations, training places,
+   interview guarantees, and progression routes, and reward public contractors who train locally.
+7. **Fairer higher-education funding.** Replace upfront tuition fees and loans with a graduate
+   contribution tied to earnings, so graduates pay according to what they earn rather than carrying
+   heavy debt from day one, and **rebalance funding toward technical and vocational routes** so
+   apprenticeships and technical education are genuinely on a par with degrees.
+8. **Parents first on online safety.** Children's online safety is first and foremost an at-home
+   issue. Empower and inform parents, supported by the controls built into devices and operating
+   systems,[^ofsted] and provide tools and resources rather than acting as a digital nanny, in line
+   with [civil liberties](../governance/civil-liberties.md).
+
+---
+
+## Costs and benefits
+
+The workforce ladder and technical investment are funded partly by rebalancing higher-education
+spending, and they pay back through a stronger care system, fewer skills gaps, and higher
+productivity. A graduate contribution spreads the cost of higher education more fairly over working
+life. The figures belong in the budget-accuracy pass (#21) and the skills-savings file.
+
+---
+
+## Delivery and timeline
+
+- **Years 1-3:** stand up the workforce ladder and short certificates; set national care standards;
+  begin the shift of funding toward technical routes.
+- **Years 3-7:** scale apprenticeships and local compacts; phase in the graduate contribution.
+- **Years 7-10:** a skills-led system with vocational parity, a professional care workforce, and
+  fairer higher-education funding.
+
+---
+
+## Risks and mitigations
+
+- **Care left as low-status work.** *Mitigation:* national pay bands and a real profession, not just
+  warm words.
+- **Graduate contribution seen as a tax rise.** *Mitigation:* be clear it replaces upfront fees and
+  is fairer, tied to earnings.
+- **Technical routes still treated as second best.** *Mitigation:* fund them to genuine parity with
+  degrees.
+- **Online safety overreach.** *Mitigation:* support parents and device controls rather than mandatory
+  state checks.
+
+---
+
+## Consultation questions
+
+1. How should the workforce ladder and guaranteed interviews be designed?
+2. What should a graduate contribution look like, and how does it compare with the current system?
+3. How far should funding shift from degrees toward technical and vocational routes?
+4. What tools best help parents keep children safe online without a digital nanny state?
+
+---
+
+## References
+
+[^germany]: German Federal Ministry of Education (2019), *Dual Vocational Training in Germany*. The
+dual model gives vocational and academic routes parity of esteem. (Source to be confirmed in the
+budget-accuracy pass.)
+[^carepathway]: Department of Health and Social Care (2025), *Care Workforce Pathway for Adult Social
+Care*. https://www.gov.uk/government/publications/care-workforce-pathway-for-adult-social-care
+[^oecd]: OECD (2020), *Skills Outlook*. Skills investment supports productivity and wages. (Source to
+be confirmed in the budget-accuracy pass.)
+[^ofsted]: Ofsted (2022), *Online Safety in Education*; and device-level parental controls such as
+Apple's 2026 child-safety features. (To be confirmed in the budget-accuracy pass.)

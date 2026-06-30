@@ -1,181 +1,140 @@
-# Defence, Aid, and National Resilience: Build Capacity Before Crisis
+# Defence, Aid and National Resilience
 
-Britain has allowed itself to become weaker in a very specific and costly way. It still spends large sums reacting to crises once they have fully arrived, but it has underinvested in the capabilities that reduce those crises earlier: armed forces logistics, engineering, sealift, airlift, field medicine, stockpiles, civil contingencies, and practical overseas support. That is a bad bargain.
+*A forward-looking proposal, judged by what works, not by left or right.*
 
-A serious country should not treat defence as an isolated military budget line, nor aid as a sentimental afterthought. Both are part of national resilience. They shape whether Britain can deter threats, support allies, move quickly in emergencies, stabilise fragile situations, and avoid paying far larger costs once disorder reaches our borders or our streets.
-
-The argument for rebuilding defence therefore goes well beyond immigration. Migration pressure is one consequence of disorder abroad, but it is not the whole case. Britain needs stronger capability because the world is harder, alliances matter, logistics matter, and weakness is expensive.
-
----
-
-## Defence spending is not just about war
-
-When people hear "defence spending", they often picture only conventional warfighting. That is too narrow. A capable defence posture also provides:
-
-- strategic lift for people, equipment, and humanitarian supplies;
-- engineering capacity for camps, temporary infrastructure, bridges, sanitation, and repairs;
-- medical capability for emergency care and field support;
-- communications and coordination during fast-moving crises;
-- maritime presence that protects routes, deters smuggling, and supports allied operations;
-- domestic resilience when floods, blackouts, cyber incidents, or other emergencies overwhelm civilian systems.
-
-That means defence investment has a dual return. It strengthens deterrence and alliance credibility, but it also creates practical capacity that can be used in peacetime emergencies and overseas aid missions.
+> **Summary for the reader**
+> - **The problem:** Britain underinvests in the capabilities that prevent and contain crises
+>   (logistics, engineering, lift, field medicine, stockpiles, civil contingency) while spending
+>   heavily reacting to crises once they have fully arrived. That is a bad bargain.
+> - **The options:** a fixed percentage-of-GDP target, capability-based investment, or holding
+>   current spend.
+> - **Lead option:** **set defence and resilience spending by the capability actually needed,
+>   keep the nuclear deterrent, and treat defence, aid, and civil resilience as one system.**
+> - **Timeline:** restore the basics early; build usable capability over a decade.
+>
+> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
 
 ---
 
-## Why Britain must rebuild now
+## The problem
 
-Britain faces a world of sharper geopolitical competition, weaker supply chains, more frequent climate-linked emergencies, and migration pressures driven by conflict and collapse. The old habit of assuming that instability can be managed cheaply, administratively, and at the last minute has failed.
+A serious country should not treat defence as an isolated military budget line, nor aid as a
+sentimental afterthought. Both are part of national resilience: whether Britain can deter threats,
+support allies, move quickly in emergencies, stabilise fragile situations, and avoid far larger
+costs once disorder reaches our borders.
 
-Underinvestment shows up in familiar forms:
+**Capability has been hollowed out.** Underinvestment shows up in familiar forms: armed forces
+asked to do more with less, thin logistics and stockpile depth, overreliance on private contractors
+and fragile international supply, and slow emergency mobilisation.
 
-- armed forces that are expected to do more with less;
-- inadequate logistics and stockpile depth;
-- overreliance on private contractors and fragile international supply;
-- slow emergency mobilisation;
-- excessive downstream spending once crises become domestic.
+**We pay downstream instead of upstream.** Britain spends large sums on the downstream consequences
+of failure, from asylum accommodation to repeat enforcement and last-minute crisis response, with
+little long-term strategic return.
 
-This is false economy. It is cheaper to have usable capacity before a crisis than to improvise after it.
+**The world is harder.** Sharper geopolitical competition, weaker supply chains, more frequent
+climate-linked emergencies, and conflict-driven migration all make the old habit of managing
+instability cheaply and at the last minute untenable.
 
----
-
-## Aid should be practical, upstream, and tied to capability
-
-Britain should not think of aid only as cash transfers or symbolic diplomacy. In many situations, the most useful aid is practical aid: moving supplies, building infrastructure, supporting camps, restoring communications, reinforcing sanitation, and backing local stability before collapse intensifies.
-
-That is where defence and aid meet. A strong military can support:
-
-- emergency shelter and camp infrastructure;
-- air and sea delivery of food, medicine, and equipment;
-- engineering support for water, sanitation, roads, and temporary facilities;
-- evacuation and medical support in rapidly deteriorating situations;
-- joint planning with trusted allies, NGOs, and partner governments.
-
-Done properly, this is not militarised charity. It is strategic aid backed by real capability.
+**The do-nothing baseline.** Leave this and Britain stays exposed and improvises after every crisis,
+which is the most expensive way to operate. It is cheaper to hold usable capacity before a crisis
+than to scramble after it.
 
 ---
 
-## Immigration pressure is one reason, not the only reason
+## Evidence base
 
-The UK currently spends huge sums on the downstream consequences of failure: asylum hotels, emergency accommodation, prolonged appeals, detention, dispersal, repeat enforcement, and repeated removal attempts. That churn has little long-term strategic return.
-
-Some of that spending would be better redirected upstream. If Britain helps stabilise pressure points earlier, supports safer regional handling, and uses defence logistics in crisis zones, it may reduce the volume and intensity of irregular migration pressure that eventually reaches the Channel.
-
-But this chapter is not saying defence spending should be justified only as an anti-migration tool. That would be too narrow and politically brittle. The broader case is stronger:
-
-- defence protects Britain directly;
-- aid and logistics support stability abroad;
-- civil resilience protects Britain during domestic emergencies;
-- all three reduce the fiscal and social cost of reacting too late.
-
-Immigration savings can support this strategy. They are not the whole strategy.
+- **Defence investment has a dual return.** A capable posture strengthens deterrence and alliance
+  credibility, and also creates practical capacity (lift, engineering, field medicine,
+  communications) usable in peacetime emergencies and aid missions. *Transferable* as the organising
+  idea.
+- **Upstream prevention is cheaper than downstream failure.** Helping stabilise pressure points
+  early reduces the volume and cost of crises that reach home, the shared logic of the
+  [immigration](../immigration/immigration.md) and
+  [foreign policy](../foreign-policy/foreign-policy.md) chapters.
+- **Alliances multiply strength.** Standing cooperation with trusted allies and partners gives
+  Britain reach it cannot have alone. *Transferable* as the basis of strategy.
 
 ---
 
-## What Britain should rebuild
+## Options appraisal
 
-The priority is not abstract "more spending" without shape. It is targeted capability.
+**Option 1: A fixed percentage-of-GDP target.** Commit to a headline figure such as 2.5% or 3%.
+*Pros:* clear and easy to communicate. *Cons:* fixes on the input rather than the capability, and
+the number becomes the argument instead of what it buys.
 
-### 1. Logistics and lift
+**Option 2: Capability-based investment *(lead option)*.** Set spending by the capabilities actually
+needed, logistics, engineering, medicine, stockpiles, and civil resilience, and keep the nuclear
+deterrent as the ultimate guarantee. *Pros:* money follows real need and produces usable capacity.
+*Cons:* requires honest capability planning rather than a simple slogan. **Recommended.**
 
-Britain needs stronger airlift, sealift, transport coordination, and protected supply capacity. Without that, both military operations and humanitarian interventions become slower, more expensive, and more dependent on others.
-
-### 2. Engineering and infrastructure support
-
-Military and civilian engineering capability should be expanded for bridge-building, temporary facilities, camp support, flood response, sanitation, and emergency repairs.
-
-### 3. Medical and field support
-
-Field hospitals, deployable medical teams, and emergency care capacity matter in war, in humanitarian crises, and in domestic contingencies.
-
-### 4. Stockpiles and industrial depth
-
-A resilient country needs reserves of key materials, spares, medicines, energy contingencies, and secure procurement relationships with domestic industry.
-
-### 5. Joint crisis units
-
-Britain should create standing joint capability linking the armed forces, the FCDO, Border Force, emergency planners, and humanitarian partners. Crises do not respect departmental boundaries. Government should stop pretending they do.
+**Option 3: Hold current spend, reform within it.** Keep roughly current spending and spend it
+better. *Pros:* no extra cost. *Cons:* unlikely to close the capability gaps the world now demands.
 
 ---
 
-## Defence procurement should help rebuild the domestic economy
+## The proposals (under the lead option)
 
-Rearmament or resilience spending should not simply leak abroad through fragmented contracting. Where possible, defence and resilience budgets should support:
-
-- British manufacturing;
-- engineering apprenticeships and technical training;
-- shipbuilding, maintenance, and logistics jobs;
-- medical and communications technology;
-- regional industrial renewal outside London.
-
-This fits the wider economic argument of this repo. Britain should use public spending to build lasting capacity, not just purchase temporary relief. Defence procurement, if done well, can support regional enterprise, high-skill work, and domestic supply security.
-
-*[See the linked economic renewal chapter](../economy/entrepreneurship-and-renewal.md)*  
-
----
-
-## Civil resilience must sit beside military readiness
-
-Defence is not enough on its own. Britain also needs stronger domestic resilience:
-
-- better civil contingency planning;
-- stronger flood and extreme-weather response;
-- reserve logistics and emergency communications;
-- local authority access to trained support and emergency equipment;
-- clearer command structures when multiple agencies are involved.
-
-The state should be able to move from normal conditions to emergency footing quickly and competently. At present, too much of that capacity is thin, fragmented, or improvised.
+1. **Plan by capability, not by slogan.** Set a clear multi-year investment plan driven by the
+   capabilities Britain actually needs, and keep the nuclear deterrent as the ultimate guarantee of
+   national security.
+2. **Logistics and lift.** Strengthen airlift, sealift, transport coordination, and protected supply,
+   without which both military and humanitarian operations are slow and dependent on others.
+3. **Engineering and field medicine.** Expand military and civilian engineering (bridges, temporary
+   facilities, sanitation, flood response) and deployable medical capacity for war, humanitarian
+   crises, and domestic emergencies.
+4. **Stockpiles and industrial depth.** Hold reserves of key materials, spares, medicines, and energy
+   contingencies, with secure procurement from domestic industry.
+5. **Joint crisis units.** Create standing capability linking the armed forces, the Foreign Office,
+   Border Force, emergency planners, and humanitarian partners, because crises do not respect
+   departmental boundaries.
+6. **Practical, upstream aid.** Treat aid as practical capability where it helps, moving supplies,
+   building infrastructure, supporting camps, and backing stability before collapse, in step with the
+   [foreign policy](../foreign-policy/foreign-policy.md) chapter.
+7. **Procurement that rebuilds industry.** Direct defence and resilience spending toward British
+   manufacturing, engineering apprenticeships, shipbuilding, and regional industrial renewal, in step
+   with the [economy](../economy/entrepreneurship-and-renewal.md) chapter.
+8. **Civil resilience.** Build better civil contingency planning, flood and extreme-weather response,
+   reserve logistics, and clear command structures, so the state can move to an emergency footing
+   quickly.
 
 ---
 
-## How this links to other reforms in this repo
+## Costs and benefits
 
-This chapter connects to several other parts of the framework:
-
-- **Immigration:** upstream crisis response and regional support are cheaper and more strategic than relying only on inland accommodation and repeat removals.  
-  ↳ See [`../immigration/immigration.md`](../immigration/immigration.md)
-- **Governance:** resilience requires real capability, local coordination, and clearer state structures.  
-  ↳ See [`../governance/democracy-and-reform.md`](../governance/democracy-and-reform.md)
-- **Vice taxation:** this framework now treats regulated vice revenue as primarily health-and-care funding; defence and civil resilience should be funded through dedicated resilience budgets rather than relying on vice receipts.  
-  ↳ See [`../health/vice-taxation-and-betterment.md`](../health/vice-taxation-and-betterment.md)
-- **Economy:** defence procurement and resilience investment should strengthen domestic industry and regional jobs.  
-  ↳ See [`../economy/entrepreneurship-and-renewal.md`](../economy/entrepreneurship-and-renewal.md)
+Capability-based investment costs money, but it buys deterrence, alliance credibility, usable
+emergency capacity, and lower downstream crisis bills, while procurement strengthens domestic
+industry and regional jobs. Some immigration savings can support this strategy, though they are not
+the whole case for it. The figures belong in the budget-accuracy pass (#21).
 
 ---
 
-## Implementation strategy
+## Delivery and timeline
 
-### Phase 1: restore the basics
-
-In the first phase, government should:
-
-- set a clear multi-year defence and resilience investment plan;
-- identify logistics, engineering, medical, and stockpile gaps;
-- create joint crisis-response structures across departments;
-- publish a comparison between upstream intervention costs and downstream crisis churn.
-
-### Phase 2: build usable capability
-
-Government should then:
-
-- expand engineering, lift, and field-support units;
-- strengthen domestic procurement and industrial depth;
-- improve standing cooperation with allies and humanitarian partners;
-- link resilience spending to regional industrial capacity.
-
-### Phase 3: integrate defence, aid, and resilience
-
-Once capability is rebuilt, Britain should operate a more coherent model:
-
-- faster humanitarian deployment;
-- stronger alliance support;
-- better domestic emergency response;
-- reduced dependence on expensive last-minute improvisation.
+- **Years 1-3 (restore the basics):** set the multi-year capability plan; map logistics, engineering,
+  medical, and stockpile gaps; create joint crisis-response structures; publish a comparison of
+  upstream intervention costs against downstream churn.
+- **Years 3-7 (build usable capability):** expand engineering, lift, and field-support units;
+  strengthen domestic procurement and industrial depth; deepen alliance cooperation.
+- **Years 7-10 (integrate):** faster humanitarian deployment, stronger alliance support, better
+  domestic emergency response, and less dependence on last-minute improvisation.
 
 ---
 
-## Conclusion
+## Risks and mitigations
 
-Britain needs to stop confusing reaction with strength. A country that waits for crises to become domestic, expensive, and politically toxic before acting is not saving money. It is storing up bigger bills.
+- **Spending without shape.** *Mitigation:* drive investment by capability gaps, not a headline
+  number.
+- **Procurement leaking abroad.** *Mitigation:* favour domestic industry and regional supply where
+  possible.
+- **Defence justified only as anti-migration.** *Mitigation:* make the broader case (deterrence,
+  alliances, resilience); migration is one application, not the whole argument.
+- **Civil resilience left thin.** *Mitigation:* fund it alongside military readiness, not after it.
 
-Defence, aid, and resilience belong together. Rebuilding them would make Britain safer, more useful to allies, more capable in emergencies, and less dependent on endlessly paying downstream failure costs. Immigration pressure is one place that logic applies. It is not the only one, and it should not be mistaken for the whole case.
+---
+
+## Consultation questions
+
+1. How should capability needs be assessed and turned into a spending plan?
+2. Which capability gaps should be closed first?
+3. How do we make defence procurement rebuild domestic industry and regions?
+4. What standing structures would best join up military, aid, and civil resilience?
