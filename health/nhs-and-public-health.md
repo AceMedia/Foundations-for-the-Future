@@ -30,6 +30,12 @@ for the system, connecting to [adult social care](./adult-social-care.md).
 **The workforce is short and burnt out.** Around 100,000 vacancies across nursing and other roles
 leave staff stretched, which harms care and retention.[^workforce]
 
+**The front line is crumbling.** General practice has about 15% fewer fully qualified GPs per patient
+than a decade ago, which fuels the daily 8am scramble for an appointment;[^gp] around 13 million adults
+(28%) have unmet NHS dental need and roughly 97% of new patients cannot get an NHS dentist;[^dentistry]
+and the hospital-maintenance backlog has reached £15.9bn, now more than the entire annual cost of
+running the NHS estate.[^estate]
+
 **It treats illness rather than preventing it.** Too much of the system waits for people to become ill
 rather than stopping them becoming ill in the first place, even though prevention is cheaper and
 kinder.
@@ -74,8 +80,12 @@ demand, shorter waits, healthier population. *Cons:* needs investment now for re
    policy, in step with [housing](../housing/housing-policy.md),
    [bulk food provision](../welfare/bulk-food-procurement.md), and [mental health](./mental-health.md),
    so fewer people become ill in the first place.
-2. **Restore core capacity and cut waits.** Invest to bring the waiting list down and keep it down,
-   with better use of diagnostics, community care, and technology.
+2. **Restore core capacity and the front line.** Invest to bring the waiting list down and keep it
+   down with better diagnostics and community care, and rebuild the front line: more GPs to end the
+   8am scramble, a rescued NHS dentistry service (reformed contract and a focus on dental deserts),
+   and a funded programme to clear the £15.9bn hospital-maintenance backlog. Digital tools such as the
+   NHS App help here, and they run through per-service NHS logins, not a national digital ID, in line
+   with [civil liberties](../governance/civil-liberties.md).
 3. **Fix the workforce.** Train, value, and retain staff, tied to the care-workforce ladder in
    [education and skills](../education/education-and-skills.md).
 4. **Integrate with social care.** Join up health and care to end delayed discharges, in step with
@@ -129,6 +139,7 @@ the budget files and the [health-savings file](../budget/health-savings.md).
 2. How do we cut the waiting list and keep it down?
 3. How fast can health and social care be integrated to end delayed discharges?
 4. How should regulated vice revenue be ring-fenced and reported to fund care?
+5. How do we rebuild primary care and NHS dentistry, and clear the hospital-maintenance backlog?
 
 ---
 
@@ -138,6 +149,15 @@ the budget files and the [health-savings file](../budget/health-savings.md).
 around 7.4 million pathways (about 6.24 million unique patients) in October 2025, with around 100,000 waiting over a year. https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/
 [^workforce]: NHS England Vacancy Statistics. The NHS in England had around 100,000 vacancies in
 2025/26 (a vacancy rate of about 6.7%), including roughly 25,000 in nursing. https://digital.nhs.uk/data-and-information/publications/statistical/nhs-vacancies-survey
+[^gp]: British Medical Association / LSHTM (2024). The number of fully qualified full-time-equivalent
+GPs per 1,000 patients fell about 15% over the decade to 2024 (from 0.53 to 0.45), with patients per
+GP rising above 2,200. https://www.bma.org.uk/advice-and-support/nhs-delivery-and-workforce/pressures/pressures-in-general-practice
+[^dentistry]: British Dental Association / House of Commons (2024). Unmet NHS dental need stands at
+around 13 million adults (28%); about 97% of new patients trying to access NHS dentistry are
+unsuccessful; roughly 60% of adults had not seen an NHS dentist in the two years to March 2024. https://www.bda.org/media-centre/13-million-unable-to-access-nhs-dentistry/
+[^estate]: NHS England, Estates Returns Information Collection (ERIC), 2024/25. The hospital-maintenance
+backlog reached £15.9bn (up from £13.8bn), with £5.6bn classed as significant risk, now exceeding the
+£14bn annual cost of running the estate. https://www.england.nhs.uk/publication/estates-returns-information-collection/
 [^portugal]: Hughes, C. & Stevens, A. (2010), *What Can We Learn From The Portuguese Decriminalization
 of Illicit Drugs?*, British Journal of Criminology. Decriminalisation with public-health support
 reduced harm, crime, and cost.
