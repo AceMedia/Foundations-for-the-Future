@@ -21,11 +21,16 @@
 The basic deal is that people are kept safe and crimes are dealt with. In too many places that deal
 has frayed.
 
-**Confidence has fallen.** Trust in policing has dropped, which makes everything harder, since
-policing depends on public consent and cooperation.
+**Confidence has fallen.** Trust in policing has dropped after a run of high-profile failures and the
+Casey review's findings on culture and vetting, which makes everything harder, since policing depends
+on public consent and cooperation.
 
-**Charge rates are low.** For many crimes, including theft and assault, the chance of a charge is
-low, so victims feel the system does not respond.
+**Charge rates are low.** Only about 7.3% of all offences end in a charge or summons, and for most
+theft the figure is lower still, so victims feel the system does not respond.[^outcomes]
+
+**Fraud is the biggest crime and the least policed.** Fraud now accounts for around 41% of all crime
+against individuals, the single largest category, and rose by about a third in a year, yet it gets a
+tiny share of policing.[^fraud] Crime has moved online faster than policing has followed.
 
 **Neighbourhood policing was hollowed out.** The visible, local policing that prevents crime and
 builds trust was cut back, and it is the thing people most want back.
@@ -77,7 +82,13 @@ investigation capacity, and patience. **Recommended.**
    serious violence partly as a public-health issue and taking domestic abuse seriously.
 4. **Keep drugs a health issue.** Maintain the health-led approach to drugs set out in
    [health](../health/nhs-and-public-health.md), freeing police time for crimes with victims.
-5. **Effective, not intrusive.** Use technology in targeted, accountable ways, and reject untargeted
+5. **Police fraud and cyber crime properly.** Resource the investigation of fraud and online crime in
+   proportion to its scale, with a stronger national capability and better joint work with banks and
+   platforms, since it is now the largest crime type and the least addressed.
+6. **Rebuild standards and vetting.** Act on the Casey review: proper vetting, misconduct that
+   actually leads to removal, and a culture that earns consent, especially from women and minority
+   communities.
+7. **Effective, not intrusive.** Use technology in targeted, accountable ways, and reject untargeted
    mass surveillance such as blanket live facial recognition, in line with
    [civil liberties](../governance/civil-liberties.md).
 
@@ -116,3 +127,16 @@ budget files.
 2. What raises charge rates for the crimes people care most about?
 3. What prevention best reduces serious violence and domestic abuse?
 4. Where is the line on police use of surveillance technology?
+5. How do we resource fraud and cyber policing in proportion to their scale?
+6. What will it take to rebuild standards, vetting, and public trust after the Casey review?
+
+---
+
+## References
+
+[^outcomes]: Home Office, *Crime outcomes in England and Wales 2024 to 2025*. About 7.3% of all
+recorded offences resulted in a charge or summons, with charge rates for theft other than shoplifting
+around 2.5%. https://www.gov.uk/government/statistics/crime-outcomes-in-england-and-wales-2024-to-2025
+[^fraud]: Office for National Statistics, *Crime in England and Wales*. Fraud accounted for around 41%
+of all crime against individuals (the largest single category) in the year ending September 2024, and
+rose by about a third to roughly 4.1 million incidents. https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingdecember2024
