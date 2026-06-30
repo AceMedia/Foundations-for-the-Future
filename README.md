@@ -184,7 +184,8 @@ Ring-fencing 10–15% of that into a Health and Care Betterment Fund would yield
 So the honest headline is **£3–6bn of savings plus ~£2.4–3.6bn of earmarked revenue,
 deliberately reinvested** into a larger programme of repair and renewal. Refining all of
 this is part of the consultation.
-→ *[Full budget analysis](budget/summary-of-savings.md)*
+→ *[Full budget analysis](budget/summary-of-savings.md)* ·
+*[The consolidated position](budget/consolidated-position.md)*
 
 ---
 

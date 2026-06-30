@@ -63,6 +63,7 @@ This file maps the current documents, shows the strongest cross-links, and sugge
 | Governance savings | [budget/governance-and-admin-savings.md](./budget/governance-and-admin-savings.md) | Digital government, agency simplification, procurement | Governance, food procurement |
 | Immigration & asylum savings | [budget/immigration-savings.md](./budget/immigration-savings.md) | Asylum-hotel and backlog costs, processing savings, upstream reinvestment | Immigration, defence, courts |
 | International comparisons | [budget/international-comparisons.md](./budget/international-comparisons.md) | Evidence from other countries | Housing, welfare, health, vice, governance |
+| Consolidated position | [budget/consolidated-position.md](./budget/consolidated-position.md) | Savings, earmarked revenue, and new spending netted together; the honest whole-of-framework position | All budget files, README |
 
 ---
 

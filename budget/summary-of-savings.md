@@ -39,7 +39,7 @@ This framework is not a pure savings exercise, and the table above is only one s
 - **Deliberate new spending:** the dementia and end-of-life care guarantee is a **net cost of about £5.2–7.4bn/yr** (see [social-care-and-end-of-life-savings.md](./social-care-and-end-of-life-savings.md)). Other commitments (new nuclear, water in public ownership, defence capability, direct-provision welfare, public childcare, transport) are real costs still being modelled.
 - **Earmarked revenue:** regulated vice duties raise about **£23.9bn/yr**; ring-fencing 10–15% yields roughly **£2.4–3.6bn/yr** for health and care (see [health-and-care-betterment-revenue.md](./health-and-care-betterment-revenue.md)), separate from the savings.
 
-So the framework reallocates how Britain spends: savings and earmarked revenue help fund a larger programme of repair and renewal. It should not be read as self-funding overall, and building a **consolidated cost side** is the next priority for the budget work.
+So the framework reallocates how Britain spends: savings and earmarked revenue help fund a larger programme of repair and renewal. It should not be read as self-funding overall. The whole picture, savings, earmarked revenue, and new spending set together, is in [consolidated-position.md](./consolidated-position.md).
 
 ---
 
