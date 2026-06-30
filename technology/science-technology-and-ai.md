@@ -24,12 +24,16 @@ giving its lead away.
 **We invent here and scale abroad.** World-class research too often becomes companies and jobs in
 other countries, because scale-up capital and support are thin at home.
 
-**R&D is unevenly spread.** Research strength is concentrated, so the benefits do not reach much
-of the country, connecting to the regional argument in the
+**R&D is uneven and under-leveraged.** Britain spends around 2.8% of GDP on research and development,
+but it is concentrated in a few places and too little of it turns into companies; the UK rejoined the
+EU's Horizon Europe research programme in 2024, which helps, but there is no clear national R&D mission
+or target.[^rd] This connects to the regional argument in the
 [economy chapter](../economy/entrepreneurship-and-renewal.md).
 
-**Rules lag the technology.** AI and data regulation often arrives late and by accident, creating
-uncertainty for innovators and gaps for harms.
+**Rules lag the technology, especially on AI.** AI and data regulation often arrives late and by
+accident, and the hardest question, the risks from frontier foundation models, is barely addressed.
+Britain set up an AI Safety Institute but has no settled regime, while the EU has its AI Act and the US
+acts by executive order.[^ai]
 
 **Connectivity and cyber are unfinished.** Broadband and mobile coverage are still patchy in
 places, and cyber resilience across government and critical services needs strengthening.
@@ -70,9 +74,11 @@ real harms are not missed. **Recommended.**
 
 ## The proposals (under the lead option)
 
-1. **Regulate AI and data pro-innovation.** Use existing regulators and sector-based rules to
-   address specific, real harms, with no national digital ID and strong privacy, reviewed as the
-   technology changes.
+1. **Regulate AI pro-innovation, with eyes on frontier risk.** Use existing regulators and
+   sector-based rules for everyday AI and data harms, with no national digital ID and strong privacy.
+   For the genuinely new risk, frontier foundation models, give the AI Safety Institute real teeth and
+   work with allies on shared standards, rather than a heavy upfront regime that freezes ordinary
+   innovation.[^ai]
 2. **Turn research into companies that stay.** Back scale-up capital, including productive use of
    pension capital, so founders grow their firms here rather than selling early or moving abroad.
 3. **Spread R&D across the country.** Fund research and innovation in the regions, tied to the
@@ -81,6 +87,10 @@ real harms are not missed. **Recommended.**
    infrastructure.
 5. **Build cyber resilience.** Strengthen cyber security across government and critical services, in
    step with [defence and resilience](../defence/defence-and-aid-resilience.md).
+6. **Back R&D, compute, and sovereign capability.** Set a clear R&D ambition, invest in the compute and
+   data infrastructure that modern science and AI need, support semiconductor and other sovereign
+   capabilities, stay in Horizon Europe, and tie it to global-talent visas (see
+   [immigration](../immigration/immigration.md)).
 
 ---
 
@@ -116,3 +126,16 @@ figures belong in the budget files.
 2. How do we make sure scaled-up firms stay and grow in Britain?
 3. How do we spread research strength beyond a few cities?
 4. Where is cyber resilience weakest, and how do we fix it?
+5. How should frontier AI be regulated, and what powers should the AI Safety Institute have?
+6. What R&D ambition and compute investment should Britain set?
+
+---
+
+## References
+
+[^rd]: Office for National Statistics, *Gross domestic expenditure on research and development*. UK R&D
+is around 2.8% of GDP (after a 2022 methodology revision), concentrated in a few regions; the UK
+rejoined the EU's Horizon Europe research programme in January 2024. https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/researchanddevelopmentexpenditure
+[^ai]: The UK established the AI Safety Institute in 2023 (now the AI Security Institute) to test
+frontier models; its approach diverges from the EU AI Act and the US executive-order model, and there
+is no statutory regime for foundation models. https://www.aisi.gov.uk/
