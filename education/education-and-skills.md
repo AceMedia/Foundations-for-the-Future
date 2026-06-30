@@ -34,6 +34,11 @@ second best to a degree, which leaves skills gaps and dead-end jobs.
 **Higher education leaves heavy upfront debt.** Students take on large loans up front, while the
 technical routes many would be better served by are underfunded.
 
+**Schools are stuck on exams and short of teachers.** The system is still built around high-stakes
+exams rather than the broad, applied skills the economy needs, and teacher recruitment and retention
+is in crisis: targets are missed year after year, especially in secondary shortage subjects, and too
+many teachers leave within the first few years.[^teachers]
+
 **The do-nothing baseline.** Leave this and the skills gaps widen, care stays in crisis, graduates
 carry debt for routes that do not always pay, and the rest of this framework lacks the workforce to
 deliver it.
@@ -102,6 +107,10 @@ fixes the care pipeline, and treats students fairly. *Cons:* needs sustained inv
    issue. Empower and inform parents, supported by the controls built into devices and operating
    systems,[^ofsted] and provide tools and resources rather than acting as a digital nanny, in line
    with [civil liberties](../governance/civil-liberties.md).
+9. **Reform schools, curriculum, and the teaching profession.** Rebalance the curriculum and
+   assessment away from exam-cramming toward applied knowledge and skills, broaden post-16 options, and
+   fix teacher recruitment and retention through pay, workload, and respect, since none of the rest
+   works without enough good teachers.
 
 ---
 
@@ -143,11 +152,15 @@ life. The figures belong in the budget files and the skills-savings file.
 2. What should a graduate contribution look like, and how does it compare with the current system?
 3. How far should funding shift from degrees toward technical and vocational routes?
 4. What tools best help parents keep children safe online without a digital nanny state?
+5. How should the curriculum and assessment be reformed, and how do we recruit and keep teachers?
 
 ---
 
 ## References
 
+[^teachers]: National Foundation for Educational Research; Department for Education. Teacher
+recruitment has missed its targets for years, especially in secondary shortage subjects, and a large
+share of teachers leave within the first five years. https://www.nfer.ac.uk/key-topics-expertise/teacher-recruitment-and-retention/
 [^germany]: German Federal Ministry of Education (2019), *Dual Vocational Training in Germany*. The
 dual model gives vocational and academic routes parity of esteem. (indicative)
 [^carepathway]: Department of Health and Social Care (2025), *Care Workforce Pathway for Adult Social

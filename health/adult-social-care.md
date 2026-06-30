@@ -35,6 +35,14 @@ there, which is bad for them and expensive for the NHS.
 **Families face catastrophic costs.** People can lose almost everything they own to care costs,
 through a system few understand until they hit it.
 
+**Working-age disabled adults are half the story.** Around half of all adult social care spending
+goes on working-age disabled adults, not older people, yet the debate usually ignores them. A serious
+settlement has to cover both.
+
+**The provider market is fragile.** Council fee rates often sit below the actual cost of care, so
+self-funders quietly cross-subsidise council-funded residents, and a large provider failure (a
+Southern Cross-style collapse) is a standing risk to vulnerable people.
+
 **The do-nothing baseline.** Leave this and pressure piles back onto hospitals, the workforce
 crisis deepens, and more families face ruin, while the [end-of-life and dementia](./end-of-life-and-dementia-care.md)
 proposals lack the system around them to work.
@@ -76,9 +84,12 @@ catastrophic costs. *Cons:* needs a serious funding decision and reform. **Recom
    generations rather than leaving individuals exposed, draws on the German and Japanese care-insurance
    models (see [international comparisons](../budget/international-comparisons.md)), and builds on the
    [end-of-life and dementia](./end-of-life-and-dementia-care.md) proposals and the care cap.
-2. **Value the workforce.** Pay care workers properly, with training and a career path, so
-   providers can recruit and retain staff. This connects to the care-workforce skills in
-   [education](../education/education-and-skills.md).
+2. **Value the workforce and steady the market.** Pay care workers properly, with training and a
+   career path (the [care-workforce ladder](../education/education-and-skills.md)), so providers can
+   recruit and retain staff. A properly paid domestic workforce also reduces the sector's heavy
+   reliance on the overseas care-worker visa, which was opened wide and then abruptly cut, leaving
+   providers exposed (see [immigration](../immigration/immigration.md)); pair it with fair council fee
+   rates and oversight of large providers so the market does not fail vulnerable people.
 3. **Integrate with the NHS.** Join up health and care so people can leave hospital when they are
    ready, cutting delayed discharges and improving outcomes.
 4. **Support unpaid carers.** Back the millions of family carers who hold the system up, with
@@ -124,3 +135,5 @@ and the budget files.
 2. What pay and career structure would fix the care workforce?
 3. How do we make NHS and care integration real rather than just structural?
 4. What support would most help unpaid family carers?
+5. How should the settlement cover working-age disabled adults as well as older people?
+6. How do we steady the provider market and end the self-funder cross-subsidy?
