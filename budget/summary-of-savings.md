@@ -1,6 +1,6 @@
 # Summary of Savings and Fiscal Impact
 
-This file consolidates **headline, order‑of‑magnitude savings** implied by proposals across this repo (welfare, housing, economy, health, education, governance). It’s a living document: numbers are conservative placeholders where needed and will be updated as individual chapters firm up evidence and costings.
+This file consolidates **headline, order‑of‑magnitude savings** implied by proposals across this repo (welfare, housing, economy, health, education, governance). It is a living document: the figures are conservative, order-of-magnitude estimates, and the topic files in `budget/` hold the detailed workings.
 
 > **Reading guide**  
 > - “Mechanism” = what we change.  

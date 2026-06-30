@@ -55,13 +55,20 @@ than years of inland accommodation and repeat removals. See
 
 ---
 
-## Next steps
+## Modelling approach
 
-- Model the per-case cost and the total cost of clearing the backlog at the proposed pace.
-- Net the expansion side (resettlement places, extra caseworkers and judges) against
-  accommodation savings, rather than counting gross.
-- Cross-link to courts and tribunal capacity, since the asylum-appeals backlog sits in the
-  tribunals system (see [`../justice/courts-and-legal-system.md`](../justice/courts-and-legal-system.md)).
+The saving is treated as **net**, not gross: the accommodation and casework savings above are
+offset by the cost of the expansion side (resettlement places and extra caseworkers and judges),
+so the ~£1-2bn figure is what remains after both. Two factors govern the realistic size:
+
+- **Pace.** The saving scales with how fast the backlog is cleared, since the per-case cost of
+  limbo (accommodation plus support) accrues for every month a decision is delayed.
+- **Tribunal capacity.** Faster initial decisions only help if the appeals system keeps up; the
+  asylum-appeals backlog sits in the tribunals covered by
+  [`../justice/courts-and-legal-system.md`](../justice/courts-and-legal-system.md), so the two must
+  be resourced together.
+
+The figures are steady-state once processing has caught up, not year-one.
 
 ---
 
