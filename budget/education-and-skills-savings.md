@@ -43,6 +43,14 @@ Focus: **efficiency and long-run fiscal dividends** from better skills policy.
 
 ---
 
+## Verified anchor figures
+
+- Around **837,000** 16-24-year-olds in England were NEET in late 2024, and the UK figure passed **1 million** in early 2026 (ONS / Department for Education). https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/bulletins/youngpeoplenotineducationemploymentortrainingneet/latest
+
+The saving ranges above are indicative and will be firmed up with Treasury modelling of NEET and skills costs.
+
+---
+
 ## Next steps
 
 - Link Treasury data on NEET costs.  

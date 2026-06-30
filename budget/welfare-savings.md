@@ -39,6 +39,15 @@ This file captures **efficiency gains and avoided costs** within the welfare sys
 
 ---
 
+## Verified anchor figures
+
+- Benefit sanctions were found to cost more to administer than they save (National Audit Office, 2016).
+- Loneliness costs UK employers around **£2.5bn/yr** (British Red Cross).
+
+The saving ranges above are indicative and will be firmed up with modelling of admin and appeals costs.
+
+---
+
 ## Next steps
 
 - Model cost of tribunal/appeals system vs simplified admin.  

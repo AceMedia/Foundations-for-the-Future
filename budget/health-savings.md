@@ -40,6 +40,16 @@ This file outlines how upstream reforms (housing, welfare, diet, community) redu
 
 ---
 
+## Verified anchor figures
+
+- Poor housing costs the NHS around **£1.4bn/yr** in first-year treatment (BRE, 2021). https://bregroup.com/news/bre-report-finds-poor-housing-is-costing-nhs-1.4bn-a-year
+- NHS spending on obesity-related illness is estimated at around **£9.3bn/yr** (2025), rising to about £12.6bn including overweight (Nesta / Frontier Economics). https://www.nesta.org.uk/report/the-economic-and-productivity-costs-of-obesity-and-overweight-in-the-uk/
+- Loneliness costs UK employers around **£2.5bn/yr** (British Red Cross).
+
+The saving ranges above are indicative shares of these baselines and will be firmed up with modelling.
+
+---
+
 ## Next steps
 
 - Link ONS/King’s Fund data on housing-health link.  
