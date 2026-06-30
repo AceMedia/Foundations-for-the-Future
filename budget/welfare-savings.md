@@ -44,14 +44,16 @@ This file captures **efficiency gains and avoided costs** within the welfare sys
 - Benefit sanctions were found to cost more to administer than they save (National Audit Office, 2016).
 - Loneliness costs UK employers around **£2.5bn/yr** (British Red Cross).
 
-The saving ranges above are indicative and will be firmed up with modelling of admin and appeals costs.
 
 ---
 
-## Next steps
+## Modelling approach
 
-- Model cost of tribunal/appeals system vs simplified admin.  
-- Quantify local authority savings if food/energy hardship drops.  
-- Estimate productivity gains from reduced loneliness.
-- Estimate savings from earlier recovery engagement and improved affordability for prescribed relief.
-- Test how low- or zero-duty prescribed cannabis could reduce pain-related worklessness or crisis support in some cases.
+The ranges are conservative and rest on the verified anchors above:
+
+- **Admin and appeals:** the avoided cost of the sanction-and-tribunal machinery the NAO found costs more to run than it saves, replaced by simpler support.
+- **Crisis interventions:** the avoided local-authority emergency spend on food and energy hardship as essentials are secured directly.
+- **Loneliness:** a share of the £2.5bn productivity cost, shown as an economy-wide effect rather than a direct budget saving, to avoid double-counting with the summary.
+- **Recovery and prescribed relief:** held as avoided crisis spend and reduced worklessness, shown but not yet counted pending health-system data.
+
+The cost of the direct-provision model itself (procuring homes, food and energy for recipients) is treated separately and is the larger modelling task.

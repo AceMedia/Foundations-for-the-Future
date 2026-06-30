@@ -30,7 +30,11 @@ Focus: **back-office efficiency and duplication reduction** across government an
 
 ---
 
-## Next steps
+## Modelling approach
 
-- Map duplicate agency functions.  
-- Case studies: Estonia/GDS model for digital savings.
+The £0.6–1.2bn range rests on two levers:
+
+- **Agency simplification:** Britain runs several hundred arm's length public bodies, many with overlapping functions (inspectorates, regulators, and back-office units). The saving is the avoided duplication from merging clear overlaps, not a blanket cut; candidate areas include overlapping inspection and regulatory bodies and shared corporate services.
+- **Digital transformation:** moving transactional services online lowers the unit cost of each interaction. Estonia's digital government saves about 2% of GDP a year (see [international-comparisons.md](./international-comparisons.md)); the figure here is a small fraction of that, reflecting partial rollout, strong non-digital fallbacks, and no national digital ID.
+
+Naming specific mergers and a per-transaction cost base is the next refinement.

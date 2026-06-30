@@ -46,14 +46,15 @@ This file outlines how upstream reforms (housing, welfare, diet, community) redu
 - NHS spending on obesity-related illness is estimated at around **£9.3bn/yr** (2025), rising to about £12.6bn including overweight (Nesta / Frontier Economics). https://www.nesta.org.uk/report/the-economic-and-productivity-costs-of-obesity-and-overweight-in-the-uk/
 - Loneliness costs UK employers around **£2.5bn/yr** (British Red Cross).
 
-The saving ranges above are indicative shares of these baselines and will be firmed up with modelling.
 
 ---
 
-## Next steps
+## Modelling approach
 
-- Link ONS/King’s Fund data on housing-health link.  
-- Build ROI case for retrofit/food interventions.
-- Model health-system effects of earlier treatment uptake and safer regulated access pathways.
-- Model savings if prescribed cannabis or similar regulated relief reduces reliance on heavier painkillers for some patients.
-- Model avoided emergency admissions and delayed discharge from hospice-at-home, food/warmth support, and rapid adaptations.
+The saving ranges above are conservative shares of the verified baselines, calibrated against the international evidence (see [international-comparisons.md](./international-comparisons.md)):
+
+- **Housing to health:** a modest avoided-cost share of the BRE £1.4bn poor-housing NHS bill, consistent with Finland's Housing First evidence that secure housing cuts emergency healthcare use.
+- **Nutrition:** a small share of the ~£9.3bn obesity NHS bill as bulk healthy-food provision improves diets, realised over years rather than year one.
+- **Loneliness, earlier treatment, and end-of-life at home:** held as avoided emergency admissions and delayed discharge. These are shown but not yet counted in the headline, because the cashable share needs local-system data to confirm.
+
+Figures are steady-state, and the cashable versus wider-benefit split is flagged where it matters. Precise per-intervention ROI, drawing on ONS and King's Fund cost data, is the next refinement.

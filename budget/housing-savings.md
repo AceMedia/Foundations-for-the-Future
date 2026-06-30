@@ -49,11 +49,16 @@ This file collects **housing-related fiscal savings and avoided liabilities**. I
 
 ---
 
-## Next steps
+## Modelling approach
 
-- Local authority case studies on TA costs.  
-- Model HB reallocation into capital spend.  
-- Lifetime cost analysis of cladding & safety.  
+The ranges rest on the verified baselines above and a deliberately cautious method:
+
+- **Temporary accommodation:** the avoided share of the £2.3bn local-authority bill as secure social housing replaces hotel and B&B placements, phased as stock comes online.
+- **Housing Benefit reallocation:** the largest and slowest line. Only the *growth* in the ~£30bn housing-support bill is redirected into capital, so the saving builds over a decade as public stock replaces subsidised private rent. The key uncertainty is the genuine leakage share, since rent for stock that must exist anyway is not a saving.
+- **Safety failures:** an avoided future-liability share, on the principle that building safe is cheaper than remediation.
+- **Poor-housing health costs:** counted in the health-savings file, not here, to avoid double-counting.
+
+The central caveat is timing: capital outlay precedes savings by years, so this is a steady-state, not a year-one, figure. A full build-rate ramp and unit-cost model is the next refinement.
 
 ---
 
