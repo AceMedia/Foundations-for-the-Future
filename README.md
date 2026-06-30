@@ -182,8 +182,11 @@ Ring-fencing 10–15% of that into a Health and Care Betterment Fund would yield
 **£2.4–3.6bn a year** for health and care, separate from the savings above.
 
 So the honest headline is **£3–6bn of savings plus ~£2.4–3.6bn of earmarked revenue,
-deliberately reinvested** into a larger programme of repair and renewal. Refining all of
-this is part of the consultation.
+deliberately reinvested** into a larger programme of repair and renewal, with potential bulk and
+local procurement savings on top. It is not self-funding on day one. But looking ahead, as savings
+compound, procurement gains scale, the public asset base builds, and growth widens the tax base, the
+investment increasingly pays for itself, and builds a country that costs less to run because less of
+it is broken. Refining all of this is part of the consultation.
 → *[Full budget analysis](budget/summary-of-savings.md)* ·
 *[The consolidated position](budget/consolidated-position.md)*
 

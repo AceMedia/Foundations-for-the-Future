@@ -89,8 +89,31 @@ defence, the NHS front line, direct provision, and the capital programmes, requi
   [tax-and-fiscal-reform.md](../economy/tax-and-fiscal-reform.md).
 
 So the framework should be read as **a plan to spend Britain's money better and rebuild what has
-decayed, part-funded by the savings and earmarked revenue it generates**, not as a costless package.
-That is the honest claim, and it is a stronger one than pretending reform pays for everything.
+decayed, part-funded by the savings, earmarked revenue, and potential procurement gains it generates**,
+not as a costless package. That is the honest claim, and it is a stronger one than pretending reform
+pays for everything.
+
+### Looking to the future
+
+The position improves over time, and that is the point. The figures above are steady-state, not
+year-one, and the balance tilts the right way as the reforms mature:
+
+- **Savings compound.** Prevention pays back over years, not months. Warm homes, better nutrition,
+  early mental-health help, rehabilitation, and faster asylum processing all cut downstream bills that
+  currently recur every single year.
+- **Procurement savings grow with scale.** The bulk and local procurement gains start modest and rise
+  as the systems are built out across food, care, retrofit, and logistics, so the potential offset
+  widens rather than narrows.
+- **The asset base builds.** Money spent on council housing, public-interest water, and energy
+  infrastructure is not lost; it becomes a public asset that lowers future costs and, in the case of
+  water and housing, generates returns instead of paying them out to shareholders.
+- **Growth widens the base.** A healthier, better-skilled, better-connected, more enterprising economy
+  raises the tax take without raising rates, which is the surest long-run way to close the gap.
+
+In short, the up-front call on public money is real, but it is front-loaded investment set against a
+rising stream of savings, returns, and growth. The honest near-term position is a reallocation that does
+not fully self-fund. The honest long-term position is that it increasingly pays for itself, and builds a
+country that costs less to run because less of it is broken.
 
 ---
 
