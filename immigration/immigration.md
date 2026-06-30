@@ -39,6 +39,11 @@ irregular arrangements.[^resettle]
 barely a handful of people.[^rwanda] Symbolism satisfies neither humanitarian concern nor the public
 demand for control.
 
+**Legal migration ran hot without a plan.** Net migration peaked at around 906,000 in mid-2023 before
+falling to about 728,000 a year later, driven largely by a surge in students and care workers and
+their dependants on routes opened wide and then abruptly restricted.[^numbers] Lurching from open to
+shut, with no stable plan, satisfies no one and has left sectors such as social care exposed.
+
 **The do-nothing baseline.** Leave this and dangerous crossings continue, the backlog and hotel
 bills persist, criminal networks profit, and confidence in the whole system keeps falling.
 
@@ -79,8 +84,11 @@ public consent. *Cons:* requires patience and consistency rather than headline-c
 
 1. **A points-based, skills-led system, managed by need.** Run legal migration through a points and
    skills system that lets numbers follow genuine need, rather than a fixed net-migration target that
-   becomes the whole argument and is repeatedly missed. Fast-track shortage occupations to reduce the
-   pull toward irregular work.
+   becomes the whole argument and is repeatedly missed. An independent body (the Migration Advisory
+   Committee) sets the shortage list and salary thresholds on the evidence; routes open and close
+   gradually rather than in lurches, so sectors can plan; and dependant rules are set deliberately
+   rather than by accident. Fast-track genuine shortage occupations to reduce the pull toward irregular
+   work.
 2. **Expand safe, legal routes.** Increase humanitarian resettlement (for example toward 5,000 a
    year), launch community sponsorship on the Canadian model, and bring family-reunion criteria into
    line with European norms, so people have alternatives to dangerous journeys.[^canada]
@@ -99,6 +107,9 @@ public consent. *Cons:* requires patience and consistency rather than headline-c
    support camps, safer regional processing, and stabilisation near the source, in step with
    [defence and resilience](../defence/defence-and-aid-resilience.md), because upstream capacity is
    usually cheaper than years of inland churn.
+8. **Invest in integration.** Back English-language teaching, recognition of overseas qualifications,
+   and a clear settlement path, so people who come to stay can work, contribute, and belong, which is
+   what makes migration work for the communities that receive it.
 
 ---
 
@@ -150,6 +161,10 @@ prices of £3,000-£8,000 a person generate an estimated £150m a year. https://
 cost around £4.0bn in 2024-25 (Home Office accommodation around £2.7bn). The backlog awaiting an initial
 decision was around 70,000 by mid-2025, down from a 2023 peak of about 175,000; around 36,300 people
 were in hotels by September 2025, down from a peak near 56,000. https://migrationobservatory.ox.ac.uk/resources/briefings/the-uks-asylum-backlog/
+[^numbers]: Office for National Statistics; Migration Observatory (2024). Net migration peaked at
+around 906,000 in the year to June 2023 and fell to about 728,000 by June 2024, driven substantially by
+students and care workers and their dependants; care-visa main applications fell about 85% after the
+2024 restrictions. https://migrationobservatory.ox.ac.uk/resources/briefings/long-term-international-migration-flows-to-and-from-the-uk/
 [^resettle]: UNHCR (2023), *Global Trends*. UK resettlement was around 1,171 in 2022, small by
 international standards. (indicative)
 [^rwanda]: Home Office (2024). The Rwanda scheme cost hundreds of millions while removing very few
