@@ -19,7 +19,9 @@
 
 Justice delayed is justice denied, and the system that delivers it is clogged.
 
-**The backlog is huge.** Crown court cases in particular wait years to be heard, leaving victims,
+**The backlog is huge.** The Crown Court backlog reached a record of around 74,000 cases at the end of
+2024 and has kept rising, with Ministry of Justice modelling warning it could pass 104,000 by 2029 and
+some trials already listed for 2030.[^backlog] Cases wait years to be heard, leaving victims,
 defendants, and witnesses in limbo, and undermining the rehabilitation and policing reforms in the
 [justice](./rehabilitation-through-public-service.md) and [policing](./policing-and-crime.md)
 chapters.
@@ -63,6 +65,10 @@ the backlog, restore workable legal aid, and improve civil and family justice wi
 
 1. **Clear the backlog and keep it down.** Invest in sitting days, judges, and case management, with
    digital scheduling, to clear the backlog and stop it rebuilding.
+2. **Clear it without gutting trial by jury.** Trial by jury is a civil-liberties principle worth
+   protecting for serious cases. Where the Leveson review's intermediate court (a judge with
+   magistrates) helps, keep it to the least serious either-way offences, rather than the broad
+   curtailment of juries the government has floated.[^leveson]
 2. **Restore workable legal aid.** Rebuild legal aid so people can get representation, with a
    settlement that keeps the professions viable.
 3. **Improve civil and family justice.** Speed up civil and family cases, with more mediation where
@@ -109,3 +115,16 @@ the budget files.
 2. What does a workable legal aid settlement look like?
 3. Where should mediation be expanded, and where must court access be protected?
 4. How do we best support victims and witnesses through the system?
+5. How far should trial by jury be protected, and where is an intermediate court justified?
+
+---
+
+## References
+
+[^backlog]: Ministry of Justice; Senedd Research (2025). The Crown Court backlog reached about 74,000
+cases at the end of 2024 (a record) and kept rising through 2025, with MoJ modelling projecting it
+could exceed 104,000 by 2029. https://research.senedd.wales/research-articles/the-crown-court-backlog-england-s-crisis-or-a-shared-jurisdictional-problem/
+[^leveson]: Sir Brian Leveson (2025), *Independent Review of the Criminal Courts*. The review proposed
+a new Crown Court Bench Division (a judge and two magistrates) for some either-way offences; the
+government's December 2025 response proposed curtailing jury trials for offences carrying a likely
+sentence under three years. https://www.barcouncil.org.uk/policy-representation/work-in-parliament/leveson-criminal-courts-review.html

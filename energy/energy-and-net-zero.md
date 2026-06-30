@@ -24,7 +24,12 @@ our exposure to events abroad.
 
 **Bills are too high and too volatile.** Because so much of our power and heat still depends on
 gas, a global price spike feeds straight through to households and factories, as the 2022 energy
-crisis showed.
+crisis showed. Gas sets the wholesale electricity price around 60% of the time, so what brings bills
+down is displacing gas with cheaper low-carbon power, not the cost of any single plant.[^gas]
+
+**Heat is barely shifting.** Around 1.5 million gas boilers are installed each year against fewer than
+100,000 heat pumps, and only about 1% of homes use a heat pump, so home heating, a major source of
+emissions and gas demand, is hardly decarbonising.[^heat]
 
 **The grid is a bottleneck.** New wind, solar, and storage projects wait years to connect, so
 clean power that could be cutting bills sits stranded. The network, not the willingness to build,
@@ -82,9 +87,10 @@ power. *Cons:* too slow and expensive to rely on alone for the next decade.
    plants.
 3. **Build out renewables.** Keep expanding offshore wind and solar, where Britain has a real
    advantage and the cheapest new power.
-4. **Cut bills and exposure.** Reduce dependence on volatile gas, and pair the transition with
-   warm-homes retrofit (see [housing](../housing/housing-policy.md)) so demand falls and bills
-   come down.
+4. **Cut bills and decarbonise heat.** Reduce dependence on volatile gas: scale up heat pumps and a
+   warm-homes retrofit programme (see [housing](../housing/housing-policy.md)) so home heating comes
+   off gas over time and demand falls, and reform the electricity market to loosen the link between the
+   gas price and the power price, so households see the benefit of cheap renewables sooner.[^gas]
 5. **Keep the goal, judge the pace by bills and security.** Hold to net zero, but measure progress
    by affordability and reliability, not slogans, so the public stays with it.
 
@@ -94,8 +100,7 @@ power. *Cons:* too slow and expensive to rely on alone for the next decade.
 
 Up-front investment in the grid, nuclear, and renewables is large, but it buys lower, steadier
 bills, energy security, industrial competitiveness, and lower emissions. The detailed costings,
-including how investment is financed, belong in the budget files and a matching
-budget file.
+including how investment is financed, belong in the budget files.
 
 ---
 
@@ -127,6 +132,8 @@ budget file.
 2. What is the right balance and timetable between new nuclear, SMRs, and renewables?
 3. How should the transition be financed so bills come down rather than up?
 4. What community benefit should areas hosting new energy infrastructure receive?
+5. How fast can home heating be moved off gas, and how should heat pumps be funded?
+6. Should the electricity market be reformed to decouple power prices from gas, and how?
 
 ---
 
@@ -134,3 +141,9 @@ budget file.
 
 [^netzero]: The UK's target of net zero greenhouse gas emissions by 2050 is legally binding under
 the Climate Change Act 2008, as amended in 2019. https://www.legislation.gov.uk/ukpga/2008/27/contents
+[^gas]: Energy UK / Carbon Brief. Gas sets the wholesale electricity price around 60% of the time
+(down from about 90% in the early 2020s), under the marginal-pricing system; government decoupling
+measures aim to reduce this. https://www.carbonbrief.org/qa-how-the-uk-government-aims-to-break-link-between-gas-and-electricity-prices/
+[^heat]: National Audit Office and heat-pump deployment data (2024-25). Around 1.5 million gas boilers
+are installed each year against fewer than 100,000 heat pumps; about 1% of homes (roughly 260,000) use
+a heat pump, against a target of 600,000 installations a year by 2028. https://www.nao.org.uk/press-releases/low-heat-pump-uptake-slowing-progress-on-decarbonising-home-heating/
