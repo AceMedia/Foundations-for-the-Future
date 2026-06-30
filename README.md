@@ -65,7 +65,8 @@ Replace cash-and-hope with direct provision: secure housing, bulk food procureme
 covered essentials, and well-being budgets for dignity and growth. Finland and others show
 prevention costs less than crisis.
 → *[Welfare and well-being reform](welfare/welfare-and-wellbeing-reform.md)* ·
-*[Bulk food procurement](welfare/bulk-food-procurement.md)*
+*[Bulk food procurement](welfare/bulk-food-procurement.md)* ·
+*[Pensions and ageing](welfare/pensions-and-ageing.md)*
 
 ### 🚢 Immigration: legal routes, fast decisions, smart enforcement
 Expand safe legal routes, decide asylum claims in months not years, target smuggling
@@ -79,8 +80,10 @@ from Australia, Canada, and Germany.
 ### 🛡️ Defence: capability, aid, and resilience
 Rebuild Britain's defence, logistics, engineering, and aid capacity so the state can deter
 threats, support allies, respond to emergencies, and intervene upstream rather than paying
-ever-larger downstream failure costs.
-→ *[Defence and resilience framework](defence/defence-and-aid-resilience.md)*
+ever-larger downstream failure costs. Tie it to a joined-up foreign policy with strategic,
+results-based aid focused on preventing crises upstream.
+→ *[Defence and resilience framework](defence/defence-and-aid-resilience.md)* ·
+*[Foreign policy](foreign-policy/foreign-policy.md)*
 
 ### ⚖️ Justice: rehabilitation that pays back
 Give low-risk offenders structured public-service work, qualifications, and a real route
@@ -90,14 +93,19 @@ repair, with strict safeguards and incentives tied to compliance.
 
 ### 🏭 Economy: entrepreneurs everywhere, not just London
 Spread prosperity beyond the capital with regional venture funds, infrastructure
-investment, incentives for risk-taking, and green enterprise.
-→ *[Economic renewal](economy/entrepreneurship-and-renewal.md)*
+investment, incentives for risk-taking, and green enterprise. Shift tax off work and onto
+wealth and property, and get closer to the EU market without rejoining.
+→ *[Economic renewal](economy/entrepreneurship-and-renewal.md)* ·
+*[Tax and fiscal reform](economy/tax-and-fiscal-reform.md)* ·
+*[Trade and the EU](economy/trade-and-eu.md)*
 
 ### 🩺 Health: prevention, not just treatment
 Treat drugs as a health issue, expand bulk healthy-food provision, and focus NHS resources
 on care rather than policing lifestyle. Where adults use regulated vices, tax them by harm
 and recycle the revenue into treatment, recovery, social care, and end-of-life dignity.
 → *[NHS and public health](health/nhs-and-public-health.md)* ·
+*[Mental health](health/mental-health.md)* ·
+*[Adult social care](health/adult-social-care.md)* ·
 *[Vice taxation and betterment](health/vice-taxation-and-betterment.md)* ·
 *[End-of-life and dementia care](health/end-of-life-and-dementia-care.md)*
 
@@ -111,12 +119,24 @@ Fix the local-roads backlog, bring buses back under local control on the Manches
 and build east-west rail so the North works as one economy rather than separate towns.
 → *[Transport](transport/transport.md)*
 
+### ⚡ Energy and environment: secure power, clean water
+Back new nuclear and renewables for affordable, secure energy and keep net zero on track, and
+bring water into public-interest ownership to end the sewage scandal.
+→ *[Energy security and net zero](energy/energy-and-net-zero.md)* ·
+*[Water and utilities](environment/water-and-utilities.md)*
+
+### 🎭 Culture, media and sport: a modern settlement
+Move public broadcasting toward subscription with a protected public-service core, sustain
+arts and grassroots sport, and regulate gambling for harm.
+→ *[Culture, media and sport](culture/culture-media-sport.md)*
+
 ### 🗳️ Governance and the constitution: local power, fair votes, a listening state
 Move power out of Westminster, reform the Lords and the voting system, build a second base
 for government in the North, let people shape policy between elections, and run a leaner
 digital state without a national digital ID.
 → *[Constitution and devolution](governance/constitution-and-devolution.md)* ·
 *[Public participation](governance/public-participation.md)* ·
+*[Civil liberties and rights](governance/civil-liberties.md)* ·
 *[Local government](governance/local-government.md)* ·
 *[Governance and the digital state](governance/democracy-and-reform.md)*
 
