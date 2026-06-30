@@ -1,6 +1,12 @@
 # Phasing and Delivery Plan
 
-This file turns the framework into a practical sequence. The goal is to avoid treating every idea as a day-one national rollout. Some reforms should start as pilots, some need legislation, some need budget appendices first, and some can be delivered through existing systems.
+*The delivery annex for this Green Paper: how the proposals are sequenced, judged by what works.*
+
+This file turns the framework into a practical sequence. It is the delivery annex rather than a policy
+chapter, so it sets out phasing, pilots, and dependencies instead of options for consultation. The
+goal is to avoid treating every idea as a day-one national rollout. Some reforms should start as
+pilots, some need legislation, some need budget appendices first, and some can be delivered through
+existing systems.
 
 ---
 

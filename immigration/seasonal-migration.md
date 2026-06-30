@@ -2,208 +2,149 @@
 
 *A forward-looking proposal, judged by what works, not by left or right.*
 
-Seasonal worker programmes are a practical answer to UK labour shortages, and they work best when they run both ways. Designed properly, they strengthen food security, support regional economies, give workers real protections, and let people move between countries to work, earn, and learn, moving beyond the ad hoc arrangements that too often exploit workers and undermine local wages.
+> **Summary for the reader**
+> - **The problem:** farms and coastal towns need seasonal workers, but ad hoc arrangements exploit
+>   workers and undermine local wages, and the benefit only ever flows one way.
+> - **The options:** keep ad hoc arrangements, run an inbound-only managed scheme, or build a genuine
+>   two-way exchange.
+> - **Lead option:** a **two-way seasonal exchange**, receiving workers when Britain is short of hands
+>   and helping British people work seasons abroad, with strong protections on both sides.
+> - **Timeline:** pilot, then scale over a few years.
+>
+> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
 
-The UK's farms and coastal towns need workers during peak seasons. The [bulk food procurement programmes outlined in welfare reform](../welfare/welfare-and-wellbeing-reform.md) create additional opportunities for managed seasonal work. Meanwhile, coastal and rural communities struggling with economic decline could benefit significantly from well-managed programmes that bring workers, spending, and skills to areas that need them most.
+---
+
+## The problem
+
+Britain's farms and coastal towns need workers during peak seasons, and the current system serves
+them badly.
+
+**Ad hoc and exploitative.** Arrangements are patchy and too often exploit workers and undermine local
+wages, moving from crisis to crisis rather than being properly managed.
+
+**Labour gaps in food and hospitality.** Agriculture needs tens of thousands of seasonal workers a
+year, with shortages in fruit, vegetables, and harvest work, and tourism areas struggle to staff peak
+seasons.[^nfu]
+
+**One-way only.** The benefit flows in one direction. British people, including those in coastal towns
+with quiet winters, get nothing from a system built purely to bring workers in.
+
+**The do-nothing baseline.** Leave this and shortages persist, workers stay vulnerable to
+exploitation, and a chance for genuine exchange and understanding between countries is missed.
 
 ---
 
 ## A two-way exchange, not a one-way labour supply
 
-Seasonal migration should run in both directions. Britain is not only a place that brings workers in; it can also be a place that sends its own people out. Someone from a quiet British coastal town, where the work dries up in winter, could spend that winter working a season abroad in a country where that is the busy time, then come home in the spring. They earn money, they see how another country lives, and they bring that experience back. The same door that lets a worker from India or elsewhere come here when we are short of hands swings the other way when another country needs ours.
+Seasonal migration should run in both directions. Britain is not only a place that brings workers in;
+it can also send its own people out. Someone from a quiet British coastal town could spend the winter
+working a season abroad where that is the busy time, then come home in the spring. The same door that
+lets a worker from India or elsewhere come here when we are short of hands swings the other way when
+another country needs ours.
 
-Run as a genuine exchange, this benefits everyone, and the downsides are hard to find. People get jobs and earn money. People get to travel and learn about other places, not as tourists but by living and working there. People contribute to the places they go to, and bring skills and a wider outlook back to the places they come from. Families can travel with workers where that makes sense, or stay connected and welcome them home again. Over time this builds the everyday kind of multiculturalism that comes from people actually knowing other cultures, rather than only arguing about the idea of them.
-
-This is the spirit of the whole programme: reciprocal, equal, and built on the simple point that working in another country is something people gain from, on both sides. Britain offers help when another country is short of workers, and asks for help when we are. The protections and standards we expect for workers coming here are exactly what we would want for our own people working abroad, so the sections below apply in both directions.
-
----
-
-## Learning from successful seasonal migration models
-
-**New Zealand's Recognised Seasonal Employer (RSE) scheme** has operated since 2007, bringing Pacific Island workers for grape and apple harvests. The programme requires employers to provide guaranteed minimum hours, approved accommodation, and return transport. Workers can earn significantly more than at home while New Zealand farmers access reliable labour. Return rates exceed 95%, demonstrating the programme's sustainability (New Zealand Immigration, 2023).
-
-**Canada's Seasonal Agricultural Worker Program (SAWP)** has run since 1966, primarily with workers from Mexico and the Caribbean. Workers can earn in a few months what might take a year at home, while Canadian farms maintain productivity. The programme includes health insurance, accommodation standards, and pathways to longer-term migration. Over 60,000 workers participate annually (Employment and Social Development Canada, 2023).
-
-**Germany's seasonal worker arrangements** with Eastern European countries provide up to 90 days of agricultural work annually. The programmes include labour protections, wage guarantees, and integration support. German farmers benefit from reliable labour while workers access higher wages and skill development (Federal Employment Agency Germany, 2022).
-
-These models demonstrate that seasonal migration can work when properly regulated, protecting both workers and receiving communities.
+Run as a genuine exchange, this benefits everyone and the downsides are hard to find. People get jobs
+and earn money, travel and learn about other places by living and working there, contribute to the
+places they go to, and bring skills and a wider outlook home. Families can travel with workers where
+that makes sense, or stay connected and welcome them back. Over time this builds the everyday kind of
+multiculturalism that comes from people actually knowing other cultures. The protections we expect for
+workers coming here are exactly what we would want for our own people working abroad.
 
 ---
 
-## UK opportunities: agriculture, food systems, and regional renewal
+## Evidence base
 
-### Agriculture and food security
-
-The UK's agricultural sector faces significant labour gaps. The National Farmers' Union estimates that 70,000 seasonal workers are needed annually for fruit and vegetable harvesting, with particular shortages in strawberries, apples, and brassicas (NFU, 2023). Brexit ended easy access to EU workers, while domestic workers rarely fill these roles consistently.
-
-Seasonal agricultural visas could address these shortages while supporting the [bulk food procurement systems proposed in welfare reform](../welfare/welfare-and-wellbeing-reform.md). This connects to the broader [immigration policy framework](./immigration.md) by providing legal routes that reduce incentives for dangerous journeys.
-
-Workers could participate in:
-- Harvest and processing for centrally procured food systems
-- Packaging and distribution of bulk provisions for schools, hospitals, and welfare recipients  
-- Quality control and nutritional assessment
-- Local food production that reduces import dependency
-- Fair trade partnerships between their home countries and UK procurement systems
-
-*[See comprehensive bulk food procurement framework](../welfare/bulk-food-procurement.md)*
-
-**Budget benefits:** Reliable agricultural labour reduces food costs for bulk procurement programmes. Each seasonal worker generates approximately £3,000 in economic activity during a season, while reducing food import costs and supporting rural communities (Migration Advisory Committee, 2022).
-
-### Tourism and hospitality
-
-Coastal towns and rural areas face severe economic challenges, with many struggling to maintain basic services. Seasonal hospitality workers could revitalise these areas during peak periods while earning significantly more than available in their home countries.
-
-Targeted seasonal programmes could support:
-- Hotels, restaurants, and visitor attractions during summer months
-- Festival and events management across rural Britain
-- Care and support services for elderly residents in coastal communities
-- Maintenance and improvement of rural infrastructure during quieter periods
-
-**Regional impact:** Seasonal spending by temporary workers supports local businesses year-round. Research from Cornwall shows each seasonal worker generates £4,000-£6,000 in local economic activity (Cornwall Council, 2021).
-
-### Integration pathways and family benefits
-
-Well-designed seasonal programmes create opportunities for workers to demonstrate commitment and skills, potentially leading to longer-term settlement. This approach benefits everyone:
-
-**For workers:**
-- Earn significantly higher wages during peak seasons (typical harvest work: £400-600 per week vs £50-100 in origin countries)  
-- Develop language skills and UK work experience
-- Send remittances supporting families and communities at home
-- Access pathways to longer-term visas based on performance and local needs
-
-**For families and origin communities:**
-- Remittances provide education and healthcare funding at home
-- Returned workers bring skills and capital for local development
-- Reduced pressure on local labour markets during seasonal absences
-- Maintained family and community connections
-
-**For UK communities:**
-- Reliable seasonal labour supporting local industries
-- Cultural exchange and community connections  
-- Tax and National Insurance contributions during work periods
-- Reduced pressure on year-round housing and services
+- **New Zealand's Recognised Seasonal Employer scheme** guarantees minimum hours, approved
+  accommodation, and return transport, with return rates above 95%.[^nz] *Transferable* as the
+  protections model.
+- **Canada's Seasonal Agricultural Worker Program** has run since 1966 with over 60,000 workers a year,
+  health insurance, and accommodation standards.[^canada] *Transferable* as a long-running model.
+- **Germany's seasonal arrangements** provide labour protections and wage guarantees with partner
+  countries.[^germany] *Transferable* as a standards baseline.
 
 ---
 
-## Programme design: protecting workers and communities
+## Options appraisal
 
-### Worker protections and standards
+**Option 1: Ad hoc status quo.** Leave arrangements patchy. *Pros:* no change. *Cons:* exploitation,
+undercut wages, and missed benefit. The do-nothing baseline.
 
-Effective seasonal programmes require strong worker protections to prevent exploitation:
+**Option 2: Inbound-only managed scheme.** A well-run scheme that only brings workers in. *Pros:*
+fills gaps with protections. *Cons:* the benefit still flows one way only.
 
-**Accommodation standards:** Employers must provide decent accommodation meeting health and safety standards, with independent inspections. Overcrowding and substandard housing undermines both worker welfare and community acceptance.
-
-**Wage guarantees:** Minimum wage enforcement with guaranteed minimum hours to ensure workers can meet earnings targets. Piece rates allowed but with hourly minimum backup.
-
-**Health and safety:** Full health insurance coverage during work periods, plus occupational health and safety protections matching domestic workers.
-
-**Worker mobility:** Right to change employers within the sector to prevent exploitation and bonded labour arrangements.
-
-### Community integration and support
-
-Successful programmes require community buy-in and support:
-
-**Local orientation:** Basic English classes, community introductions, and cultural orientation to prevent isolation and misunderstanding.
-
-**Community liaison:** Local coordinators to address issues quickly and maintain positive relationships between workers, employers, and residents.
-
-**Fair contribution:** Workers contribute to local services through tax and National Insurance while accessing proportionate support when needed.
-
-**Transparent placement:** Clear communication about worker numbers, locations, and duration to build community understanding and support.
-
-### Pathways to longer-term settlement
-
-High-performing seasonal workers should have routes to longer-term migration:
-
-**Skills-based progression:** Workers developing valuable skills can apply for longer-term work visas in shortage occupations.
-
-**Employer sponsorship:** Employers can sponsor exceptional workers for permanent roles, demonstrating economic value and community integration.
-
-**Regional preference:** Priority for workers settling in areas of economic need, supporting regional development while preventing concentration in overheated areas.
-
-**Family reunion:** Long-term workers with established UK connections can apply for family reunion, strengthening community ties.
+**Option 3: A two-way exchange *(lead option)*.** Receive seasonal workers and help British people work
+seasons abroad, with strong protections both ways. *Pros:* fills labour gaps, protects workers,
+benefits British workers and coastal towns, and builds understanding between countries. *Cons:* needs
+reciprocal arrangements with partner countries. **Recommended.**
 
 ---
 
-## Budget impact and economic benefits
+## The proposals (under the lead option)
 
-Seasonal worker programmes generate significant economic benefits when properly managed:
-
-**Direct fiscal impact:**
-- Income tax and National Insurance contributions: approximately £2,000-3,000 per worker per season
-- VAT on worker spending: approximately £800-1,200 per worker
-- Reduced benefit costs for out-of-work UK residents in seasonal industries
-- Lower food costs for bulk procurement programmes
-
-**Economic multiplier effects:**
-- Each seasonal worker supports 0.3-0.5 additional jobs in the local economy
-- Reduced labour costs in agriculture lower food prices for consumers
-- Stronger rural economies reduce urban migration pressures
-- Remittances support development in origin countries, potentially reducing future migration pressures
-
-**Avoided costs:**
-- Reduced reliance on expensive temporary accommodation for irregular migrants
-- Lower enforcement costs compared to combating illegal working
-- Reduced food import costs through reliable domestic production
-- Avoided economic losses from labour shortages in key sectors
-
-**Investment required:** Programme administration costs approximately £500-800 per worker annually, but this is recovered through taxation and economic benefits within the first season.
+1. **Run it both ways.** Build reciprocal seasonal arrangements so Britain sends workers abroad as
+   readily as it receives them, with the same protections in both directions.
+2. **Strong worker protections.** Guaranteed minimum hours, approved accommodation with independent
+   inspection, wage guarantees, health cover, and the right to change employers within the sector to
+   prevent bonded labour.
+3. **Support food and farming.** Fill agricultural gaps in step with
+   [bulk food procurement](../welfare/bulk-food-procurement.md) and
+   [environment and farming](../environment/environment-and-farming.md), and reduce the pull toward
+   irregular work.
+4. **Revitalise coastal and rural areas.** Use seasonal hospitality and tourism work to support areas
+   in economic decline during peak periods.
+5. **Integration and fair contribution.** Provide orientation and community liaison, ensure workers
+   contribute through tax and National Insurance, and offer pathways to longer-term migration for those
+   who want them, with family reunion for long-term workers.
 
 ---
 
-## Implementation: starting small and scaling up
+## Costs and benefits
 
-### Phase 1: Pilot programmes (Year 1)
-- 5,000 seasonal agricultural visas in key farming regions
-- Partnership with 2-3 origin countries with existing diplomatic relationships  
-- Focus on established employers with good accommodation and worker protection records
-- Comprehensive monitoring and evaluation systems
-
-### Phase 2: Expansion (Years 2-3)
-- Scale to 15,000 agricultural and 10,000 hospitality seasonal visas
-- Expand to additional origin countries based on pilot success
-- Introduce pathways to longer-term migration for high-performing workers
-- Integrate with bulk food procurement programmes
-
-### Phase 3: Full programme (Years 4+)
-- 30,000+ seasonal visas supporting food security and regional economies
-- Established integration pathways and community support systems
-- Self-sustaining programme funded through worker contributions and economic benefits
-- Model for expansion to other sectors with seasonal labour needs
+Each seasonal worker generates several thousand pounds of local economic activity and contributes tax
+and National Insurance, while reliable labour lowers food costs and supports rural and coastal
+economies.[^impact] Sending British workers abroad adds earnings, skills, and experience. The figures
+belong in the budget-accuracy pass (#21).
 
 ---
 
-## Political sustainability and public support
+## Delivery and timeline
 
-Seasonal migration programmes succeed when they demonstrably benefit receiving communities:
-
-**Economic benefits:** Clear evidence of job creation, economic activity, and reduced costs for essential services builds support among local businesses and residents.
-
-**Cultural exchange:** Positive interactions between seasonal workers and local communities create lasting relationships and reduce prejudice.
-
-**Controlled numbers:** Predictable, limited programmes are more acceptable than open-ended migration, providing certainty for planning and services.
-
-**Worker protections:** Strong protections prevent exploitation scandals that undermine public support for migration programmes.
-
-**Regional focus:** Directing workers to areas that need economic support rather than already-pressured regions maintains political viability.
+- **Year 1:** pilot seasonal agricultural visas with a few partner countries and good employers, and
+  set up the first reciprocal outbound arrangements.
+- **Years 2-3:** scale agricultural and hospitality schemes both ways; add pathways to longer-term
+  migration where wanted.
+- **Years 4 and beyond:** a mature, two-way, self-sustaining exchange.
 
 ---
 
-## Conclusion: seasonal migration as controlled, beneficial policy
+## Risks and mitigations
 
-Seasonal worker programmes offer a practical solution to UK labour shortages while providing controlled, beneficial migration that supports both workers and receiving communities. When combined with the bulk food procurement systems and regional development policies outlined elsewhere in this framework, they become part of an integrated approach to economic renewal.
-
-The key is learning from international best practice: strong worker protections, community integration support, transparent processes, and pathways for exceptional workers to contribute long-term. This creates a positive cycle where seasonal migration supports food security, regional development, and controlled integration while providing life-changing opportunities for workers and their families.
-
-The UK has the experience and institutions to operate such programmes successfully. What it needs is the political will to move beyond crisis management toward managed migration that serves economic needs and human dignity equally. Run as a genuine two-way exchange, where Britain sends its own people abroad as readily as it receives workers here, it also becomes a quiet engine of understanding between countries.
+- **Exploitation.** *Mitigation:* strong protections, inspection, and the right to change employers.
+- **Undercutting local wages.** *Mitigation:* wage guarantees and targeting genuine shortages.
+- **Weak public support.** *Mitigation:* controlled numbers, transparency, and visible local and
+  British-worker benefit.
 
 ---
 
-## Bibliography & References
+## Consultation questions
 
-- Cornwall Council (2021), *Economic Impact of Seasonal Workers in Rural Tourism*
-- Employment and Social Development Canada (2023), *Seasonal Agricultural Worker Program Annual Report*
-- Federal Employment Agency Germany (2022), *Seasonal Employment Arrangements with EU Partner Countries*
-- Migration Advisory Committee (2022), *Review of the Shortage Occupation List*
-- National Farmers' Union (2023), *Labour Shortages in UK Agriculture*
-- New Zealand Immigration (2023), *Recognised Seasonal Employer Scheme Evaluation*
+1. Which partner countries and sectors should the two-way exchange start with?
+2. What protections must apply, here and abroad?
+3. How do we make sure British workers, especially in coastal towns, take up the outbound side?
+4. What pathways to longer-term migration should high-performing workers have?
+
+---
+
+## References
+
+[^nfu]: National Farmers' Union (2023), *Labour Shortages in UK Agriculture*. Tens of thousands of
+seasonal workers are needed each year. (To be confirmed in the budget-accuracy pass.)
+[^nz]: New Zealand Immigration (2023), *Recognised Seasonal Employer Scheme Evaluation*. Guaranteed
+hours, approved accommodation, and return rates above 95%.
+[^canada]: Employment and Social Development Canada (2023), *Seasonal Agricultural Worker Program Annual
+Report*. Over 60,000 workers a year since 1966, with health insurance and accommodation standards.
+[^germany]: Federal Employment Agency Germany (2022), *Seasonal Employment Arrangements with EU Partner
+Countries*. Labour protections and wage guarantees.
+[^impact]: Migration Advisory Committee (2022) and Cornwall Council (2021). Each seasonal worker
+generates roughly £3,000-£6,000 in local economic activity and contributes tax and National Insurance.
+(To be confirmed in the budget-accuracy pass.)

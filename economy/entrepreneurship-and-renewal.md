@@ -1,146 +1,149 @@
-# Entrepreneurship and Economic Renewal  
+# Entrepreneurship and Economic Renewal
 
-The United Kingdom is facing a long-term economic crisis that goes beyond day-to-day politics. Too few entrepreneurs, too little investment in risk, and an overreliance on London have left the country dangerously unbalanced. Outside the capital, entire regions have been left behind by decades of deindustrialisation, austerity, and underinvestment.  
+*A forward-looking proposal, judged by what works, not by left or right.*
 
-Britain was once a world leader in enterprise and innovation. The industrial revolution was born here, as were countless inventions from the steam engine to the World Wide Web. Yet today, the country struggles to turn talent into thriving businesses. The result is stagnation: low productivity, low wage growth, and an economy dependent on speculation and services rather than new industries and jobs.  
-
-Entrepreneurship must not be treated as a niche pursuit. It must be placed at the centre of national renewal. Just as welfare must be understood as an investment in people, entrepreneurship must be understood as an investment in the country’s future.  
-
----
-
-## Britain has too few entrepreneurs for its size and wealth  
-
-Compared to other advanced economies, Britain underperforms in new business creation. The Global Entrepreneurship Monitor (2022) shows the UK behind the United States, Canada, and even smaller European nations in start-up activity. The UK’s business birth rate fell from 14% in 2017 to under 11% in 2021 (ONS, 2022), while business closures rose.  
-
-The problem is not a lack of talent. Britain’s universities produce world-class graduates, researchers, and innovators. The problem is that the capital-owning class has become risk-averse, preferring to invest in property or overseas assets rather than home-grown enterprises. Family wealth is preserved rather than deployed. Venture capital is overwhelmingly concentrated in London and the South East, starving other regions of opportunity.  
-
-This conservatism creates stagnation. New businesses create the majority of net new jobs. Without them, workers have fewer opportunities and wages stagnate. In the long run, this weakens social mobility and erodes trust in the system.  
+> **Summary for the reader**
+> - **The problem:** Britain has too few entrepreneurs, too much reliance on London, and a generation
+>   of underinvestment, which leaves productivity low and the regions behind.
+> - **The options:** carry on London-led, subsidise demand, or deliberately spread enterprise and
+>   investment across the country.
+> - **Lead option:** **spread enterprise nationwide** with regional venture funds, infrastructure,
+>   incentives for risk-taking, a stronger Manchester-anchored Northern Powerhouse, and a culture that
+>   backs second chances.
+> - **Timeline:** a rolling programme over a decade and beyond.
+>
+> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
 
 ---
 
-## London dominates the economy while regions are left behind  
+## The problem
 
-Britain’s reliance on London is unhealthy. The capital accounts for over 23% of UK GDP (ONS, 2023), far higher than the share of Paris in France or Berlin in Germany. Research by *The Guardian* (2023) showed that if London were removed, the rest of the UK would be poorer per capita than Mississippi, the poorest US state.  
+Britain faces a long-term economic problem that goes beyond day-to-day politics: too few
+entrepreneurs, too little investment in risk, and an overreliance on London.
 
-The consequences are visible everywhere. The North East, once a global centre of shipbuilding and heavy industry, now has some of the lowest wages and highest unemployment in the country. The Midlands, historically the engine of manufacturing, has seen entire communities hollowed out by factory closures. Coastal towns face entrenched decline as industries vanish and investment bypasses them.  
+**Too few entrepreneurs.** Britain underperforms comparable economies on new business creation, and
+its business birth rate has fallen, while closures have risen.[^gem] The problem is not a lack of
+talent but a capital-owning class that prefers property and overseas assets to home-grown enterprise,
+with venture capital concentrated in London and the South East.
 
-Meanwhile, London attracts talent and capital from across the world. Graduates move south to find work, reinforcing the cycle of brain drain. Housing costs soar, while regional cities struggle to grow.  
+**London dominates.** The capital accounts for over 23% of UK output, far more than Paris or Berlin
+in their economies, and London's output per head is far above the rest.[^london] The North East,
+Midlands, and coastal towns have been hollowed out, and graduates move south, reinforcing the
+imbalance.
 
-A balanced economy cannot be built on one city alone. Britain’s regions must once again become centres of enterprise in their own right.  
+**Austerity starved investment.** Public investment lagged most of the OECD through the 2010s, and
+council budgets were cut hard, leaving entrepreneurs without the foundations (broadband, transport,
+regional finance) to succeed.[^oecd]
 
----
-
-## Austerity starved Britain of investment when it was most needed  
-
-After the 2008 financial crisis, Britain faced a choice: borrow cheaply to invest in infrastructure and renewal, or impose austerity. It chose the latter. Between 2010 and 2020, public investment as a share of GDP lagged behind most OECD countries (OECD, 2021). Local councils saw budgets cut by up to 60%, leaving them unable to support local businesses or invest in communities.  
-
-By contrast, Germany doubled down on its *Mittelstand* model: family-owned SMEs supported by local banks, vocational training, and regional investment. These firms provided resilience, spreading wealth and employment across the country.  
-
-Britain’s decision to cut, rather than invest, left scars. Productivity growth collapsed to its slowest rate since the 19th century. Infrastructure projects stalled. Entrepreneurs were left without the foundations (broadband, transport, regional finance) to succeed.  
-
----
-
-## Brexit compounded the problem by shrinking markets and investment  
-
-Britain’s departure from the EU has been another blow to entrepreneurs. Membership of the single market gave British firms access to 450 million consumers with minimal barriers. Brexit erected new borders, increasing paperwork, tariffs, and uncertainty.  
-
-Small and medium enterprises (SMEs) were hit hardest. A British Chambers of Commerce survey (2021) found that over 40% of SMEs trading with the EU saw falling sales and rising costs post-Brexit. For many start-ups, exporting to Europe is no longer viable.  
-
-Financial services are also drifting away. Jobs have moved to Frankfurt, Paris, and Amsterdam, reducing tax revenues that once funded public services. Meanwhile, foreign investors increasingly view Britain as a riskier, smaller market.  
-
-Entrepreneurs need scale and certainty. Brexit has provided the opposite: smaller markets and more barriers.  
+**The do-nothing baseline.** Leave this and Britain stays unbalanced and low-growth, with talent and
+capital pulled to one city while the regions decline.
 
 ---
 
-## Britain must make entrepreneurship central to its renewal  
+## Evidence base
 
-Britain must change course. Economic renewal depends on unleashing entrepreneurs across the country. This requires bold, practical reforms:  
-
-- **Tax incentives for risk-taking:** Long-term capital gains relief for investments in UK start-ups, with extra incentives for those outside London.  
-- **Regional venture funds:** Publicly backed funds to provide seed capital for entrepreneurs in areas neglected by private investors.  
-- **Infrastructure investment:** Modern transport, 5G broadband, green energy grids, and affordable housing to support enterprise in every region.  
-- **Education and skills:** A national entrepreneurship curriculum, combined with expanded apprenticeships, coding bootcamps, and business mentoring.  
-- **Export support:** Grants, tax credits, and trade missions to help SMEs rebuild lost markets abroad.  
-- **New regulated growth sectors:** Back lawful domestic industries, from green manufacturing to tightly regulated medical and adult-use supply chains, where Britain can create jobs, standards, and export value.  
-
----
-
-## Entrepreneurship must be spread beyond London  
-
-London cannot remain the only centre of enterprise. Regional tax breaks, enterprise zones, and incubators must be rolled out nationwide. Universities in Manchester, Leeds, Newcastle, and Glasgow could be funded as innovation hubs, linking research to industry and spin-outs.  
-
-Public sector relocation should be expanded. The BBC’s move to Salford helped transform MediaCityUK into a creative cluster. Similar relocations, whether of government agencies, regulators, or national institutions, could anchor regional ecosystems.  
-
-Britain must learn from Germany’s *Mittelstand*, where medium-sized firms are spread across the country, rooted in their communities. This provides resilience and prevents overconcentration.  
+- **Greater Manchester proves regional renewal works.** Its economy passed £100 billion and grew at
+  roughly double the UK rate over a decade of devolution.[^gm] *Directly transferable* as the anchor
+  model, set out in [constitution and devolution](../governance/constitution-and-devolution.md).
+- **The regional gap is stark.** London's output per head reached £69,077 in 2023 against £28,583 in
+  the North East.[^regional] *Relevant* as the scale of the prize.
+- **Germany's Mittelstand** spreads medium-sized firms across the country, rooted in their
+  communities, giving resilience and shared prosperity. *Transferable* as the model to aim for.
+- **State relocation anchors investment.** The BBC at Salford and the Places for Growth programme
+  show moving institutions out of London works.[^places] *Transferable* as a lever.
 
 ---
 
-## Manchester shows the Northern Powerhouse can work
+## Options appraisal
 
-The case for spreading enterprise beyond London is not theoretical. Greater Manchester already proves it. Its economy passed £100 billion in output in 2023, the largest of any city region outside London, and from 2015 to 2023 it grew at about 3.1% a year, roughly double the 1.5% managed by the rest of the country.[^gm-gva] On current trends it will be more than a third larger by 2035. A decade of devolution, with a directly elected mayor and real local control over transport, skills, and investment, is a large part of why.
+**Option 1: Carry on London-led.** Rely on the capital and hope growth spreads. *Pros:* no change.
+*Cons:* the imbalance and low growth persist. The do-nothing baseline.
 
-This matters for the whole North, not only for Manchester. A strong regional capital can pull neighbouring places up with it, the same agglomeration effect that makes London productive, as long as the benefits are spread deliberately rather than hoarded. The hard part is connection. Manchester, Leeds, Liverpool, Sheffield, and Newcastle sit close together but are poorly linked, so the North trades as a set of separate towns rather than a single market the size of London. Fixing east west transport across the North is therefore economic policy, not just transport policy.
+**Option 2: Subsidise demand.** Tax breaks and subsidies without building regional capacity. *Pros:*
+easy to announce. *Cons:* does little where the foundations are missing.
 
-The prize is closing a gap that shames a wealthy country. London's output per head reached £69,077 in 2023, while the North East's was £28,583, the lowest in the UK, and most regions outside the South East produce little more than half what London does per person.[^regional-gdp] Narrowing that gap is worth tens of billions in recovered output every year.
-
-The lever Britain underuses is the state itself. Government is one of the largest employers and customers in the country, and where it puts its offices, contracts, and institutions shapes where private investment follows. The BBC's move to Salford turned MediaCityUK into a real creative cluster, and the Places for Growth programme has now created more than 16,000 civil service roles outside London, with a flagship economic campus in Darlington that recruits around 80% of its staff from the North.[^places-growth] These are early proof that moving real decisions out of London works. How far that should be taken, up to a second base for Parliament and government itself, is set out in the constitution and devolution chapter.
-
-*[See the constitution and devolution chapter](../governance/constitution-and-devolution.md)*
-
----
-
-## Britain must overcome its culture of risk avoidance  
-
-Culture matters. In Britain, failure is stigmatised. In the United States, failed entrepreneurs are often respected for their experience. If Britain is to revive its entrepreneurial spirit, it must embrace risk-taking and normalise second chances.  
-
-This requires reform of bankruptcy laws to make them less punitive, and better access to “second chance” finance for entrepreneurs who try again. Education can play a role by teaching resilience and the value of experimentation.  
-
-Only by shifting culture can Britain move from cautious preservation of wealth to active investment in new ventures.  
+**Option 3: Spread enterprise and investment *(lead option)*.** Regional venture funds,
+infrastructure, incentives for risk, a stronger Manchester-anchored Northern Powerhouse, and a culture
+that backs second chances. *Pros:* rebalances the economy, raises productivity, and spreads
+prosperity. *Cons:* needs sustained investment and patience. **Recommended.**
 
 ---
 
-## Regulated cultivation and life-sciences could create a new rural industry
+## The proposals (under the lead option)
 
-Economic renewal is not only about software, finance, or city-based start-ups. Britain should also be building new lawful industries in agriculture, controlled-environment horticulture, laboratory processing, and regulated consumer markets. If substances such as medical cannabis, licensed adult-use cannabis, psilocybin products, or other tightly controlled psychoactive inputs are brought into legal supply chains, the UK should aim to grow, process, test, and package as much of that value domestically as possible.
-
-This would give farmers and rural businesses a genuine diversification route at a time when margins are tight and traditional models are under pressure. Greenhouses, mushroom growers, rural labs, secure logistics, specialist packaging firms, and export-focused manufacturers could all benefit. Done properly, this is not a fringe idea. It is exactly the kind of mid-skill, high-standard industry Britain should want more of: rooted locally, science-linked, and capable of producing trusted goods for both domestic use and export.
-
-This also fits the broader argument of this repo. Welfare reform should support people better. Health policy should regulate adult vice honestly. Economic policy should make sure the jobs, production, and tax base created by those reforms stay in Britain rather than leaking abroad or into criminal markets.
-
-*[See the detailed vice taxation and betterment framework](../health/vice-taxation-and-betterment.md)*  
-
----
-
-## Green entrepreneurship is a chance for Britain to lead  
-
-The transition to a low-carbon economy is both a necessity and an opportunity. Britain could become a leader in green entrepreneurship, building industries in renewable energy, electric vehicles, sustainable farming, and carbon capture.  
-
-Scotland’s offshore wind industry, Teesside’s freeport, and the West Midlands battery cluster are early signs of potential. But they require sustained support, not short-term schemes. A “Green New Deal” for Britain could create hundreds of thousands of jobs while addressing climate change.  
-
-Countries like Denmark have shown how green investment can become a national strength. Britain should do the same, tying entrepreneurship to the industries of the future.  
-
----
-
-## Conclusion: Economic renewal depends on unleashing entrepreneurs  
-
-Britain cannot prosper by relying on London alone, nor by clinging to old wealth and risk aversion. Renewal depends on unleashing entrepreneurs across the country, with infrastructure, finance, and cultural support to make risk-taking worthwhile.  
-
-Entrepreneurship is not an optional extra. It is the engine of job creation, innovation, and growth. Without it, Britain faces stagnation. With it, Britain can rebuild prosperity, rebalance its regions, and reclaim its place as a nation of enterprise.  
+1. **Incentives for risk-taking.** Long-term capital-gains relief for investment in UK start-ups, with
+   extra incentives outside London.
+2. **Regional venture funds.** Publicly backed seed capital for entrepreneurs in areas private
+   investors neglect.
+3. **Infrastructure.** Modern transport, full broadband, clean-energy grids, and affordable housing in
+   every region, in step with [transport](../transport/transport.md) and
+   [energy](../energy/energy-and-net-zero.md).
+4. **Skills and export support.** A national entrepreneurship offer, apprenticeships, and help for
+   smaller firms to rebuild export markets, tied to [education](../education/education-and-skills.md)
+   and [trade](./trade-and-eu.md).
+5. **A stronger Northern Powerhouse.** Build on Greater Manchester as the proven anchor, paired with a
+   second base for government and east-west transport so growth spreads across the North.[^gm][^regional][^places]
+6. **New regulated growth sectors.** Back lawful domestic industries, from green manufacturing to
+   tightly regulated medical and adult-use supply chains, so the jobs and tax base stay in Britain, in
+   step with [vice taxation](../health/vice-taxation-and-betterment.md).
+7. **A culture that backs second chances.** Reform bankruptcy law to be less punitive and improve
+   access to second-chance finance, so risk-taking is worthwhile.
+8. **Green entrepreneurship.** Build industries in renewables, electric vehicles, sustainable farming,
+   and carbon capture, learning from Denmark, tying enterprise to the industries of the future.
 
 ---
 
-### References  
+## Costs and benefits
 
-- Global Entrepreneurship Monitor (2022). *UK Report*.  
-- ONS (2022). *Business Demography, UK*.  
-- ONS (2023). *Regional GDP Statistics*.  
-- The Guardian (2023). *Without London, UK poorer than Mississippi*.  
-- OECD (2021). *Government at a Glance*.  
-- IMF (2014). *Fiscal Policy and Long-Term Growth*.  
-- British Chambers of Commerce (2021). *The Impact of Brexit on SMEs*.  
-- OECD (2018). *Good Jobs for All in a Changing World of Work*.  
-- WRAP (2020). *Food Surplus and Waste in the UK*.  
+Regional investment and incentives cost money up front but raise productivity, spread prosperity, and
+build lasting capacity rather than buying temporary relief. The figures belong in the budget-accuracy
+pass (#21).
 
-[^gm-gva]: Greater Manchester Combined Authority (2024), *A decade of good growth in Greater Manchester*. The city region's economy passed £100bn GVA in 2023 and grew about 3.1% a year from 2015 to 2023, against 1.5% for the rest of the UK. https://www.greatermanchester-ca.gov.uk/news/a-decade-of-good-growth-in-greater-manchester/
-[^regional-gdp]: Office for National Statistics (2024), *Regional economic activity by gross domestic product, UK: 1998 to 2023*. GDP per head in 2023 was £69,077 in London and £28,583 in the North East, the lowest in the UK. https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/regionaleconomicactivitybygrossdomesticproductuk/1998to2023
-[^places-growth]: Institute for Government (2024), *Lessons from the Darlington Economic Campus for civil service relocation*. The Places for Growth programme targets 22,000 civil service roles out of London, with more than 16,000 created and around 80% of Darlington staff recruited from the North. https://www.instituteforgovernment.org.uk/publication/darlington-civil-service-relocation
+---
+
+## Delivery and timeline
+
+- **Years 1-3:** stand up regional venture funds and incentives; prioritise regional infrastructure;
+  begin the Northern Powerhouse build.
+- **Years 3-7:** scale regional enterprise, skills, and export support; back new regulated and green
+  sectors.
+- **Years 7-10:** a rebalanced economy with enterprise spread across the country.
+
+---
+
+## Risks and mitigations
+
+- **Investment concentrating in one place.** *Mitigation:* spread funds and infrastructure across the
+  regions, with Manchester as the anchor of a network, not a smaller London.
+- **Short-term schemes.** *Mitigation:* sustained, multi-year support rather than stop-start.
+- **Risk culture unchanged.** *Mitigation:* bankruptcy reform and second-chance finance.
+
+---
+
+## Consultation questions
+
+1. How should regional venture funds be designed and governed?
+2. What infrastructure would most unlock regional enterprise?
+3. How do we build a culture that backs sensible risk and second chances?
+4. Which new regulated and green sectors should Britain prioritise?
+
+---
+
+## References
+
+[^gem]: Global Entrepreneurship Monitor (2022) and ONS (2022), *Business Demography, UK*. Britain
+trails comparable economies on new business creation, with a falling business birth rate. (To be
+confirmed in the budget-accuracy pass.)
+[^london]: ONS (2023), *Regional GDP*. London accounts for over 23% of UK output. (To be confirmed in
+the budget-accuracy pass.)
+[^oecd]: OECD (2021), *Government at a Glance*. UK public investment lagged most of the OECD through
+the 2010s. (To be confirmed in the budget-accuracy pass.)
+[^gm]: Greater Manchester Combined Authority (2024), *A decade of good growth in Greater Manchester*.
+The city region passed £100bn GVA in 2023 and grew about 3.1% a year from 2015 to 2023, against 1.5%
+for the rest of the UK. https://www.greatermanchester-ca.gov.uk/news/a-decade-of-good-growth-in-greater-manchester/
+[^regional]: Office for National Statistics (2024), *Regional economic activity by gross domestic
+product, UK: 1998 to 2023*. GDP per head was £69,077 in London and £28,583 in the North East in 2023.
+https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/regionaleconomicactivitybygrossdomesticproductuk/1998to2023
+[^places]: Institute for Government (2024), *Lessons from the Darlington Economic Campus for civil
+service relocation*. The Places for Growth programme targets 22,000 civil service roles out of London,
+with more than 16,000 created. https://www.instituteforgovernment.org.uk/publication/darlington-civil-service-relocation
