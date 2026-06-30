@@ -1,5 +1,17 @@
 # Vice Taxation and Betterment: Regulate Freedom, Fund Repair
 
+*A forward-looking proposal, judged by what works, not by left or right.*
+
+> **Summary for the reader**
+> - **The problem:** vice policy is stuck between moral panic and quiet hypocrisy. Prohibition fails,
+>   demand persists, and the harms and the profits land in the wrong places.
+> - **The options:** prohibition, laissez-faire legalisation, or regulate, tax by harm, and ring-fence
+>   the revenue.
+> - **Lead option:** **legalise where regulation beats prohibition** (cannabis legal and taxed, other
+>   drugs health-led on the Portugal model), **tax by harm**, and **ring-fence receipts into a
+>   health-and-care betterment fund.**
+> - **Timeline:** phase regulation and the betterment fund over a parliament.
+
 Britain's vice policy is stuck between two failed instincts: moral panic and quiet hypocrisy. People drink, smoke, gamble, and use recreational drugs whether politicians approve or not. In hard times especially, many people seek comfort, relief, stimulation, ritual, or escape. Pretending this can be abolished by disapproval does not remove demand. It merely changes who profits and where the harms land.
 
 A practical state should start from reality. Adults should be free to make imperfect choices, but those choices should take place in regulated markets rather than criminal ones. And where vice creates social costs, part of the price should be recycled into public repair: treatment, mental health, social care, end-of-life dignity, and community health.
@@ -22,6 +34,22 @@ The goal is to replace three bad outcomes at once:
 - black-market profit without standards;
 - public-health costs without dedicated funding;
 - hollow moralism that punishes users while tolerating the demand that created the market.
+
+---
+
+## Options appraisal
+
+**Option 1: Prohibition.** Ban and police. *Pros:* morally simple. *Cons:* it fails, hands the market
+to criminals, and captures no tax or standards. The do-nothing baseline.
+
+**Option 2: Laissez-faire legalisation.** Legalise with light rules. *Pros:* ends criminalisation.
+*Cons:* risks harm and aggressive marketing without standards or dedicated funding.
+
+**Option 3: Regulate, tax by harm, ring-fence *(lead option)*.** Legalise where regulation beats
+prohibition, tax according to harm, apply strict rules on age, quality, potency, and advertising, and
+ring-fence receipts into a betterment fund. Cannabis legal and taxed; other drugs health-led on the
+Portugal model. *Pros:* safer markets, honest funding, and adult freedom. *Cons:* needs careful design
+and public reassurance. **Recommended.**
 
 ---
 
@@ -424,6 +452,15 @@ A coherent vice-tax regime could:
 - accept human reality without surrendering public standards.
 
 That is the right balance for a serious country. Freedom without denial. Regulation without hysteria. Taxation with a purpose.
+
+---
+
+## Consultation questions
+
+1. Which markets should be regulated and taxed, and in what order?
+2. How should tax rates track the social harm of each product?
+3. How should the betterment fund's allocation formula be set and published to keep it honest?
+4. What limits on potency, marketing, and venues best reduce harm while respecting adult freedom?
 
 ---
 

@@ -1,5 +1,16 @@
 # End of Life and Dementia Care: Dignity Before Asset Depletion
 
+*A forward-looking proposal, judged by what works, not by left or right.*
+
+> **Summary for the reader**
+> - **The problem:** the care system forces older people to spend down savings and sell homes, and
+>   dementia is treated as chargeable social care rather than NHS care. England's protection floor is
+>   just £14,250 to £23,250, while care can cost over £60,000 a year.
+> - **The options:** the means-tested status quo, a simple care cap, or a funded guarantee.
+> - **Lead option:** a **Dementia and End-of-Life Care Guarantee** that protects ordinary savings,
+>   funds the dementia premium, improves palliative care at home, and provides a dignity allowance.
+> - **Timeline:** legislate the guarantee and care cap over a parliament.
+
 Old age should not become a forced liquidation event.
 
 The current UK care system asks too many older people and families to do something most people would regard as morally backwards: spend down a lifetime of savings, sell the family home where necessary, and leave only a narrow residue before the state offers full help. For dementia patients this feels especially unjust. Dementia is a medical condition, but much of the long-term support it requires is treated as chargeable social care rather than NHS care.
@@ -399,6 +410,30 @@ Housing reform protects people from insecurity. Welfare reform protects people f
 Older people's care should be governed by the same principle. A decent country does not ask people to save all their lives only to watch those savings vanish into the final corridor of care. It should pool catastrophic risk, fund complex dementia support properly, and leave people with enough freedom to spend, give, enjoy, and leave something behind.
 
 The end of life should be a chapter of dignity, not a financial extraction process.
+
+---
+
+## Options appraisal
+
+**Option 1: Means-tested status quo.** Keep the current thresholds. *Pros:* cheapest to the state.
+*Cons:* forces families to spend down savings and treats dementia unfairly. The do-nothing baseline.
+
+**Option 2: A simple care cap.** Cap lifetime care costs. *Pros:* limits catastrophic loss. *Cons:*
+leaves the dementia-versus-NHS unfairness and the gaps in palliative care.
+
+**Option 3: A Dementia and End-of-Life Care Guarantee *(lead option)*.** Protect ordinary savings,
+fund the dementia premium, improve hospice-at-home and palliative care, and provide a dignity
+allowance, part-funded by the betterment fund. *Pros:* fairness, dignity, and fewer avoidable hospital
+costs. *Cons:* needs a serious funding settlement. **Recommended.**
+
+---
+
+## Consultation questions
+
+1. What savings-protection floor and care cap are fair and affordable?
+2. How should the dementia premium be defined and funded?
+3. How do we shift end-of-life care from hospital to home where people prefer it?
+4. How should a dignity allowance work alongside the betterment fund?
 
 ---
 
