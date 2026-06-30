@@ -88,6 +88,32 @@ fixing the domestic problems. *Cons:* requires careful drafting to get the balan
 
 ---
 
+## How services work without a national ID
+
+The objection to ruling out a digital ID is always: how do people prove who they are, that they are
+eligible, or that they are old enough? The answer is **verification at the point of use**, which is how
+most of life already works.
+
+- **Attribute, not identity.** A service usually needs one fact, that you are over 18, entitled to a
+  benefit, or a registered patient, not a complete cradle-to-grave identity. Systems can confirm a
+  single attribute (a yes or no) without sharing the rest, and without a number that links every
+  interaction together.
+- **Per-service logins, not one master key.** The NHS App, a tax account, or a council login each
+  verify you for that service, as they do now. Britain already runs GOV.UK One Login for this; the line
+  this framework draws is that it must stay a convenience for using services, never a compulsory
+  national identity register people must hold to live their lives.
+- **Age checks without surveillance.** Age can be confirmed through device-level signals (as Apple's
+  2026 tools do, sharing an age range without a birthday) or trusted third parties, rather than
+  uploading identity documents to every website.
+- **Fraud control through data minimisation.** Targeted checks where money or risk is involved, with
+  data minimised and held only as long as needed, catch fraud without cataloguing the whole population.
+
+The principle is consistent: confirm what a service genuinely needs, at the moment it needs it, and no
+more. This is the model behind the no-digital-ID line across [governance](./democracy-and-reform.md),
+[science and technology](../technology/science-technology-and-ai.md), and the NHS App.
+
+---
+
 ## Costs and benefits
 
 This is mostly about principle and the quality of law rather than spending. The benefit is a

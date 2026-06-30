@@ -115,6 +115,25 @@ the whole case for it. The figures belong in the budget files.
 
 ---
 
+## Upstream versus downstream: the comparison
+
+The framework's core claim, that preventing crises upstream is cheaper than reacting downstream, can be
+made concrete:
+
+| Downstream cost (reacting) | Upstream alternative (preventing) |
+|---|---|
+| Asylum support and accommodation: ~£4bn a year, much of it hotels | Stabilisation, safer regional processing, and aid near the source |
+| Reoffending: custody at ~£53,000 per prisoner a year | Rehabilitation and work pathways that cut reoffending |
+| Repeat emergency response to floods and shocks | Civil resilience and engineering capacity held in advance |
+
+In each case the downstream bill recurs every year and produces little lasting value, while the upstream
+investment builds capability that lasts. The exact ratios are for the budget work, but the direction is
+not in doubt: it is cheaper to hold usable capacity before a crisis than to improvise after it. The
+[foreign policy](../foreign-policy/foreign-policy.md), [immigration](../immigration/immigration.md), and
+[rehabilitation](../justice/rehabilitation-through-public-service.md) chapters all rest on this.
+
+---
+
 ## Delivery and timeline
 
 - **Years 1-3 (restore the basics):** set the multi-year capability plan; map logistics, engineering,
