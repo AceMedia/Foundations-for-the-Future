@@ -11,7 +11,7 @@
 >   environment rather than shareholders, and rebuild trust through transparency and investment.
 > - **Timeline:** transition over a parliament, with investment ramping from the start.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -84,7 +84,7 @@ patchier to set up. *A possible route into the lead option.*
 Public-interest ownership lowers the cost of capital and ends the leakage of bill income to
 dividends, freeing money for investment. The transition has a cost and must be valued fairly, but
 the prize is cleaner rivers, reliable supply, and a model the public trusts. The figures belong in
-the budget-accuracy pass (#21).
+the budget files.
 
 ---
 
@@ -120,4 +120,4 @@ the budget-accuracy pass (#21).
 
 [^water]: The level of dividends and debt at England's water companies since privatisation, set
 against investment and sewage-spill records, has been documented by Ofwat and the Environment
-Agency. (Figures to be confirmed in the budget-accuracy pass.) https://www.ofwat.gov.uk/
+Agency. (indicative) https://www.ofwat.gov.uk/

@@ -14,7 +14,7 @@
 >   closer to income-tax rates, with a simpler system overall.
 > - **Timeline:** legislate over a parliament, phase the transition to avoid cliff edges.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -96,8 +96,8 @@ This is about fairness and a system that supports work, not about raising the ov
 
 The aim is a fairer mix at a similar overall level, not a bigger tax burden. The gains are a
 system that rewards work, treats property honestly, supports the high street, and is simpler to
-comply with. Detailed revenue and distributional modelling belongs in the budget-accuracy pass
-(#21) and a matching budget file, since property and capital reforms create clear winners and
+comply with. Detailed revenue and distributional modelling belongs in the budget files
+ and a matching budget file, since property and capital reforms create clear winners and
 losers that must be shown openly.
 
 ---

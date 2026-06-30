@@ -12,7 +12,7 @@
 >   genuine integration with the NHS**, building on the end-of-life and dementia proposals.
 > - **Timeline:** stabilise early; settle funding and workforce over a parliament.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -91,7 +91,7 @@ catastrophic costs. *Cons:* needs a serious funding decision and reform. **Recom
 A proper settlement costs money, but it is cheaper than the hidden costs of delayed discharges, a
 collapsing workforce, and families in crisis. The detailed costings build on
 [budget/social-care-and-end-of-life-savings.md](../budget/social-care-and-end-of-life-savings.md)
-and the budget-accuracy pass (#21).
+and the budget files.
 
 ---
 

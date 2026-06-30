@@ -12,7 +12,7 @@
 >   framework's direct-provision approach, alongside strong early years and a fixed SEND system.
 > - **Timeline:** build capacity over a parliament; fix SEND urgently.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -83,7 +83,7 @@ approach. *Cons:* needs capacity-building and quality assurance. **Recommended.*
 
 Direct provision costs more up front than thin subsidies, but it guarantees the places that let
 parents work, raises the tax base, and improves children's life chances, while a fixed SEND system
-relieves council budgets. Figures belong in the budget-accuracy pass (#21).
+relieves council budgets. Figures belong in the budget files.
 
 ---
 

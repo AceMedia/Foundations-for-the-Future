@@ -13,7 +13,7 @@
 >   safety through parents and devices.
 > - **Timeline:** reform broadcasting funding over a parliament; act on gambling and sport sooner.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -91,7 +91,7 @@ provides, such as impartial news and content for minority audiences. **Recommend
 
 Moving to subscription reduces a compulsory charge and focuses public money on content only
 public-service media provides. Backing grassroots sport and culture is modest spending with strong
-returns in health and community. The figures belong in the budget-accuracy pass (#21).
+returns in health and community. The figures belong in the budget files.
 
 ---
 

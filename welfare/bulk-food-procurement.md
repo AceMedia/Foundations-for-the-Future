@@ -12,7 +12,7 @@
 >   tailored nutrition, British produce, and fair-trade partnerships with origin countries.
 > - **Timeline:** replace emergency provision first, then build toward full nutrition programmes.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -89,7 +89,7 @@ distribution capacity and care to preserve dignity and choice. **Recommended.**
 
 Bulk procurement could save an estimated £500 to £700 million a year across millions of households,
 cut food waste, lower NHS costs from better nutrition, and support British farming and partner
-countries.[^savings] The detailed figures belong in the budget-accuracy pass (#21).
+countries.[^savings] The detailed figures belong in the budget files.
 
 ---
 
@@ -127,12 +127,11 @@ countries.[^savings] The detailed figures belong in the budget-accuracy pass (#2
 ## References
 
 [^hunger]: Action Against Hunger / Trussell Trust (2023). Millions of people struggle to afford enough
-food while households waste millions of tonnes a year, and food banks run well over 1,400 centres. (To
-be confirmed in the budget-accuracy pass.)
+food while households waste millions of tonnes a year, and food banks run well over 1,400 centres. (indicative)
 [^gbs]: Government Buying Standards (2023), *Public Sector Food Procurement Guidelines*. Around £2.4bn
 of annual public food procurement. https://www.gov.uk/government/publications/sustainable-procurement-the-gbs-for-food-and-catering-services
 [^retail]: Indicative comparison of retail versus institutional food costs (roughly 40% higher at
-retail). (To be confirmed in the budget-accuracy pass.)
+retail). (indicative)
 [^finland]: Finnish National Agency for Education (2023), *School Meals Programme*. Free school meals
 since 1948.
 [^brazil]: Brazilian Ministry of Social Development (2015), *Zero Hunger Programme Evaluation*. Hunger
@@ -142,4 +141,4 @@ System reaches hundreds of millions.
 [^france]: France's national catering standards require a share of local and organic sourcing in public
 institutions.
 [^savings]: Indicative procurement and waste savings of £500-700 million a year across food-supported
-households. (To be confirmed in the budget-accuracy pass.)
+households. (indicative)

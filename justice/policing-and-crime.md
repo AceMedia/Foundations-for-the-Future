@@ -12,7 +12,7 @@
 >   enforcement with prevention**, without drifting into mass surveillance.
 > - **Timeline:** rebuild neighbourhood policing early; build prevention over a parliament.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -88,7 +88,7 @@ investigation capacity, and patience. **Recommended.**
 Neighbourhood policing and better investigation cost money, but they cut crime, rebuild trust, and
 reduce the larger downstream costs of crime and reoffending, which ties to the
 [rehabilitation chapter](./rehabilitation-through-public-service.md). Figures belong in the
-budget-accuracy pass (#21).
+budget files.
 
 ---
 

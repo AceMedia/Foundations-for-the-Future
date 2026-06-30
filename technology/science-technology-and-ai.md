@@ -12,7 +12,7 @@
 >   national digital ID.
 > - **Timeline:** set the approach early; build capability over a decade.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -88,7 +88,7 @@ real harms are not missed. **Recommended.**
 
 Backing scale-up and R&D and finishing connectivity are investments that grow the economy and keep
 high-value jobs here, while pro-innovation rules avoid the cost of driving innovation abroad. The
-figures belong in the budget-accuracy pass (#21).
+figures belong in the budget files.
 
 ---
 

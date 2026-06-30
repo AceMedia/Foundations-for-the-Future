@@ -12,7 +12,7 @@
 >   drugs as a health issue, social-care integration) while restoring core capacity and the workforce.
 > - **Timeline:** restore capacity and cut waits early; build prevention over a decade.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -98,7 +98,7 @@ demand, shorter waits, healthier population. *Cons:* needs investment now for re
 
 Prevention and integration cost money now but reduce the far larger downstream costs of avoidable
 illness and delayed discharge, while regulated vice funds care directly. The detailed savings belong in
-the budget-accuracy pass (#21) and the [health-savings file](../budget/health-savings.md).
+the budget files and the [health-savings file](../budget/health-savings.md).
 
 ---
 

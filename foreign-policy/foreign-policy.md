@@ -12,7 +12,7 @@
 >   and migration.
 > - **Timeline:** set the strategy early; build capability over a parliament and beyond.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -85,7 +85,7 @@ migration. *Pros:* spending follows impact and strategy, and joins up the levers
 
 Results-based, prevention-focused spending aims to get more from each pound and to avoid the far
 larger downstream costs of crises that reach our shores. The figures and the balance between aid,
-defence, and diplomacy belong in the budget-accuracy pass (#21).
+defence, and diplomacy belong in the budget files.
 
 ---
 

@@ -120,7 +120,7 @@ services and visible, earmarked spending rebuild trust. Doing it without a natio
 avoids the large cost and risk of building and securing a central identity system. Detailed
 savings are set out in
 [budget/governance-and-admin-savings.md](../budget/governance-and-admin-savings.md), to be
-firmed up in the budget-accuracy pass.
+firmed up in the budget files.
 
 ---
 

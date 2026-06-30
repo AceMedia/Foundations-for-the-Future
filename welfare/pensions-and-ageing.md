@@ -12,7 +12,7 @@
 >   risking savers.
 > - **Timeline:** legislate the new link early; build saving adequacy over a decade.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -88,8 +88,7 @@ capital. *Pros:* affordable, predictable, fair between generations, still protec
 
 A double lock is more affordable and predictable than the triple lock while still protecting
 pensioner incomes. Stronger private saving reduces future reliance on the state, and productive
-investment of pension capital supports growth. The fiscal detail belongs in the budget-accuracy
-pass (#21) and a matching budget file.
+investment of pension capital supports growth. The fiscal detail belongs in the budget files.
 
 ---
 
@@ -129,5 +128,4 @@ pass (#21) and a matching budget file.
 
 [^triplelock]: The state pension triple lock uprates by the highest of average earnings growth,
 inflation, or 2.5%. Its long-term cost and unpredictability have been examined by the Office for
-Budget Responsibility and the Institute for Fiscal Studies. (Figures to be confirmed in the
-budget-accuracy pass.) https://obr.uk/
+Budget Responsibility and the Institute for Fiscal Studies. (indicative) https://obr.uk/

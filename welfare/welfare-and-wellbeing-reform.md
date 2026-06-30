@@ -14,7 +14,7 @@
 >   in people.
 > - **Timeline:** shift from crisis management to direct provision over a decade.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -101,7 +101,7 @@ landlord subsidy, improves health, and frees people's cash for things that impro
 Securing essentials directly cuts the money wasted on landlord subsidies, preventable NHS costs, and
 emergency food aid, and shifts welfare from crisis management to building public assets and human
 capacity. People are left with more disposable income, not less, because rent, food, and bills are
-covered. The figures belong in the budget-accuracy pass (#21) and the welfare-savings file.
+covered. The figures belong in the budget files and the welfare-savings file.
 
 ---
 
@@ -144,7 +144,7 @@ homes sold since 1980, only a fraction replaced.
 [^fuel]: Department for Energy Security and Net Zero (2025), *Annual Fuel Poverty Statistics in England,
 2025 (2024 data)*. About 2.73 million households (11.0%) were in fuel poverty in England in 2024. https://www.gov.uk/government/statistics/annual-fuel-poverty-statistics-report-2024
 [^cold]: Marmot Review (2011), *Fair Society, Healthy Lives*; Public Health England (2020). Cold homes
-cost the NHS an estimated £1.3 billion a year. (To be confirmed in the budget-accuracy pass.)
+cost the NHS an estimated £1.3 billion a year. (indicative)
 [^food]: Trussell Trust (2023), *End of Year Statistics 2022/23*. 2.99 million emergency food parcels
 distributed, more than double 2015/16.
 [^sanctions]: National Audit Office (2016), *Benefit Sanctions*. Sanctions cost more to administer than

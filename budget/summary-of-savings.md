@@ -130,7 +130,7 @@ The exact mix would be decided in a full Budget process. As each `budget/*-savin
 ## Sources for headline figures
 
 These are the primary sources for the main figures above. Other figures are sourced in the linked
-topic files, and remaining estimates are being verified through the ongoing budget-accuracy pass.
+topic files, and remaining estimates are being verified through the costings work.
 
 - **Housing support (~£30bn/yr):** Housing Benefit and the Universal Credit housing element were
   £28.97bn in 2022/23 (DWP / UK Parliament). https://questions-statements.parliament.uk/written-questions/detail/2024-03-04/16827

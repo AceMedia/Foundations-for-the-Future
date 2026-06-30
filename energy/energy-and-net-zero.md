@@ -13,7 +13,7 @@
 > - **Timeline:** a rolling programme; grid and bills action in years 1-3, new capacity over a
 >   decade and beyond.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -94,7 +94,7 @@ power. *Cons:* too slow and expensive to rely on alone for the next decade.
 
 Up-front investment in the grid, nuclear, and renewables is large, but it buys lower, steadier
 bills, energy security, industrial competitiveness, and lower emissions. The detailed costings,
-including how investment is financed, belong in the budget-accuracy pass (#21) and a matching
+including how investment is financed, belong in the budget files and a matching
 budget file.
 
 ---

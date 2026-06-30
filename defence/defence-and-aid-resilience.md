@@ -12,7 +12,7 @@
 >   keep the nuclear deterrent, and treat defence, aid, and civil resilience as one system.**
 > - **Timeline:** restore the basics early; build usable capability over a decade.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -104,7 +104,7 @@ better. *Pros:* no extra cost. *Cons:* unlikely to close the capability gaps the
 Capability-based investment costs money, but it buys deterrence, alliance credibility, usable
 emergency capacity, and lower downstream crisis bills, while procurement strengthens domestic
 industry and regional jobs. Some immigration savings can support this strategy, though they are not
-the whole case for it. The figures belong in the budget-accuracy pass (#21).
+the whole case for it. The figures belong in the budget files.
 
 ---
 

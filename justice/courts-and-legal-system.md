@@ -11,7 +11,7 @@
 >   civil and family justice**, including more mediation.
 > - **Timeline:** attack the backlog early; rebuild access over a parliament.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -79,7 +79,7 @@ the backlog, restore workable legal aid, and improve civil and family justice wi
 
 Clearing the backlog and restoring legal aid cost money, but a clogged justice system carries its
 own large costs in delayed cases, dropped prosecutions, and lost confidence. The figures belong in
-the budget-accuracy pass (#21).
+the budget files.
 
 ---
 

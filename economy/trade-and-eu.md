@@ -13,7 +13,7 @@
 >   market and customs union.
 > - **Timeline:** negotiate the practical deals early; build the wider strategy over a parliament.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -90,7 +90,7 @@ flexibility. *Cons:* adds friction with our largest market for uncertain gain.
 
 Cutting friction lowers costs for exporters and consumers and supports smaller firms, at the
 price of steady negotiation and some give and take. The fiscal and trade modelling belongs in the
-budget-accuracy pass (#21). The strategic benefit is a managed, productive relationship rather
+budget files. The strategic benefit is a managed, productive relationship rather
 than a running argument.
 
 ---
@@ -129,4 +129,4 @@ than a running argument.
 
 [^smes]: Surveys by bodies such as the British Chambers of Commerce have reported higher costs and
 falling EU sales for many small and medium-sized exporters since leaving the single market.
-(Figures to be confirmed in the budget-accuracy pass.) https://www.britishchambers.org.uk/
+(indicative) https://www.britishchambers.org.uk/

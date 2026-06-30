@@ -11,7 +11,7 @@
 >   help for those who can work, and firm protection for those who cannot.
 > - **Timeline:** reform assessment early; build employment support over a parliament.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -81,8 +81,7 @@ savings. *Cons:* causes fear and hardship, pushes costs elsewhere, and saves les
 
 Accurate assessment and good employment support cost money up front but reduce appeals, move
 people into work, and cut the human and fiscal cost of a failing system. This connects to the
-wider [welfare reform](./welfare-and-wellbeing-reform.md). Figures belong in the budget-accuracy
-pass (#21).
+wider [welfare reform](./welfare-and-wellbeing-reform.md). Figures belong in the budget files.
 
 ---
 

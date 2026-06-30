@@ -11,7 +11,7 @@
 >   crisis care out of police cells and A&E** into services designed for it.
 > - **Timeline:** expand access and crisis care early; build prevention over a decade.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -82,7 +82,7 @@ and workforce. **Recommended.**
 
 Prevention and early help are cheaper than the crises they avoid, and proper crisis services cost
 less than police time and A&E. The return is people kept well, in work, and out of the most
-expensive settings. The figures belong in the budget-accuracy pass (#21) and the health-savings
+expensive settings. The figures belong in the budget files and the health-savings
 file.
 
 ---

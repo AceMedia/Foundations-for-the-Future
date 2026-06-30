@@ -12,7 +12,7 @@
 >   stability lessons of 2008, and protect consumers.
 > - **Timeline:** reform incentives over a parliament.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -82,7 +82,7 @@ turns a financial strength into real-economy investment, with stability and prot
 
 This is mostly about incentives and rules rather than spending. The benefit is a financial sector
 that invests in the real economy, keeps growing firms here, and stays stable and trusted. Figures
-belong in the budget-accuracy pass (#21).
+belong in the budget files.
 
 ---
 

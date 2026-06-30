@@ -13,7 +13,7 @@
 > - **Timeline:** clear the backlog and stand up routes early; build upstream capacity over a
 >   parliament.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -107,8 +107,7 @@ public consent. *Cons:* requires patience and consistency rather than headline-c
 A reformed system could save £1-2 billion a year, mainly from faster processing cutting hotel costs,
 streamlined procedures, and enforcement aimed at smugglers rather than migrants, plus tax from
 expanded legal work.[^savings] Part of those savings should be reinvested upstream in defence and
-humanitarian capacity rather than simply banked. The detailed figures belong in the budget-accuracy
-pass (#21).
+humanitarian capacity rather than simply banked. The detailed figures belong in the budget files.
 
 ---
 
@@ -152,9 +151,9 @@ cost around £4.0bn in 2024-25 (Home Office accommodation around £2.7bn). The b
 decision was around 70,000 by mid-2025, down from a 2023 peak of about 175,000; around 36,300 people
 were in hotels by September 2025, down from a peak near 56,000. https://migrationobservatory.ox.ac.uk/resources/briefings/the-uks-asylum-backlog/
 [^resettle]: UNHCR (2023), *Global Trends*. UK resettlement was around 1,171 in 2022, small by
-international standards. (To be confirmed in the budget-accuracy pass.)
+international standards. (indicative)
 [^rwanda]: Home Office (2024). The Rwanda scheme cost hundreds of millions while removing very few
-people. (To be confirmed in the budget-accuracy pass.)
+people. (indicative)
 [^australia]: Refugee Council of Australia (2023), *Offshore Processing: Costs and Consequences*.
 [^canada]: Immigration, Refugees and Citizenship Canada (2023), *Private Sponsorship of Refugees
 Program*. Over 300,000 refugees resettled since 1979, with strong integration outcomes.
@@ -165,5 +164,4 @@ Mediterranean*. Enforcement alone shifts routes rather than ending crossings.
 [^nca]: National Crime Agency (2023), *Serious and Organised Crime Assessment*. Sustained pressure on
 organisers is more effective than prosecuting migrants.
 [^savings]: National Audit Office (2023). Indicative reformed-system savings of £1-2bn a year from
-faster processing, streamlined procedures, and targeted enforcement. (To be confirmed in the
-budget-accuracy pass.)
+faster processing, streamlined procedures, and targeted enforcement. (indicative)

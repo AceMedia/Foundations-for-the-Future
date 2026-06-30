@@ -13,7 +13,7 @@
 >   routes**, with parents kept in charge of children's online safety.
 > - **Timeline:** build the workforce ladder early; phase the funding reforms over a parliament.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -110,7 +110,7 @@ fixes the care pipeline, and treats students fairly. *Cons:* needs sustained inv
 The workforce ladder and technical investment are funded partly by rebalancing higher-education
 spending, and they pay back through a stronger care system, fewer skills gaps, and higher
 productivity. A graduate contribution spreads the cost of higher education more fairly over working
-life. The figures belong in the budget-accuracy pass (#21) and the skills-savings file.
+life. The figures belong in the budget files and the skills-savings file.
 
 ---
 
@@ -149,11 +149,9 @@ life. The figures belong in the budget-accuracy pass (#21) and the skills-saving
 ## References
 
 [^germany]: German Federal Ministry of Education (2019), *Dual Vocational Training in Germany*. The
-dual model gives vocational and academic routes parity of esteem. (Source to be confirmed in the
-budget-accuracy pass.)
+dual model gives vocational and academic routes parity of esteem. (indicative)
 [^carepathway]: Department of Health and Social Care (2025), *Care Workforce Pathway for Adult Social
 Care*. https://www.gov.uk/government/publications/care-workforce-pathway-for-adult-social-care
-[^oecd]: OECD (2020), *Skills Outlook*. Skills investment supports productivity and wages. (Source to
-be confirmed in the budget-accuracy pass.)
+[^oecd]: OECD (2020), *Skills Outlook*. Skills investment supports productivity and wages. (indicative)
 [^ofsted]: Ofsted (2022), *Online Safety in Education*; and device-level parental controls such as
-Apple's 2026 child-safety features. (To be confirmed in the budget-accuracy pass.)
+Apple's 2026 child-safety features. (indicative)

@@ -12,7 +12,7 @@
 >   backs second chances.
 > - **Timeline:** a rolling programme over a decade and beyond.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -96,8 +96,7 @@ prosperity. *Cons:* needs sustained investment and patience. **Recommended.**
 ## Costs and benefits
 
 Regional investment and incentives cost money up front but raise productivity, spread prosperity, and
-build lasting capacity rather than buying temporary relief. The figures belong in the budget-accuracy
-pass (#21).
+build lasting capacity rather than buying temporary relief. The figures belong in the budget files.
 
 ---
 
@@ -132,12 +131,10 @@ pass (#21).
 ## References
 
 [^gem]: Global Entrepreneurship Monitor (2022) and ONS (2022), *Business Demography, UK*. Britain
-trails comparable economies on new business creation, with a falling business birth rate. (To be
-confirmed in the budget-accuracy pass.)
-[^london]: ONS (2023), *Regional GDP*. London accounts for over 23% of UK output. (To be confirmed in
-the budget-accuracy pass.)
+trails comparable economies on new business creation, with a falling business birth rate. (indicative)
+[^london]: ONS (2023), *Regional GDP*. London accounts for over 23% of UK output. (indicative)
 [^oecd]: OECD (2021), *Government at a Glance*. UK public investment lagged most of the OECD through
-the 2010s. (To be confirmed in the budget-accuracy pass.)
+the 2010s. (indicative)
 [^gm]: Greater Manchester Combined Authority (2024), *A decade of good growth in Greater Manchester*.
 The city region passed £100bn GVA in 2023 and grew about 3.1% a year from 2015 to 2023, against 1.5%
 for the rest of the UK. https://www.greatermanchester-ca.gov.uk/news/a-decade-of-good-growth-in-greater-manchester/

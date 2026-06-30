@@ -11,7 +11,7 @@
 >   and helping British people work seasons abroad, with strong protections on both sides.
 > - **Timeline:** pilot, then scale over a few years.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -103,7 +103,7 @@ reciprocal arrangements with partner countries. **Recommended.**
 Each seasonal worker generates several thousand pounds of local economic activity and contributes tax
 and National Insurance, while reliable labour lowers food costs and supports rural and coastal
 economies.[^impact] Sending British workers abroad adds earnings, skills, and experience. The figures
-belong in the budget-accuracy pass (#21).
+belong in the budget files.
 
 ---
 
@@ -138,7 +138,7 @@ belong in the budget-accuracy pass (#21).
 ## References
 
 [^nfu]: National Farmers' Union (2023), *Labour Shortages in UK Agriculture*. Tens of thousands of
-seasonal workers are needed each year. (To be confirmed in the budget-accuracy pass.)
+seasonal workers are needed each year. (indicative)
 [^nz]: New Zealand Immigration (2023), *Recognised Seasonal Employer Scheme Evaluation*. Guaranteed
 hours, approved accommodation, and return rates above 95%.
 [^canada]: Employment and Social Development Canada (2023), *Seasonal Agricultural Worker Program Annual
@@ -147,4 +147,4 @@ Report*. Over 60,000 workers a year since 1966, with health insurance and accomm
 Countries*. Labour protections and wage guarantees.
 [^impact]: Migration Advisory Committee (2022) and Cornwall Council (2021). Each seasonal worker
 generates roughly £3,000-£6,000 in local economic activity and contributes tax and National Insurance.
-(To be confirmed in the budget-accuracy pass.)
+(indicative)

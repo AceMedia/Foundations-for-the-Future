@@ -10,7 +10,7 @@
 >   both secure domestic food and a recovering environment.
 > - **Timeline:** settle the subsidy framework early; build over a decade.
 >
-> *Figures here are first-draft and will be checked in the budget-accuracy pass (#21).*
+> *Costings are indicative; the detailed figures live in the budget files.*
 
 ---
 
@@ -86,7 +86,7 @@ squeezed out. **Recommended.**
 
 Paying for nature and food together costs roughly what the old subsidies did, but buys more: secure
 food, viable farms, recovering nature, and lower flood and clean-up bills. The figures belong in
-the budget-accuracy pass (#21).
+the budget files.
 
 ---
 
