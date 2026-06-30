@@ -3,7 +3,7 @@
 *A forward-looking proposal, judged by what works, not by left or right.*
 
 > **Summary for the reader**
-> - **The problem:** the NHS is a national treasure at breaking point. Waiting lists are around 7.6
+> - **The problem:** the NHS is a national treasure at breaking point. Waiting lists are around 7.4
 >   million, A&E and delayed discharges are chronic, the workforce is short-staffed and burnt out, and
 >   the system is built to treat illness rather than prevent it.
 > - **The options:** more money in the same model, more privatisation, or prevention-led reform with
@@ -20,7 +20,7 @@
 
 The NHS is both a national treasure and a system under enormous strain.
 
-**Waits are too long.** The waiting list for hospital treatment in England stands at around 7.6
+**Waits are too long.** The waiting list for hospital treatment in England stands at around 7.4
 million, with people waiting months for care that gets more expensive the longer it is delayed.[^waits]
 
 **The front door and back door are blocked.** A&E is overwhelmed and patients are stuck in hospital
@@ -135,7 +135,7 @@ the budget-accuracy pass (#21) and the [health-savings file](../budget/health-sa
 ## References
 
 [^waits]: NHS England, *Referral to Treatment (RTT) Waiting Times*. The England waiting list stands at
-around 7.6 million pathways. (Figure to be confirmed in the budget-accuracy pass.) https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/
+around 7.4 million pathways (about 6.24 million unique patients) in October 2025, with around 100,000 waiting over a year. https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/
 [^workforce]: NHS England workforce statistics report tens of thousands of vacancies across nursing and
 other roles. (To be confirmed in the budget-accuracy pass.)
 [^portugal]: Hughes, C. & Stevens, A. (2010), *What Can We Learn From The Portuguese Decriminalization

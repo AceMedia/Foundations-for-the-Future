@@ -14,8 +14,8 @@ This file consolidates **headline, order‑of‑magnitude savings** implied by p
 
 | Area                                   | Mechanism                                             | Baseline pressure (today / avoidable)                                              | Indicative annual saving (steady state)    | Linked detail                                  |
 |----------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------|------------------------------------------------|
-| **Temporary accommodation & homelessness** | Build/allocate more social housing; adopt Housing First; end costly B&B use | Local authorities spend **£1.6 billion/yr** on temporary housing (plus knock‑on health/emergency costs) | **£0.6–£1.0 billion/yr**                   | See **[housing-savings.md](./housing-savings.md)** |
-| **Housing Benefit “leakage” to private landlords** | Shift spend from rent subsidies to new social housing stock; enforce decent standards in PRS | ~**£23 billion/yr** Housing Benefit outlay, much of it to private rentals | **£1.0–£2.0 billion/yr**                   | See **[housing-savings.md](./housing-savings.md)** |
+| **Temporary accommodation & homelessness** | Build/allocate more social housing; adopt Housing First; end costly B&B use | Local authorities spend **£2.3 billion/yr** on temporary housing (plus knock‑on health/emergency costs) | **£0.6–£1.0 billion/yr**                   | See **[housing-savings.md](./housing-savings.md)** |
+| **Housing Benefit “leakage” to private landlords** | Shift spend from rent subsidies to new social housing stock; enforce decent standards in PRS | ~**£30 billion/yr** Housing Benefit outlay, much of it to private rentals | **£1.0–£2.0 billion/yr**                   | See **[housing-savings.md](./housing-savings.md)** |
 | **Building safety failures** *(future liabilities)* | “Do it right first time”: non‑combustible materials; independent inspections; developer accountability | £5+ billion in cladding/remediation costs post-Grenfell            | **£0.3–£0.6 billion/yr** *(avoided)*       | See **[housing-savings.md](./housing-savings.md)** |
 | **Poor housing conditions → NHS costs** | Set minimum quality standards; retrofit insulation, ventilation, mould fixes | ~**£1.4 billion/yr** in health costs from cold, damp, unsafe homes     | **£0.3–£0.6 billion/yr**                   | See **[health-savings.md](./health-savings.md)** |
 | **Poor diet & obesity**               | Expand bulk healthy food programs; community nutrition initiatives          | Diet-related diseases (e.g. obesity, diabetes) cost the NHS **tens of £billions** annually | **£0.2–£0.4 billion/yr**                   | See **[health-savings.md](./health-savings.md)** |
@@ -27,7 +27,7 @@ This file consolidates **headline, order‑of‑magnitude savings** implied by p
 | **Government inefficiency & duplication** | Merge overlapping agencies; digitalize services; centralize procurement      | Multi‑£billion spent on duplicative admin and siloed systems across government    | **£0.6–£1.2 billion/yr**                   | See **[governance-and-admin-savings.md](./governance-and-admin-savings.md)** |
 | **Planning delays & housing under‑supply** | Speed up planning; enable mid‑rise development where appropriate            | Lost economic output from housing shortfall (*e.g.* 70k delayed homes ≈ **£1.9 billion/yr** GVA lost | **TBD** *(likely multi‑£billion/yr)*       | See housing/economy chapters                 |
 
-> **Directional takeaway:** Even before any dynamic growth effects, this reform package yields on the order of **£3–6 billion per year** in steady‑state *direct* savings or cost avoidances. The bulk comes from **housing reforms** – redirecting Housing Benefit into new social homes, cutting the £1.6 billion temporary accommodation bill, and preventing another £5 billion cladding‑type debacle – alongside **NHS savings** from healthier homes and diets. On top of that, streamlining government and investing in people’s well-being (skills, community, digital services) can each return on the order of a billion-plus annually over time.
+> **Directional takeaway:** Even before any dynamic growth effects, this reform package yields on the order of **£3–6 billion per year** in steady‑state *direct* savings or cost avoidances. The bulk comes from **housing reforms** – redirecting Housing Benefit into new social homes, cutting the £2.3 billion temporary accommodation bill, and preventing another £5 billion cladding‑type debacle – alongside **NHS savings** from healthier homes and diets. On top of that, streamlining government and investing in people’s well-being (skills, community, digital services) can each return on the order of a billion-plus annually over time.
 
 ---
 
@@ -112,3 +112,18 @@ The exact mix would be decided in a full Budget process. As each `budget/*-savin
 - **Governance chapter:** `../governance/democracy-and-reform.md`  
 
 *(These narrative chapters provide the logic and external references behind the savings estimates. As the `budget/` files grow, key supporting citations will be mirrored in those files as well.)*
+
+---
+
+## Sources for headline figures
+
+These are the primary sources for the main figures above. Other figures are sourced in the linked
+topic files, and remaining estimates are being verified through the ongoing budget-accuracy pass.
+
+- **Housing support (~£30bn/yr):** Housing Benefit and the Universal Credit housing element were
+  £28.97bn in 2022/23 (DWP / UK Parliament). https://questions-statements.parliament.uk/written-questions/detail/2024-03-04/16827
+- **Temporary accommodation (£2.3bn/yr, 2023/24):** Shelter analysis of MHCLG data. https://england.shelter.org.uk/media/press_release/homelessness_bill_doubles_in_five_years_to_2_3bn
+- **Poor housing cost to the NHS (~£1.4bn/yr):** BRE (2021), *The cost of poor housing in England*. https://bregroup.com/news/bre-report-finds-poor-housing-is-costing-nhs-1.4bn-a-year
+- **Loneliness (~£2.5bn/yr to employers):** British Red Cross.
+- **Tax-burden context (35.3% to 37.7% of GDP, highest since 1948):** Office for Budget Responsibility. https://obr.uk/box/the-uks-tax-burden-in-historical-and-international-context/
+- **NHS waiting list (~7.4m, October 2025):** NHS England, Referral to Treatment statistics. https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/
