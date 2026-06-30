@@ -30,7 +30,7 @@ unaffordable housing, a welfare system that manages crisis instead of preventing
 regions starved of investment, dangerous Channel crossings, an NHS under strain, and asks
 a single question of every proposal: **does it work, and does it build something better for
 the future?** Where the best answer comes from Vienna's housing, Portugal's drug policy,
-Germany's apprenticeships, or Estonia's digital state, we take it. The label it would wear
+Germany's apprenticeships, or Estonia's digital public services, we take it. The label it would wear
 in Westminster is irrelevant.
 
 ---
@@ -116,6 +116,8 @@ and recycle the revenue into treatment, recovery, social care, and end-of-life d
 ### 🎓 Education: skills for real jobs
 Match education to the jobs that exist (coding, engineering, green technology) on the
 German apprenticeship model, with strong second-chance routes back into learning and work.
+Replace upfront tuition fees with a fairer graduate contribution and rebalance funding toward
+technical and vocational routes, and guarantee public childcare so parents can work.
 → *[Education and skills](education/education-and-skills.md)* ·
 *[Childcare and families](education/childcare-and-families.md)*
 
@@ -155,10 +157,12 @@ digital state without a national digital ID.
 
 ## The numbers (indicative)
 
-These reforms are designed to **save more than they cost** by preventing failure rather
-than managing it. The headline ranges below are order-of-magnitude estimates; each is
-broken down and sourced in the budget chapter, and refining them is part of the
-consultation.
+This framework is honest about both sides of the ledger. It generates **savings**, and it
+makes **investments** those savings help fund. It is a reallocation of how Britain spends,
+not a free lunch.
+
+**On the savings side**, preventing failure rather than managing it yields around
+**£3–6bn a year** in indicative direct savings:
 
 | Area | Indicative annual saving | Source of saving |
 |---|---|---|
@@ -168,8 +172,18 @@ consultation.
 | Skills | £0.8–1.5bn | Fewer NEETs; higher productivity |
 | Government | £0.6–1.2bn | Merged agencies and digital transformation |
 
-**Indicative total: ~£3–6bn a year in direct savings**, before dynamic growth effects or
-any earmarked revenue from regulated vice taxation.
+**On the spending side**, several proposals are deliberate investment, not saving. The
+dementia and end-of-life care guarantee alone is a net cost of around **£5–7bn a year**
+(see [social care costings](budget/social-care-and-end-of-life-savings.md)), alongside
+nuclear, water, defence, childcare, and transport commitments still being costed.
+
+**On the revenue side**, regulated vice duties already raise about **£23.9bn a year**.
+Ring-fencing 10–15% of that into a Health and Care Betterment Fund would yield roughly
+**£2.4–3.6bn a year** for health and care, separate from the savings above.
+
+So the honest headline is **£3–6bn of savings plus ~£2.4–3.6bn of earmarked revenue,
+deliberately reinvested** into a larger programme of repair and renewal. Refining all of
+this is part of the consultation.
 → *[Full budget analysis](budget/summary-of-savings.md)*
 
 ---
@@ -180,8 +194,8 @@ Britain has done bold, structural reform before: the post-war settlement, counci
 housing, the founding of the NHS. It can do so again. What it takes is honesty about
 trade-offs and a willingness to learn from what demonstrably works elsewhere: Vienna's
 social housing, Canada's refugee sponsorship, Germany's skills training, Portugal's drug
-policy, Estonia's digital government. This Green Paper sets out how those lessons could
-work here.
+policy, and Estonia's digital public services. This Green Paper sets out how those lessons could
+work here, while rejecting the parts that do not fit, such as a national digital ID.
 
 ---
 
@@ -201,6 +215,29 @@ and assess contributions myself, and issues that capture a real topic stay open 
 build on. See [CONTRIBUTING.md](CONTRIBUTING.md) for how it works. You only need a free GitHub
 account to take part, and there is no digital ID. The thinking behind all this is set out in the
 [public participation chapter](governance/public-participation.md).
+
+---
+
+## TL;DR
+
+- **What this is:** a forward-thinking Green Paper for rebuilding Britain, judged by what works
+  rather than by left or right. Options for discussion, not a finished manifesto.
+- **The core idea:** secure the essentials first (housing, food, warmth, care, safety), cut
+  avoidable crisis spending, build productive capacity, and fund repair visibly.
+- **Signature moves:** council housing instead of landlord subsidy; direct-provision welfare;
+  points-based, skills-led migration with a two-way seasonal exchange; tax shifted off work and
+  onto wealth and property; a double-lock pension; nuclear plus renewables with affordable net
+  zero; water in public-interest ownership; a prevention-first NHS with drugs treated as health;
+  a second base for government in the North with deep devolution, Lords and voting reform; no
+  national digital ID; online safety led by parents and devices; and a listening state where the
+  public shapes policy between elections.
+- **The money:** around **£3–6bn a year** in indicative savings, plus about **£2.4–3.6bn** from
+  ring-fencing 10–15% of existing vice duties, deliberately reinvested into a larger programme
+  (including a roughly £5–7bn dementia and end-of-life care guarantee). A reallocation of how
+  Britain spends, not a free lunch.
+- **Have your say:** every chapter ends with open consultation questions. Share an idea or
+  challenge a figure through the issues. You only need a free GitHub account, and there is no
+  digital ID. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 

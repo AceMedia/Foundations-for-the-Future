@@ -52,7 +52,7 @@ state nearest to people becomes the one that visibly stops working.
   [constitution and devolution chapter](./constitution-and-devolution.md).
 - **The demand drivers are shared.** Adult social care, children's services, SEND, and
   homelessness are national pressures landing on local budgets. They cannot be fixed council
-  by council; they need the reforms in the [adult social care](../health/end-of-life-and-dementia-care.md)
+  by council; they need the reforms in the [adult social care](../health/adult-social-care.md)
   and [housing](../housing/housing-policy.md) chapters.
 
 ---

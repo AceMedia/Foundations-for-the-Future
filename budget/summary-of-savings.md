@@ -19,7 +19,7 @@ This file consolidates **headline, order‑of‑magnitude savings** implied by p
 | **Building safety failures** *(future liabilities)* | “Do it right first time”: non‑combustible materials; independent inspections; developer accountability | £5+ billion in cladding/remediation costs post-Grenfell            | **£0.3–£0.6 billion/yr** *(avoided)*       | See **[housing-savings.md](./housing-savings.md)** |
 | **Poor housing conditions → NHS costs** | Set minimum quality standards; retrofit insulation, ventilation, mould fixes | ~**£1.4 billion/yr** in health costs from cold, damp, unsafe homes     | **£0.3–£0.6 billion/yr**                   | See **[health-savings.md](./health-savings.md)** |
 | **Poor diet & obesity**               | Expand bulk healthy food programs; community nutrition initiatives          | Diet-related diseases (e.g. obesity, diabetes) cost the NHS **tens of £billions** annually | **£0.2–£0.4 billion/yr**                   | See **[health-savings.md](./health-savings.md)** |
-| **End-of-life care and dementia costs** | Dementia supplement, care cap, hospice-at-home, food/warmth/adaptations, support passport | Care home fees can exceed £60k/yr; dementia and end-of-life costs fall heavily on families and hospitals | **TBD** *(separate fairness package; possible avoided costs)* | See **[social-care-and-end-of-life-savings.md](./social-care-and-end-of-life-savings.md)** |
+| **End-of-life care and dementia costs** | Dementia supplement, care cap, hospice-at-home, food/warmth/adaptations, support passport | Care home fees can exceed £60k/yr; dementia and end-of-life costs fall heavily on families and hospitals | **Net cost ~£5–7bn/yr** *(deliberate investment; funded by vice earmark + offsets)* | See **[social-care-and-end-of-life-savings.md](./social-care-and-end-of-life-savings.md)** |
 | **Welfare admin & crisis churn**       | Simplify benefits; end sanction cycles; guarantee housing/food/utilities    | DWP admin & tribunals overhead; council emergency support costs for homelessness/food crises | **£0.2–£0.5 billion/yr**                   | See **[welfare-savings.md](./welfare-savings.md)** |
 | **Loneliness & social isolation**      | Fund well‑being activities; design communities for connection               | ~**£2.5 billion/yr** in lost economic productivity from loneliness (plus mental health impacts) | **£0.2–£0.4 billion/yr** *(economy‑wide)*  | See **[welfare-savings.md](./welfare-savings.md)** |
 | **Skills gap & NEET youth**           | Invest in lifelong skills and apprenticeships; early support to reduce NEETs | Lost tax revenue from low skills; welfare costs for ~800k NEET youths             | **£0.8–£1.5 billion/yr** *(direct + dynamic)* | See **[education-and-skills-savings.md](./education-and-skills-savings.md)** |
@@ -28,6 +28,18 @@ This file consolidates **headline, order‑of‑magnitude savings** implied by p
 | **Planning delays & housing under‑supply** | Speed up planning; enable mid‑rise development where appropriate            | Lost economic output from housing shortfall (*e.g.* 70k delayed homes ≈ **£1.9 billion/yr** GVA lost | **TBD** *(likely multi‑£billion/yr)*       | See housing/economy chapters                 |
 
 > **Directional takeaway:** Even before any dynamic growth effects, this reform package yields on the order of **£3–6 billion per year** in steady‑state *direct* savings or cost avoidances. The bulk comes from **housing reforms** – redirecting Housing Benefit into new social homes, cutting the £2.3 billion temporary accommodation bill, and preventing another £5 billion cladding‑type debacle – alongside **NHS savings** from healthier homes and diets. On top of that, streamlining government and investing in people’s well-being (skills, community, digital services) can each return on the order of a billion-plus annually over time.
+
+---
+
+## The net position: savings, spending, and earmarked revenue
+
+This framework is not a pure savings exercise, and the table above is only one side of the ledger. To be honest about the whole picture:
+
+- **Savings:** around **£3–6bn/yr** in steady-state direct savings (the table above).
+- **Deliberate new spending:** the dementia and end-of-life care guarantee is a **net cost of about £5.2–7.4bn/yr** (see [social-care-and-end-of-life-savings.md](./social-care-and-end-of-life-savings.md)). Other commitments (new nuclear, water in public ownership, defence capability, direct-provision welfare, public childcare, transport) are real costs still being modelled.
+- **Earmarked revenue:** regulated vice duties raise about **£23.9bn/yr**; ring-fencing 10–15% yields roughly **£2.4–3.6bn/yr** for health and care (see [health-and-care-betterment-revenue.md](./health-and-care-betterment-revenue.md)), separate from the savings.
+
+So the framework reallocates how Britain spends: savings and earmarked revenue help fund a larger programme of repair and renewal. It should not be read as self-funding overall, and building a **consolidated cost side** is the next priority for the budget work.
 
 ---
 
@@ -63,7 +75,7 @@ For medical products such as prescribed cannabis, the tax system should be clear
 
 The same logic applies to older people's care. A visible share of betterment receipts could help fund a dedicated **Older People's Dignity Fund**, reducing dementia premiums and catastrophic care costs without folding the policy into opaque general spending.
 
-> **Budget treatment:** until legal design and tax rates are specified, these revenues are best shown as **TBD earmarked receipts**, not counted inside the core **£3–6 billion** annual savings range above.
+> **Budget treatment:** the existing duty base is about £23.9bn/yr, so a 5–20% earmark yields roughly £1.2–4.8bn/yr (about £2.4–3.6bn at 10–15%); see [health-and-care-betterment-revenue.md](./health-and-care-betterment-revenue.md). These are **earmarked receipts**, shown separately and NOT counted inside the core £3–6 billion savings range above.
 
 See the detailed policy outline in **[vice-taxation-and-betterment.md](../health/vice-taxation-and-betterment.md)**.
 See the detailed revenue appendix in **[health-and-care-betterment-revenue.md](./health-and-care-betterment-revenue.md)**.

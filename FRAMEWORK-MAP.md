@@ -61,6 +61,7 @@ This file maps the current documents, shows the strongest cross-links, and sugge
 | Skills savings | [budget/education-and-skills-savings.md](./budget/education-and-skills-savings.md) | Skills uplift, NEET reduction, prison leaver employment | Education, economy, justice |
 | Justice savings | [budget/justice-savings.md](./budget/justice-savings.md) | Prison work pathways, wage levies, reoffending, custody days avoided, employment outcomes | Justice, education, food, end-of-life care |
 | Governance savings | [budget/governance-and-admin-savings.md](./budget/governance-and-admin-savings.md) | Digital government, agency simplification, procurement | Governance, food procurement |
+| Immigration & asylum savings | [budget/immigration-savings.md](./budget/immigration-savings.md) | Asylum-hotel and backlog costs, processing savings, upstream reinvestment | Immigration, defence, courts |
 | International comparisons | [budget/international-comparisons.md](./budget/international-comparisons.md) | Evidence from other countries | Housing, welfare, health, vice, governance |
 
 ---
@@ -117,10 +118,10 @@ A strong, fast-growing Greater Manchester can spread prosperity across the North
 
 - [economy/entrepreneurship-and-renewal.md](./economy/entrepreneurship-and-renewal.md) (Manchester as the proven regional anchor)
 - [governance/constitution-and-devolution.md](./governance/constitution-and-devolution.md) (a permanent second base for Parliament and government in the North)
-- a future transport chapter (east-west links so the powerhouse reaches the whole North, not just Manchester)
+- [transport/transport.md](./transport/transport.md) (east-west links so the powerhouse reaches the whole North, not just Manchester)
 - local government and devolution (the Greater Manchester devolution model as the template)
 
-Next improvement: write the transport chapter, settle how far the second-base idea should go (see the governance options), and develop a regional-rebalancing thread tying economy, governance, transport, and local government together.
+Next improvement: settle how far the second-base idea should go (see the governance options), and add a tax ↔ local government ↔ pensions ↔ housing loop for property-tax and council-funding reform, now that those chapters exist.
 
 ### Immigration -> Defence/Aid -> Seasonal Work -> Food Security
 
@@ -131,7 +132,7 @@ Migration policy works better when it combines faster decisions, legal routes, u
 - [defence/defence-and-aid-resilience.md](./defence/defence-and-aid-resilience.md)
 - [welfare/bulk-food-procurement.md](./welfare/bulk-food-procurement.md)
 
-Next improvement: add a budget file for immigration and asylum savings, including hotels, casework, legal aid, removals, and upstream reinvestment.
+Next improvement: refine [budget/immigration-savings.md](./budget/immigration-savings.md) with per-case modelling and netting of the expansion costs.
 
 ---
 
