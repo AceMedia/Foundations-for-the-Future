@@ -9,11 +9,11 @@ rather than migrants; and expanded legal work routes. It backs the proposals in
 
 ## Key mechanisms
 
-- **End asylum-hotel reliance** — faster decisions move people out of expensive accommodation
+- **End asylum-hotel reliance.** Faster decisions move people out of expensive accommodation
   and into either settled status or removal.
-- **Clear the backlog** — cut the per-case cost of years in limbo.
-- **Target smugglers, not migrants** — reduce repeat removals, detention, and enforcement churn.
-- **Expanded legal work routes** — tax and National Insurance from legal work, and less grey
+- **Clear the backlog.** Cut the per-case cost of years in limbo.
+- **Target smugglers, not migrants.** Reduce repeat removals, detention, and enforcement churn.
+- **Expanded legal work routes.** Tax and National Insurance from legal work, and less grey
   economy.
 
 ---
