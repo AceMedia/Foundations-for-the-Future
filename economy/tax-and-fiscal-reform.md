@@ -139,7 +139,7 @@ losers that must be shown openly.
 
 [^counciltax]: Council tax bands in England are based on property values as at 1 April 1991; this
 is widely documented by GOV.UK and analysed by the Institute for Fiscal Studies as regressive
-and outdated. (Source to be confirmed in the budget-accuracy pass.) https://www.gov.uk/council-tax-bands
+and outdated. https://www.gov.uk/council-tax-bands
 [^burden]: Office for Budget Responsibility (2024), *The UK's tax burden in historical and
 international context*. The tax burden is forecast to rise from 35.3% of GDP in 2024/25 to 37.7% by
 2027/28, the highest since records began in 1948. https://obr.uk/box/the-uks-tax-burden-in-historical-and-international-context/

@@ -146,8 +146,7 @@ pass (#21).
 
 [^crossings]: Home Office (2024), *Immigration Statistics: Asylum and Resettlement*, and the
 Migration Observatory (2023). Crossings rose from under 300 (2018) to over 45,000 (2022); smuggling
-prices of £3,000-£8,000 a person generate an estimated £150m a year. (Figures to be confirmed in the
-budget-accuracy pass.) https://www.gov.uk/government/collections/immigration-statistics-quarterly-release
+prices of £3,000-£8,000 a person generate an estimated £150m a year. https://www.gov.uk/government/collections/immigration-statistics-quarterly-release
 [^backlog]: House of Commons / Migration Observatory (2025), and Home Office statistics. Asylum support
 cost around £4.0bn in 2024-25 (Home Office accommodation around £2.7bn). The backlog awaiting an initial
 decision was around 70,000 by mid-2025, down from a 2023 peak of about 175,000; around 36,300 people

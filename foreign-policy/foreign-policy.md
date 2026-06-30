@@ -122,4 +122,4 @@ defence, and diplomacy belong in the budget-accuracy pass (#21).
 
 [^aid]: UK official development assistance was reduced from 0.7% to 0.5% of gross national income,
 and the Department for International Development was merged into the Foreign, Commonwealth and
-Development Office. (Details to be confirmed in the budget-accuracy pass.) https://www.gov.uk/government/organisations/foreign-commonwealth-development-office
+Development Office. https://www.gov.uk/government/organisations/foreign-commonwealth-development-office
