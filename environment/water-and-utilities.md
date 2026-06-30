@@ -20,14 +20,21 @@
 Water is a natural monopoly and a basic essential. You cannot shop around for a different set of
 pipes, which makes how it is owned and regulated a public question, not just a commercial one.
 
-**Sewage in the rivers.** Spills of raw sewage into rivers and seas have become a national
-scandal, a daily sign that the system is not delivering the basics.
+**Sewage in the rivers.** Spills of raw sewage into rivers and seas have become a national scandal,
+with over 464,000 spills recorded in 2023 alone, a daily sign that the system is not delivering the
+basics.[^water]
 
-**Money out, investment short.** Since privatisation, water companies have paid large dividends
-and taken on heavy debt, while investment in pipes and treatment has lagged what is needed.[^water]
+**Money out, investment short.** Since privatisation, England's water companies have paid out tens of
+billions in dividends (around £53bn in statutory dividends, and more on wider measures) and run up
+around £60bn of net debt, while investment in pipes and treatment lagged and executives drew large
+bonuses.[^water]
 
 **Bills with no choice.** Customers pay rising bills to a monopoly they cannot leave, and then
 watch it pollute. That is corrosive to trust in the whole model.
+
+**Supply is not secure either.** No major new reservoir has been completed in England since the early
+1990s, even as the population has grown and droughts have become more frequent, so the system is
+exposed on supply as well as on sewage.
 
 **The do-nothing baseline.** Leave this and the spills continue, the investment gap grows, debt
 piles up, and the public concludes, fairly, that a private monopoly is extracting value while the
@@ -40,6 +47,11 @@ environment and bill-payers lose.
 - **Public and non-profit water works elsewhere.** Many countries, and Welsh Water's not-for-profit
   model at home, run water for service and reinvestment rather than shareholder return.
   *Transferable* as evidence that water does not need private equity owners to function.
+- **Scottish Water shows public ownership delivers.** Scotland's publicly owned water invested around
+  35% more per household than the English companies over 2002-2018 while charging lower bills, and its
+  financing costs are about 8% of revenue against roughly 35% in England and Wales.[^scotland]
+  *Directly transferable* as a UK example that public ownership lowers the cost of capital and raises
+  investment.
 - **Regulation alone has not fixed it.** Years of fines and targets have not stopped the spills,
   which suggests the ownership model, not just the rulebook, is the problem. *Relevant* to choosing
   the lead option below.
@@ -67,7 +79,9 @@ patchier to set up. *A possible route into the lead option.*
 ## The proposals (under the lead option)
 
 1. **Bring water into public-interest ownership.** Move water companies to public or non-profit
-   ownership, at fair value and without rewarding failure, run for service and the environment.
+   ownership at fair value, without rewarding failure or the excess debt loaded on by previous owners;
+   where a company is already failing, do it through special administration rather than overpaying
+   shareholders. Run it for service and the environment.
 2. **Reinvest, do not extract.** Profits go back into pipes, treatment, and cleaner rivers rather
    than out to shareholders, lowering the cost of capital over time.
 3. **End the sewage scandal.** Set hard duties to cut spills, with transparent real-time
@@ -75,7 +89,10 @@ patchier to set up. *A possible route into the lead option.*
 4. **Honest bills.** Fund the investment backlog fairly over time, with clear protection for
    low-income customers, and show people what their bills are buying.
 5. **Join up with the environment.** Run water alongside flood management and river health, in step
-   with the future environment and farming chapter.
+   with [environment and farming](./environment-and-farming.md).
+6. **Secure supply, not just clean rivers.** Build the reservoirs and resilience the country has gone
+   decades without, and cut leakage, so supply keeps pace with a growing population and more frequent
+   droughts.
 
 ---
 
@@ -118,6 +135,9 @@ the budget files.
 
 ## References
 
-[^water]: The level of dividends and debt at England's water companies since privatisation, set
-against investment and sewage-spill records, has been documented by Ofwat and the Environment
-Agency. (indicative) https://www.ofwat.gov.uk/
+[^water]: Ofwat, parliamentary records, and the Environment Agency. England's water companies paid
+around £53bn in statutory dividends since 1992/93 (more on wider measures), carry around £60bn of net
+debt, and recorded over 464,000 sewage spills in 2023. https://www.ofwat.gov.uk/
+[^scotland]: PSIRU, University of Greenwich (2025), *Leaking money*. Publicly owned Scottish Water
+invested around 35% more per household than the English companies over 2002-2018 while charging lower
+bills, with financing costs about 8% of revenue against roughly 35% in England and Wales. https://blogs.gre.ac.uk/psiru/2025/03/25/leaking-money-the-finance-costs-of-privatised-water-and-regulation-in-england-and-wales-scottish-public-ownership-shows-potential-savings-by-david-hall-and-conor-gray/

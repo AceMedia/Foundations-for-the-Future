@@ -18,7 +18,9 @@
 
 ## The problem
 
-The City is one of Britain's genuine strengths, yet the wider economy gets too little from it.
+The City is one of Britain's genuine strengths, a sector that contributed around £110 billion in tax
+in 2023 (about an eighth of all UK tax receipts) and employs roughly 2.5 million people.[^city] Yet the
+wider economy gets too little from it, and the City's own position is slipping.
 
 **Capital goes to the wrong places.** Too much investment flows into property and overseas assets
 rather than into British firms and infrastructure, as the
@@ -26,6 +28,11 @@ rather than into British firms and infrastructure, as the
 
 **Scale-up finance is thin.** Promising firms struggle to raise the growth capital that would let
 them stay and scale here, so they sell early or move abroad.
+
+**The City is losing ground since Brexit.** In 2024 a record 88 companies left the London market or
+moved their main listing, against just 18 new flotations, the fewest in over a decade, with names like
+Flutter, Just Eat, and Ashtead heading to New York for deeper capital.[^listings] The loss of EU
+market access, the end of passporting and equivalence, has compounded the drift.
 
 **Stability and consumers still need protecting.** The lessons of 2008 must not be forgotten, and
 consumers need protection from poor products and scams.
@@ -75,6 +82,12 @@ turns a financial strength into real-economy investment, with stability and prot
    the system.
 5. **Spread the benefit.** Direct more finance and financial-sector jobs beyond London, tied to the
    regional argument in the [economy chapter](./entrepreneurship-and-renewal.md).
+6. **Revive the London market.** Make London a place companies want to list and stay: domestic pension
+   and insurance capital investing in UK equities, sensible listing rules, and a settled relationship
+   with the EU on financial-services access rather than the current drift.[^listings]
+7. **Back fintech.** Britain's fintech sector drew around £8 billion of investment in 2024, nearly half
+   of all such funding across Europe, the Middle East, and Africa; back it with smart regulation (open
+   banking, and a digital pound explored carefully) so this genuine strength keeps growing.[^fintech]
 
 ---
 
@@ -113,3 +126,18 @@ belong in the budget files.
 2. What would most improve scale-up finance for British firms?
 3. How do we keep stability while staying competitive?
 4. How do we spread financial-sector activity beyond London?
+5. How do we make London an attractive place to list again without a race to the bottom on standards?
+6. What relationship with the EU on financial-services access would most help the City?
+
+---
+
+## References
+
+[^city]: TheCityUK (2024), *Key facts about UK-based financial and related professional services*. The
+sector contributed around £110bn in tax in 2023 (about 12% of UK tax receipts), roughly £208bn of GVA,
+and employs about 2.5 million people. https://www.thecityuk.com/
+[^listings]: EY / London Stock Exchange data (2025). In 2024, 88 companies delisted or transferred
+their main listing from the London market (the most since 2009), against 18 new flotations (the fewest
+since 2010), with Flutter, Just Eat, and Ashtead among those moving to New York. https://www.rte.ie/news/business/2025/0106/1489304-london-stock-exchange-companies-exit/
+[^fintech]: Innovate Finance / industry data (2024). UK fintech attracted around £8bn ($9.9bn) of
+investment in 2024, nearly half of all fintech funding across Europe, the Middle East, and Africa. https://www.tenity.com/articles/uk-fintech/
