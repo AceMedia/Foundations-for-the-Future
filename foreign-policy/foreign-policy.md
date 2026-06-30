@@ -28,6 +28,11 @@ and our influence diminished, without a clear account of what the money is now f
 **Our role is undefined.** Since leaving the EU, Britain's place in the world is still being worked
 out, between Atlantic alliance, European neighbourhood, and global reach.
 
+**No clear posture on the big questions.** Britain has no settled position on the relationships that
+will define the century, above all China (a major trade partner, a systemic competitor, and a security
+concern at once), the US alliance, the European neighbourhood, and the Indo-Pacific. Drift is not a
+strategy.
+
 **Everything is siloed.** Foreign policy, defence, trade, and migration are run separately, so we
 react to events rather than shaping them, and miss the chances to act upstream that the
 [defence and resilience](../defence/defence-and-aid-resilience.md) and
@@ -76,8 +81,14 @@ migration. *Pros:* spending follows impact and strategy, and joins up the levers
    [defence and resilience](../defence/defence-and-aid-resilience.md).
 4. **Work through alliances.** Anchor strategy in NATO and close partnerships, and rebuild soft
    power through culture, education, and example.
-5. **Be honest about results.** Publish what aid achieves, so results-based does not become a cover
-   for simply spending less.
+5. **Be honest about results.** Judge aid through independent evaluation against published outcomes,
+   with a standing evaluator, so results-based is a genuine test rather than a slogan or a cover for
+   cuts.
+6. **A clear posture on China and the great-power balance.** Treat China honestly as at once a major
+   trade partner, a systemic competitor, and a security concern: cooperate where it pays (trade,
+   climate), compete where we must, and protect critical infrastructure and supply chains. Anchor the
+   US alliance and a working European relationship (see [trade and the EU](../economy/trade-and-eu.md))
+   alongside it.
 
 ---
 
@@ -115,6 +126,7 @@ defence, and diplomacy belong in the budget files.
 2. How do we join up foreign policy, defence, trade, and migration in practice?
 3. Where should upstream prevention be concentrated?
 4. How do we rebuild soft power most effectively?
+5. What should Britain's posture be toward China and the great-power balance?
 
 ---
 

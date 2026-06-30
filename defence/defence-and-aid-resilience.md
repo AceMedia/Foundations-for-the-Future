@@ -23,17 +23,19 @@ sentimental afterthought. Both are part of national resilience: whether Britain 
 support allies, move quickly in emergencies, stabilise fragile situations, and avoid far larger
 costs once disorder reaches our borders.
 
-**Capability has been hollowed out.** Underinvestment shows up in familiar forms: armed forces
-asked to do more with less, thin logistics and stockpile depth, overreliance on private contractors
-and fragile international supply, and slow emergency mobilisation.
+**Capability has been hollowed out.** The regular Army has fallen to around 66,000 trained soldiers,
+the smallest since 1799, with recruitment and retention in crisis, alongside thin logistics and
+stockpile depth, overreliance on private contractors and fragile supply, and slow mobilisation.
+Spending sits at about 2.3% of GDP, with a commitment to reach 2.5% by 2027.[^army][^spending]
 
 **We pay downstream instead of upstream.** Britain spends large sums on the downstream consequences
 of failure, from asylum accommodation to repeat enforcement and last-minute crisis response, with
 little long-term strategic return.
 
-**The world is harder.** Sharper geopolitical competition, weaker supply chains, more frequent
-climate-linked emergencies, and conflict-driven migration all make the old habit of managing
-instability cheaply and at the last minute untenable.
+**The threats are real and specific.** A revanchist Russia, a more assertive China, sub-threshold and
+cyber attacks below the line of open war, fragile supply chains, and climate-linked emergencies all
+make managing instability cheaply and at the last minute untenable. Capability must be derived from
+this threat picture, not from a headline number.
 
 **The do-nothing baseline.** Leave this and Britain stays exposed and improvises after every crisis,
 which is the most expensive way to operate. It is cheaper to hold usable capacity before a crisis
@@ -75,8 +77,10 @@ better. *Pros:* no extra cost. *Cons:* unlikely to close the capability gaps the
 ## The proposals (under the lead option)
 
 1. **Plan by capability, not by slogan.** Set a clear multi-year investment plan driven by the
-   capabilities Britain actually needs, and keep the nuclear deterrent as the ultimate guarantee of
-   national security.
+   capabilities Britain actually needs, derived from an honest threat assessment, and keep the nuclear
+   deterrent (the Dreadnought submarine programme, costing around £31bn plus contingency) as the
+   ultimate guarantee of national security; it is held to a different test because its value is
+   strategic insurance, not day-to-day use.
 2. **Logistics and lift.** Strengthen airlift, sealift, transport coordination, and protected supply,
    without which both military and humanitarian operations are slow and dependent on others.
 3. **Engineering and field medicine.** Expand military and civilian engineering (bridges, temporary
@@ -96,6 +100,9 @@ better. *Pros:* no extra cost. *Cons:* unlikely to close the capability gaps the
 8. **Civil resilience.** Build better civil contingency planning, flood and extreme-weather response,
    reserve logistics, and clear command structures, so the state can move to an emergency footing
    quickly.
+9. **Fix recruitment and retention.** Rebuild the armed forces' people, the most acute current gap:
+   reform recruitment, improve pay, housing, and family life, and value the reserves, since capability
+   on paper is worthless without the people to deliver it.
 
 ---
 
@@ -138,3 +145,15 @@ the whole case for it. The figures belong in the budget files.
 2. Which capability gaps should be closed first?
 3. How do we make defence procurement rebuild domestic industry and regions?
 4. What standing structures would best join up military, aid, and civil resilience?
+5. How do we fix armed-forces recruitment and retention?
+
+---
+
+## References
+
+[^army]: Ministry of Defence statistics; Full Fact (2025). The trained regular Army stood at around
+66,000 in late 2025, the smallest since 1799 and, relative to population, smaller than at any point
+since 1800, amid a recruitment and retention crisis. https://fullfact.org/news/size-of-armed-forces-pre-election-briefing/
+[^spending]: House of Commons Library; Institute for Government (2025). UK defence spending is around
+2.3% of GDP, with a commitment to reach 2.5% (NATO definition) by 2027, costing roughly £13.4bn more a
+year. https://commonslibrary.parliament.uk/research-briefings/cbp-8175/
