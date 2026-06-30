@@ -428,12 +428,30 @@ costs. *Cons:* needs a serious funding settlement. **Recommended.**
 
 ---
 
+## Assisted dying
+
+Assisted dying is the hardest question at the end of life, and a genuine matter of conscience on
+which people of good faith disagree. This framework does not impose an answer. It should be settled
+the way Ireland settled its most contested social questions: through a **citizens' assembly** of
+randomly selected people who hear the medical, legal, and ethical evidence and the testimony of those
+affected, followed by a free vote in Parliament and, if needed, a referendum (see
+[public participation](../governance/public-participation.md)).
+
+Two things hold whatever is decided. First, no one should ever feel pressure to choose death because
+care, pain relief, or support was lacking; making that impossible is the whole point of the dignity
+guarantee above. Second, any change would need strict safeguards against coercion. The job of this
+chapter is to make palliative and end-of-life care so good that the choice, however it is settled, is
+never made out of neglect.
+
+---
+
 ## Consultation questions
 
 1. What savings-protection floor and care cap are fair and affordable?
 2. How should the dementia premium be defined and funded?
 3. How do we shift end-of-life care from hospital to home where people prefer it?
 4. How should a dignity allowance work alongside the betterment fund?
+5. How should the question of assisted dying be decided, and what safeguards would be essential?
 
 ---
 

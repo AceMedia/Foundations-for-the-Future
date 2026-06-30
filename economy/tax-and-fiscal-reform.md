@@ -88,6 +88,13 @@ creates winners and losers and must be phased carefully. **Recommended.**
 5. **Simplify.** Strip out reliefs and complexity that mostly benefit those who can afford
    advisers, making the whole system easier to understand and harder to game.
 
+**A deliberate choice on wealth taxes.** The shift onto wealth here runs through the proportional
+property tax and capital-gains alignment, not through an annual wealth tax or new inheritance taxes.
+A standing wealth tax is hard to value and administer, tends to drive capital and people abroad for a
+modest yield, and most countries that tried one have since abandoned it. Taxing property where it sits
+and treating gains like income achieves the same rebalancing more cleanly, and inheritance tax is left
+broadly as it is rather than expanded.
+
 This is about fairness and a system that supports work, not about raising the overall take.
 
 ---

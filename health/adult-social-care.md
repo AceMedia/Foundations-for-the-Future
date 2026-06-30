@@ -62,18 +62,20 @@ proposals lack the system around them to work.
 limits catastrophic costs. *Cons:* leaves the funding and workforce problems unresolved.
 
 **Option 3: Settle funding, fix the workforce, integrate *(lead option)*.** A sustainable funding
-settlement that shares the cost fairly, a properly paid and trained workforce, and genuine NHS
-integration. *Pros:* dignified care, fewer delayed discharges, a stable workforce, and an end to
+settlement (a hybrid of a dedicated care contribution and general taxation, with a cap), a properly
+paid and trained workforce, and genuine NHS integration. *Pros:* dignified care, fewer delayed discharges, a stable workforce, and an end to
 catastrophic costs. *Cons:* needs a serious funding decision and reform. **Recommended.**
 
 ---
 
 ## The proposals (under the lead option)
 
-1. **Settle the funding fairly.** Put adult social care on a sustainable footing that shares the
-   cost across society rather than leaving individuals exposed, with a cap so no one loses
-   everything, building on the [end-of-life and dementia](./end-of-life-and-dementia-care.md)
-   proposals and the care cap.
+1. **Settle the funding through a hybrid model.** Put adult social care on a sustainable footing with
+   a **modest dedicated care contribution that everyone pays into, topped up from general taxation,
+   and a lifetime cap** so no one loses everything. This shares the cost across society and across
+   generations rather than leaving individuals exposed, draws on the German and Japanese care-insurance
+   models (see [international comparisons](../budget/international-comparisons.md)), and builds on the
+   [end-of-life and dementia](./end-of-life-and-dementia-care.md) proposals and the care cap.
 2. **Value the workforce.** Pay care workers properly, with training and a career path, so
    providers can recruit and retain staff. This connects to the care-workforce skills in
    [education](../education/education-and-skills.md).

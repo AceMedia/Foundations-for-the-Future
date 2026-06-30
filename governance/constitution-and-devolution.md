@@ -95,10 +95,12 @@ revises legislation and holds government to account, without challenging the pri
 Commons. Patronage appointments end; size falls to something defensible.
 
 ### 2. A fairer voting system
-Put the voting system to the public. The 2024 result showed first past the post straining
-against a multi-party reality.[^election-2024] The aim is a more proportional system that
-keeps a constituency link, so seats better reflect votes and fewer people feel their vote is
-wasted.
+The 2024 result showed first past the post straining against a multi-party reality.[^election-2024]
+Rather than impose a particular system from the top, set the criteria, a more proportional result
+that keeps a strong constituency link, and let a **citizens' assembly** weigh the main options, such
+as the Single Transferable Vote and the Additional Member System, before the choice goes to a
+referendum. This is exactly the kind of contested, long-term question that deliberation handles well
+(see [public participation](./public-participation.md)).
 
 ### 3. Deep devolution across England
 Extend the Greater Manchester model to every part of England that wants it: real powers and
