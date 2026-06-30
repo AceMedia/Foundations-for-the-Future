@@ -31,7 +31,34 @@ Betterment Fund yields roughly **£2.4–3.6bn a year** for health and care (see
 [health-and-care-betterment-revenue.md](./health-and-care-betterment-revenue.md)). This is hypothecated
 to care, not general spending, and sits outside the savings above.
 
-## 3. New spending (the cost side)
+## 3. Potential procurement savings (indicative, not banked)
+
+Beyond the headline savings, the framework's shift to **bulk and local procurement** could free further
+money that can be applied toward the spending below. These are shown as **potential, not fact**: they
+depend on delivery and on the savings being genuinely cashable, and they are not counted in the core
+£3–6bn range.
+
+- **Bulk food procurement:** roughly **£0.5–0.7bn a year** once extended to households, from buying at
+  institutional rather than retail prices and cutting waste (see
+  [bulk food procurement](../welfare/bulk-food-procurement.md) and [welfare savings](./welfare-savings.md)).
+- **Government and local procurement consolidation:** combining the fragmented buying of central
+  departments, the NHS, councils, and combined authorities into shared frameworks and bulk contracts
+  could save a further **£0.1–0.3bn+ a year** (see
+  [governance and admin savings](./governance-and-admin-savings.md)).
+- **Defence and resilience procurement:** directing this spending toward domestic industry retains
+  value and jobs in Britain rather than leaking abroad (a value-retention gain rather than a cash
+  saving).
+- **Local procurement multipliers:** placing public contracts with local suppliers (food, retrofit,
+  care, logistics) keeps more money circulating in the regions, supporting the wider economic and
+  regional-renewal aims.
+
+Applied as potential offsets, procurement savings of the order of **£0.6–1bn+ a year** could be directed
+toward the spending commitments below, narrowing the gap, but only if the systems are built and the
+savings are real. They are potential, not promised.
+
+---
+
+## 4. New spending (the cost side)
 
 These are deliberate commitments. Figures are indicative and several overlap.
 
@@ -47,10 +74,10 @@ These are deliberate commitments. Figures are indicative and several overlap.
 | Housing build-out | Capital, phased | Large, phased | Funded by redirecting the *growth* in housing support; builds a public asset |
 | Transport, mental health, courts, policing | Recurring + capital | Multi-£bn | Each modelled in its chapter and budget file |
 
-## 4. The honest net position
+## 5. The honest net position
 
-Put together, the **savings (~£3–6bn) and earmarked revenue (~£2.4–3.6bn) do not cover the full
-spending programme**. The dementia and care guarantee alone (~£5–7bn) absorbs most of them. The rest,
+Put together, the **savings (~£3–6bn), the earmarked revenue (~£2.4–3.6bn), and the potential
+procurement savings (~£0.6–1bn if delivered) still do not cover the full spending programme**. The dementia and care guarantee alone (~£5–7bn) absorbs most of them. The rest,
 defence, the NHS front line, direct provision, and the capital programmes, requires a mix of:
 
 - **prioritisation and phasing**, since not everything happens at once (the delivery sequence is in
