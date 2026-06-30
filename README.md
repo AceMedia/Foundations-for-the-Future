@@ -66,7 +66,8 @@ covered essentials, and well-being budgets for dignity and growth. Finland and o
 prevention costs less than crisis.
 → *[Welfare and well-being reform](welfare/welfare-and-wellbeing-reform.md)* ·
 *[Bulk food procurement](welfare/bulk-food-procurement.md)* ·
-*[Pensions and ageing](welfare/pensions-and-ageing.md)*
+*[Pensions and ageing](welfare/pensions-and-ageing.md)* ·
+*[Disability policy and benefits](welfare/disability-policy.md)*
 
 ### 🚢 Immigration: legal routes, fast decisions, smart enforcement
 Expand safe legal routes, decide asylum claims in months not years, target smuggling
@@ -89,7 +90,9 @@ results-based aid focused on preventing crises upstream.
 Give low-risk offenders structured public-service work, qualifications, and a real route
 into employment on release, in food production, care, retrofit, logistics, and community
 repair, with strict safeguards and incentives tied to compliance.
-→ *[Rehabilitation through public service](justice/rehabilitation-through-public-service.md)*
+→ *[Rehabilitation through public service](justice/rehabilitation-through-public-service.md)* ·
+*[Policing and crime](justice/policing-and-crime.md)* ·
+*[Courts and the legal system](justice/courts-and-legal-system.md)*
 
 ### 🏭 Economy: entrepreneurs everywhere, not just London
 Spread prosperity beyond the capital with regional venture funds, infrastructure
@@ -97,7 +100,8 @@ investment, incentives for risk-taking, and green enterprise. Shift tax off work
 wealth and property, and get closer to the EU market without rejoining.
 → *[Economic renewal](economy/entrepreneurship-and-renewal.md)* ·
 *[Tax and fiscal reform](economy/tax-and-fiscal-reform.md)* ·
-*[Trade and the EU](economy/trade-and-eu.md)*
+*[Trade and the EU](economy/trade-and-eu.md)* ·
+*[Financial services](economy/financial-services.md)*
 
 ### 🩺 Health: prevention, not just treatment
 Treat drugs as a health issue, expand bulk healthy-food provision, and focus NHS resources
@@ -112,7 +116,8 @@ and recycle the revenue into treatment, recovery, social care, and end-of-life d
 ### 🎓 Education: skills for real jobs
 Match education to the jobs that exist (coding, engineering, green technology) on the
 German apprenticeship model, with strong second-chance routes back into learning and work.
-→ *[Education and skills](education/education-and-skills.md)*
+→ *[Education and skills](education/education-and-skills.md)* ·
+*[Childcare and families](education/childcare-and-families.md)*
 
 ### 🚆 Transport: reliable journeys, a connected North
 Fix the local-roads backlog, bring buses back under local control on the Manchester model,
@@ -123,12 +128,18 @@ and build east-west rail so the North works as one economy rather than separate 
 Back new nuclear and renewables for affordable, secure energy and keep net zero on track, and
 bring water into public-interest ownership to end the sewage scandal.
 → *[Energy security and net zero](energy/energy-and-net-zero.md)* ·
-*[Water and utilities](environment/water-and-utilities.md)*
+*[Water and utilities](environment/water-and-utilities.md)* ·
+*[Environment and farming](environment/environment-and-farming.md)*
 
 ### 🎭 Culture, media and sport: a modern settlement
 Move public broadcasting toward subscription with a protected public-service core, sustain
 arts and grassroots sport, and regulate gambling for harm.
 → *[Culture, media and sport](culture/culture-media-sport.md)*
+
+### 🔬 Science and technology: invent here, build here
+Back research and scale-up so firms stay in Britain, regulate AI pro-innovation with targeted
+guardrails and no digital ID, finish connectivity, and strengthen cyber resilience.
+→ *[Science, technology and AI](technology/science-technology-and-ai.md)*
 
 ### 🗳️ Governance and the constitution: local power, fair votes, a listening state
 Move power out of Westminster, reform the Lords and the voting system, build a second base
