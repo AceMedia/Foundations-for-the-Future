@@ -1,0 +1,29 @@
+name: Challenge a figure or add a source
+description: Help keep the evidence accurate and honest
+title: "[Source]: "
+labels: ["source"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every figure in this framework should stand up to scrutiny. If something looks wrong, out
+        of date, or unsourced, flag it here.
+  - type: input
+    id: location
+    attributes:
+      label: Where is it?
+      description: Which chapter and, if you can, which figure or sentence.
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What is the problem?
+      description: Is the figure wrong, dated, or missing a source?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: A better source (if you have one)
+      description: A link to a primary source is ideal, for example ONS, the Treasury, or a select committee.

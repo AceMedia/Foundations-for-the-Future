@@ -1,0 +1,35 @@
+name: Feedback on a proposal
+description: Support, challenge, or refine an existing chapter
+title: "[Feedback]: "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell me what you think of a proposal. Agreeing, disagreeing, and everything in between is
+        welcome. The aim is to work out what actually works.
+  - type: input
+    id: chapter
+    attributes:
+      label: Which chapter or proposal?
+      description: Name the chapter or paste a link to it.
+    validations:
+      required: true
+  - type: dropdown
+    id: stance
+    attributes:
+      label: Your overall view
+      options:
+        - Support it
+        - Support it with changes
+        - Oppose it
+        - Just a question
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Your feedback
+      description: What works, what does not, and what would make it better?
+    validations:
+      required: true

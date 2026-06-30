@@ -1,0 +1,21 @@
+# Local AI / agent tooling — keep the public policy repo free of scaffolding.
+# These files guide local authoring only; they are never part of the framework.
+
+# Claude Code
+.claude/
+CLAUDE.md
+
+# Other assistants / agents
+AGENTS.md
+.codex
+.cursor/
+.cursorrules
+.aider*
+.github/copilot-instructions.md
+
+# Editor / OS cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

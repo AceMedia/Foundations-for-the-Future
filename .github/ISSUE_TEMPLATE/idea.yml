@@ -1,0 +1,27 @@
+name: Share an idea
+description: Suggest a new idea or an improvement to the framework
+title: "[Idea]: "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing. This is a living Green Paper and your ideas genuinely shape it.
+        You do not need to be an expert, and plain English is welcome.
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What should we do, and why does it matter?
+    validations:
+      required: true
+  - type: input
+    id: area
+    attributes:
+      label: Which area does it relate to?
+      description: For example housing, health, transport, tax. Leave blank if you are not sure.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or examples (optional)
+      description: Any sources, figures, or places this has worked. Real figures beat strong adjectives.

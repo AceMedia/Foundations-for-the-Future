@@ -21,7 +21,7 @@ This approach is fairer than blanket bans. Adults keep their freedom, harmful ma
 *[Read the detailed vice taxation and betterment framework](./vice-taxation-and-betterment.md)*  
 
 ## Bulk Food Provision
-We can reduce NHS demand through better nutrition. Government already purchases food in bulk for schools, prisons, and hospitals. Extending this to a universal baseline for all — free or subsidised healthy meals delivered locally — would cut obesity, diabetes, and long-term costs dramatically.
+We can reduce NHS demand through better nutrition. Government already purchases food in bulk for schools, prisons, and hospitals. Extending this to a universal baseline for all, with free or subsidised healthy meals delivered locally, would cut obesity, diabetes, and long-term costs dramatically.
 
 ## Well-being, Not Over-Control
 Moderate drinking and smoking in adulthood is not the government’s business. Health advice should remain strong, but fun and freedom are part of life. Public health succeeds when it educates, not when it controls.

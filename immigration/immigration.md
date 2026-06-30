@@ -98,7 +98,7 @@ Illegal employment remains a key pull factor. Over 60% of asylum seekers eventua
 - Strengthen voluntary digital verification systems for migrant work authorisation only
 - Increase employer fines to £50,000 per illegal worker for serious offences
 - Protect migrant workers who report exploitation from immigration enforcement
-- Create seasonal worker visas for agriculture and hospitality sectors, supporting the [bulk food procurement systems outlined in welfare reform](../welfare/welfare-and-wellbeing-reform.md) and contributing to regional economic renewal during peak farming and tourism seasons (see [detailed seasonal migration framework](./seasonal-migration.md))
+- Create seasonal worker visas for agriculture and hospitality sectors, supporting the [bulk food procurement systems outlined in welfare reform](../welfare/welfare-and-wellbeing-reform.md) and contributing to regional economic renewal during peak farming and tourism seasons. This should run as a genuine two-way exchange: Britain receives workers when it is short of hands, and helps its own people, including those in coastal towns with quiet winters, work seasons abroad in return, so the benefit and the cultural exchange flow both ways (see [detailed seasonal migration framework](./seasonal-migration.md))
 
 The Netherlands reduced illegal employment by 30% between 2018-2022 by focusing enforcement on exploitative employers rather than expanding checks on legal workers.
 
@@ -180,7 +180,7 @@ The political reward comes from demonstrable results: fewer dangerous crossings,
 
 Immigration challenges cannot be solved through rhetoric or symbolic gestures. They require sustained investment in processing capacity, diplomatic cooperation, and balanced policies that address both humanitarian obligations and public concerns about fairness and control.
 
-The evidence from comparable countries shows that a mixed approach works: expand legal routes, process claims quickly and fairly, target criminal networks, and remove incentives for irregular migration. This is neither "open borders" nor "fortress Britain" — it is practical policy that prioritises human dignity while maintaining public support.
+The evidence from comparable countries shows that a mixed approach works: expand legal routes, process claims quickly and fairly, target criminal networks, and remove incentives for irregular migration. This is neither "open borders" nor "fortress Britain". It is practical policy that prioritises human dignity while maintaining public support.
 
 The UK has the resources and expertise to implement such a system. What it needs is the political will to choose evidence over ideology and long-term solutions over short-term headlines. That includes rebuilding defence and aid capacity so Britain is stronger abroad, not just more expensive at home.
 

@@ -1,6 +1,6 @@
 # Bulk Food Procurement and Distribution: Building Food Security Through Smart Systems
 
-Britain wastes billions on inefficient food systems while millions go hungry. Food banks distribute nearly 3 million emergency parcels annually while the government already runs massive procurement operations for schools, hospitals, and prisons. The solution isn't more charity — it's smarter systems that deliver better nutrition at lower cost while supporting communities here and abroad.
+Britain wastes billions on inefficient food systems while millions go hungry. Food banks distribute nearly 3 million emergency parcels annually while the government already runs massive procurement operations for schools, hospitals, and prisons. The solution isn't more charity. It's smarter systems that deliver better nutrition at lower cost while supporting communities here and abroad.
 
 A national bulk food procurement system would transform how Britain feeds its people. By leveraging existing infrastructure and international partnerships, it can cut costs, reduce waste, improve health outcomes, and create fair trade relationships with countries that supply workers and refugees to the UK.
 
@@ -10,7 +10,7 @@ A national bulk food procurement system would transform how Britain feeds its pe
 
 Britain's food system is broken at every level. Households waste 6.6 million tonnes of food annually while 8.4 million people struggle to afford enough to eat. Food banks, once rare, now operate over 1,400 centres distributing emergency parcels that have tripled since 2012.
 
-Meanwhile, the state already operates massive food systems. The Government Buying Standards cover £2.4 billion in annual food procurement across schools, hospitals, prisons, and military facilities. These systems work well — they deliver consistent quality, maintain food safety standards, and achieve economies of scale that keep costs down.
+Meanwhile, the state already operates massive food systems. The Government Buying Standards cover £2.4 billion in annual food procurement across schools, hospitals, prisons, and military facilities. These systems work well. They deliver consistent quality, maintain food safety standards, and achieve economies of scale that keep costs down.
 
 The gap is obvious: extend proven bulk procurement to welfare recipients and struggling families instead of leaving them to shop retail on impossible budgets.
 
@@ -178,7 +178,7 @@ Britain can't continue depending on charity to feed its people while wasting bil
 
 The infrastructure exists. The expertise exists. International examples prove it works. What's needed is the political will to move from managing food poverty to preventing it through smart, systematic approaches that benefit everyone.
 
-By linking food procurement to immigration policy, international development, and community building, Britain can create a food system worthy of a modern, prosperous nation — one that feeds its people with dignity while building positive relationships across the world.
+By linking food procurement to immigration policy, international development, and community building, Britain can create a food system worthy of a modern, prosperous nation, one that feeds its people with dignity while building positive relationships across the world.
 
 ---
 

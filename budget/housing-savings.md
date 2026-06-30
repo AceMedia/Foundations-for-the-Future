@@ -23,7 +23,7 @@ This file collects **housing-related fiscal savings and avoided liabilities**. I
 
 | Mechanism                    | Baseline pressure          | Potential saving       | Linked detail    |
 |------------------------------|----------------------------|------------------------|------------------|
-| Temporary accommodation      | **£1.6 billion/yr** (LA spend):contentReference[oaicite:8]{index=8} | £0.6–£1.0 billion/yr  | Housing policy   |
+| Temporary accommodation      | **£2.3 billion/yr** (LA spend, 2023/24)[^ta-cost] | £0.6–£1.0 billion/yr  | Housing policy   |
 | HB leakage to PRS            | Multi-£bn annually         | £1.0–£2.0 billion/yr  | Housing policy   |
 | Safety failures (cladding etc.) | £5 billion+ historic bill | £0.3–£0.6 billion/yr *(avoided)* | Building standards |
 | Poor housing health costs    | NHS burden *(~£1.4 billion/yr)* | £0.3–£0.6 billion/yr  | Health (see **[health-savings.md](./health-savings.md)**) |
@@ -54,3 +54,9 @@ This file collects **housing-related fiscal savings and avoided liabilities**. I
 - Local authority case studies on TA costs.  
 - Model HB reallocation into capital spend.  
 - Lifetime cost analysis of cladding & safety.  
+
+---
+
+## References
+
+[^ta-cost]: Shelter (2024), *Homelessness bill doubles in five years to £2.3bn*. Councils in England spent £2.29bn on temporary accommodation in 2023/24, up 29% year-on-year. https://england.shelter.org.uk/media/press_release/homelessness_bill_doubles_in_five_years_to_2_3bn

@@ -2,13 +2,13 @@
 
 The welfare system in the United Kingdom has long been treated as a set of financial transactions: money is handed out to those in need, and they are expected to manage housing, food, bills, and everything else with that cash. This approach is simple, but simplicity can be deceptive. What looks efficient on paper is in fact deeply wasteful and damaging. It leaves too many people struggling to survive rather than providing the stability to live with dignity, grow in confidence, and eventually contribute back into the economy.  
 
-Welfare must not be reduced to a grudging safety net. It should be understood as an investment in people. And just as businesses invest in infrastructure to grow, the state must invest in human infrastructure — health, security, and well-being — if we are to fix the UK.  
+Welfare must not be reduced to a grudging safety net. It should be understood as an investment in people. And just as businesses invest in infrastructure to grow, the state must invest in human infrastructure (health, security, and well-being) if we are to fix the UK.  
 
 ---
 
 ## Housing must be guaranteed as a foundation, not left to the private rental market  
 
-Housing is the foundation of stability. Without secure housing, nothing else works. This was once a lesson Britain understood well. After the Second World War, successive governments launched large-scale council housing programmes. Between 1945 and 1951, over a million homes were built, providing millions of families with safety and security (Harris, 1999). These were not “handouts” — they were investments that paid off in social stability and economic growth.  
+Housing is the foundation of stability. Without secure housing, nothing else works. This was once a lesson Britain understood well. After the Second World War, successive governments launched large-scale council housing programmes. Between 1945 and 1951, over a million homes were built, providing millions of families with safety and security (Harris, 1999). These were not “handouts”. They were investments that paid off in social stability and economic growth.  
 
 Contrast that with today. Since the introduction of Right to Buy in 1980, 2.6 million council homes have been sold off, with only a fraction replaced (House of Commons Library, 2023). Today, Britain spends over **£23 billion per year on Housing Benefit**, much of which flows directly into the private rental sector (DWP, 2022). This is a transfer of wealth from the taxpayer to landlords, with no long-term benefit.  
 
@@ -20,13 +20,13 @@ A reformed welfare system should redirect this spending into council housing. Pe
 
 A house is only secure if it can be heated and lit. Yet fuel poverty remains widespread. In the winter of 2022, an estimated 3.26 million UK households were in “fuel poverty” (ONS, 2023). Cold homes are directly linked to excess winter deaths: in 2018/19, over 16,000 people died in England and Wales due to cold housing conditions (Public Health England, 2020).  
 
-Currently, welfare recipients are expected to budget for utilities, often at the mercy of volatile energy markets. A smarter approach would be to guarantee essential bills — electricity, gas, and water — within the welfare budget. This would not only prevent the human cost of cold homes but also reduce public spending on crisis measures. The NHS alone spends an estimated £1.3 billion per year treating illnesses linked to cold housing (Marmot Review, 2011). Covering essentials upfront is not indulgence; it is fiscal prudence.  
+Currently, welfare recipients are expected to budget for utilities, often at the mercy of volatile energy markets. A smarter approach would be to guarantee essential bills (electricity, gas, and water) within the welfare budget. This would not only prevent the human cost of cold homes but also reduce public spending on crisis measures. The NHS alone spends an estimated £1.3 billion per year treating illnesses linked to cold housing (Marmot Review, 2011). Covering essentials upfront is not indulgence; it is fiscal prudence.  
 
 ---
 
 ## Food provision should be delivered through bulk purchasing and tailored nutrition  
 
-Food insecurity is perhaps the clearest symbol of Britain’s failing welfare model. The rise of food banks — once rare — has become a permanent feature. The Trussell Trust distributed **2.99 million emergency food parcels in 2022/23**, more than double the number in 2015/16 (Trussell Trust, 2023). No wealthy country should tolerate such levels of hunger.  
+Food insecurity is perhaps the clearest symbol of Britain’s failing welfare model. The rise of food banks, once rare, has become a permanent feature. The Trussell Trust distributed **2.99 million emergency food parcels in 2022/23**, more than double the number in 2015/16 (Trussell Trust, 2023). No wealthy country should tolerate such levels of hunger.  
 
 At the same time, the state already manages vast bulk food systems. Schools, hospitals, prisons, and the armed forces all purchase and distribute food on a daily basis. These systems achieve economies of scale, keeping costs down and quality up. Extending them to households on welfare is a logical next step. Instead of leaving families to shop retail on tight budgets, food could be supplied centrally, using the same procurement systems.
 
@@ -34,7 +34,7 @@ At the same time, the state already manages vast bulk food systems. Schools, hos
 
 There are precedents abroad. Finland has provided free school meals since 1948, ensuring every child eats one balanced meal per day. The policy is credited with improving educational outcomes and reducing inequality (Simola, 2015). In Sweden, centralised food procurement for public institutions reduces costs and waste while maintaining high nutritional standards.  
 
-Nutritionists should be integrated into this process. The NHS already employs dieticians; their expertise could be extended to welfare households. Tailored food packages would prevent illnesses like type 2 diabetes, obesity, and malnutrition — conditions that together cost the NHS tens of billions annually (Public Health England, 2019). Better nutrition is one of the most cost-effective preventative health measures available.  
+Nutritionists should be integrated into this process. The NHS already employs dieticians; their expertise could be extended to welfare households. Tailored food packages would prevent illnesses like type 2 diabetes, obesity, and malnutrition, conditions that together cost the NHS tens of billions annually (Public Health England, 2019). Better nutrition is one of the most cost-effective preventative health measures available.  
 
 Bulk provision would also cut food waste. Currently, the UK wastes 9.5 million tonnes of food each year, with households responsible for 70% (WRAP, 2020). Centralised planning could reduce this drastically, freeing up resources for other uses.  
 
@@ -48,7 +48,7 @@ That is why I argue for a **dedicated well-being budget** within welfare. This a
 
 This is not charity; it is investment. Countries that take well-being seriously see returns in public health and productivity. France’s “chèques vacances” scheme, introduced in 1982, subsidises holidays and leisure for low-income families. Evaluations show that it reduces social exclusion and supports local economies (ANCV, 2018).  
 
-Some will argue this risks misuse. That is true of any system. But accountability mechanisms can be built in: persistent misuse of funds in ways that damage health — such as excessive junk food consumption despite medical advice — could lead to adjustments in future allocations. The goal is not punishment but positive reinforcement: nudging choices that build better lives.  
+Some will argue this risks misuse. That is true of any system. But accountability mechanisms can be built in: persistent misuse of funds in ways that damage health, such as excessive junk food consumption despite medical advice, could lead to adjustments in future allocations. The goal is not punishment but positive reinforcement: nudging choices that build better lives.  
 
 This connects to a broader principle elsewhere in this framework: adults will always seek comfort, especially in hard times. Government should not answer that fact with hypocrisy or futile prohibition. It should answer it with honesty. Regulated taxes on vices such as alcohol, tobacco, gambling, cannabis, and other legal recreational markets can help fund the healthier alternatives people also need: sports clubs, community spaces, counselling, arts access, local leisure, and well-being budgets. In other words, if vice carries a social cost, part of its price should be used to expand dignity, connection, and opportunity elsewhere.
 
@@ -103,7 +103,7 @@ In this context, welfare reform is not just about fairness. It is about national
 
 ---
 
-## The United Kingdom has reformed welfare before — it can do so again  
+## The United Kingdom has reformed welfare before, and it can do so again  
 
 This country has done bold welfare reform before. The Beveridge Report of 1942 identified five “giants” to slay: want, disease, ignorance, squalor, and idleness. Out of the ruins of war, Britain built the NHS, expanded education, and delivered mass housing. These were not small, timid policies. They were visionary, and they worked.  
 
