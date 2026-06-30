@@ -19,17 +19,23 @@
 Land has to do several jobs at once: grow our food, hold water back from towns, store carbon, and
 support nature. The system meant to manage that is mid-transition and struggling.
 
-**Farming is squeezed.** Margins are tight, prices are volatile, and the move away from the old
-area-based subsidies to a new system has left many farmers uncertain about how they will be paid.
+**Farming is squeezed.** Margins are tight, prices are volatile, and the move from area-based
+subsidies to the new Environmental Land Management schemes, within an agriculture budget of around
+£2.4 billion a year, has left many farmers uncertain about how they will be paid.[^agbudget]
 
-**Food security is exposed.** Britain imports a large share of its food, which leaves it
-vulnerable to shocks, and domestic production needs to be viable to be secure.
+**Food security is exposed.** Britain produces only around 60% of the food it consumes, so it is
+vulnerable to shocks, and domestic production has to be viable to be secure.[^foodsec]
 
-**Nature is in decline.** Britain is one of the more nature-depleted countries, with falling
-wildlife and degraded habitats.
+**Nature is in decline.** Britain is one of the most nature-depleted countries in the world: around
+one in six species is at risk of being lost, and species abundance has fallen by about a fifth since
+1970.[^nature]
 
 **Flooding and water are linked to land.** How land upstream is managed shapes flood risk and
 river health downstream, connecting directly to [water and utilities](./water-and-utilities.md).
+
+**Land is being asked to do everything at once.** Food, nature, flood storage, carbon, housing, and
+now solar and wind all compete for the same finite land, with no framework to arbitrate between them,
+so decisions are made plot by plot rather than strategically.
 
 **The do-nothing baseline.** Leave this and farming stays precarious, food security weakens,
 nature keeps declining, and flood bills rise, while the subsidy transition drifts.
@@ -79,6 +85,10 @@ squeezed out. **Recommended.**
    towns, reducing the flood bill.
 5. **Hold polluters to account.** Apply real duties and penalties for pollution of land and water,
    alongside the water-ownership reforms.
+6. **A national land-use framework.** Plan how land meets competing demands, food, nature, flood
+   storage, carbon, energy, and housing, so the trade-offs are made openly and strategically rather
+   than by accident, connecting to [energy](../energy/energy-and-net-zero.md),
+   [housing](../housing/housing-policy.md), and [water](./water-and-utilities.md).
 
 ---
 
@@ -116,3 +126,16 @@ the budget files.
 2. What would most improve food security without harming nature?
 3. Where should upstream flood management be targeted?
 4. How do we keep the schemes simple enough for small and tenant farmers?
+5. How should a national land-use framework arbitrate between food, nature, energy, and housing?
+
+---
+
+## References
+
+[^agbudget]: DEFRA, *Agricultural Transition Plan*. The England farming budget is around £2.4 billion a
+year, transitioning from area-based payments to Environmental Land Management schemes. https://www.gov.uk/government/publications/agricultural-transition-plan-2021-to-2024
+[^foodsec]: DEFRA, *United Kingdom Food Security Report*. Britain produces around 60% of the food it
+consumes (and about 75% of the food it can grow domestically). https://www.gov.uk/government/statistics/united-kingdom-food-security-report-2024
+[^nature]: State of Nature Partnership (2023). The UK is one of the most nature-depleted countries;
+around one in six species is at risk of extinction in Great Britain, and species abundance has fallen
+by about 19% on average since 1970. https://stateofnature.org.uk/

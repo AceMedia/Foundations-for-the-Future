@@ -36,6 +36,15 @@ healthcare, and family.
 more than one train in twenty, and Northern's punctuality sat around 69% against a national
 average of 86%.[^northern-rail] A railway people cannot rely on is one they stop using.
 
+**The railway's structure is a mess.** Years of fragmented franchising left a railway that is
+expensive, complicated, and hard to hold to account. Passenger services are now being brought back
+into public ownership under Great British Railways, which is the right direction; the task is to make
+it deliver lower fares and reliability, not just a new name.
+
+**The motoring tax base is disappearing.** Fuel duty raises around £24 billion a year, but the switch
+to electric vehicles is set to cut that toward £12 billion in the 2030s and to almost nothing by 2050,
+a structural hole that must be filled fairly.[^fuelduty]
+
 **The North trades as separate towns, not one market.** Manchester, Leeds, Liverpool,
 Sheffield, and Newcastle sit close together but are poorly linked, so the North never gets
 the agglomeration benefits that make London productive. This is the connectivity gap behind
@@ -108,12 +117,18 @@ get more from the network, and megaprojects judged case by case rather than as t
    vehicles does not stall.
 6. **Active travel where it fits.** Safe walking and cycling routes in towns and cities,
    chosen on merit rather than imposed everywhere.
+7. **A publicly owned railway that delivers.** Make Great British Railways work for passengers, with
+   simpler fares, reliable services, and clear accountability, on the same public-ownership logic the
+   framework applies to other natural monopolies (see [water](../environment/water-and-utilities.md)).
+8. **A fair replacement for fuel duty.** As fuel duty fades with the switch to electric vehicles,
+   design a transparent, pay-as-you-drive road-pricing system (the eVED mileage charge begins in 2028)
+   so motoring tax is sustainable and fair rather than a cliff edge.[^fuelduty]
 
 ---
 
 ## Costs and benefits
 
-Detailed costings will be set in the dedicated budget pass and a matching
+Detailed costings live in the budget files, including a matching
 `budget/transport.md` file. The core argument is that reliable everyday transport and
 better northern connectivity are among the highest-return investments available for closing
 the regional productivity gap, while a cleared maintenance backlog avoids the far higher
@@ -157,11 +172,16 @@ national funding and standards, in line with the devolution argument in
 3. What is the right first phase for northern east-west rail?
 4. How should fares be reformed to be simpler and fairer without losing revenue?
 5. Who should pay for charging infrastructure, and how do we make sure it reaches everyone?
+6. How do we make a publicly owned railway deliver lower fares and reliability?
+7. What is the fairest way to replace fuel duty as vehicles go electric?
 
 ---
 
 ## References
 
+[^fuelduty]: Office for Budget Responsibility, *Fuel duties*. Fuel duty raises around £24bn a year and
+is projected to fall toward £12bn in the 2030s and to near zero by 2050 as vehicles go electric; an
+Electric Vehicle Excise Duty (a per-mile charge) begins in April 2028. https://obr.uk/forecasts-in-depth/tax-by-tax-spend-by-spend/fuel-duties/
 [^roads]: Asphalt Industry Alliance, *ALARM survey 2026*. The local road repair backlog in England and Wales reached about £18.6bn, an estimated twelve years of work, with nearly one in six local roads having under five years of structural life remaining. https://www.highwaysindustry.com/alarm-survey-reveals-local-roads-in-england-and-wales-face-over-18bn-repair-backlog/
 [^buses]: Department for Transport, *Annual bus statistics, year ending March 2025*, and the House of Commons Transport Committee. Local bus journeys outside London fell from about 4.6 billion in 2009 to 3.6 billion in 2024, council-supported mileage roughly halved, and local authority financial support fell by around 38% between 2010-11 and 2018-19. https://www.gov.uk/government/statistics/annual-bus-statistics-year-ending-march-2025/annual-bus-statistics-year-ending-march-2025
 [^northern-rail]: Rail Magazine / Transport for the North (2024), *Northern under fire by TfN on poor performance*. In 2024 Northern and TransPennine Express each cancelled more than one train in twenty, with Northern three-minute punctuality around 69% against a national average of 86%. https://www.railmagazine.com/news/2024/11/20/northern-under-fire-by-tfn-on-poor-performance
